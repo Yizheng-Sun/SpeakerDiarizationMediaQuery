@@ -1,0 +1,5865 @@
+{
+  "diarization_results": [
+    {
+      "start": 0.21659375000000003,
+      "end": 2.27534375,
+      "speaker": "SPEAKER_03",
+      "text": "Biscuits there, Martin. Here we go."
+    },
+    {
+      "start": 0.25034375000000003,
+      "end": 0.8072187500000001,
+      "speaker": "SPEAKER_00",
+      "text": "Biscuits that"
+    },
+    {
+      "start": 2.27534375,
+      "end": 2.29221875,
+      "speaker": "SPEAKER_07",
+      "text": "you"
+    },
+    {
+      "start": 40.21034375,
+      "end": 41.813468750000006,
+      "speaker": "SPEAKER_06",
+      "text": "It really stinks in here, doesn't it?"
+    },
+    {
+      "start": 42.252218750000004,
+      "end": 47.44971875,
+      "speaker": "SPEAKER_11",
+      "text": "I'm still not sure about this, guys. He's a bit late for that now, isn't he? This place is actually safe."
+    },
+    {
+      "start": 48.765968750000006,
+      "end": 49.76159375,
+      "speaker": "SPEAKER_06",
+      "text": "What's on your fire?"
+    },
+    {
+      "start": 50.84159375,
+      "end": 52.19159375,
+      "speaker": "SPEAKER_06",
+      "text": "I can do nothing."
+    },
+    {
+      "start": 55.16159375,
+      "end": 57.524093750000006,
+      "speaker": "SPEAKER_06",
+      "text": "Just needs a bit of fresh liquor paint."
+    },
+    {
+      "start": 58.469093750000006,
+      "end": 59.07659375,
+      "speaker": "SPEAKER_06",
+      "text": "They're fine."
+    },
+    {
+      "start": 86.04284375,
+      "end": 86.88659375,
+      "speaker": "SPEAKER_06",
+      "text": "It's not neat."
+    },
+    {
+      "start": 87.96659375,
+      "end": 89.08034375000001,
+      "speaker": "SPEAKER_11",
+      "text": "Who's Nick? Don't son."
+    },
+    {
+      "start": 90.07596875,
+      "end": 90.53159375,
+      "speaker": "SPEAKER_11",
+      "text": "Right there."
+    },
+    {
+      "start": 91.30784375,
+      "end": 93.29909375000001,
+      "speaker": "SPEAKER_11",
+      "text": "You can see the way that it's going."
+    },
+    {
+      "start": 94.15971875000001,
+      "end": 95.96534375,
+      "speaker": "SPEAKER_11",
+      "text": "You ain't doing too much now, mate."
+    },
+    {
+      "start": 96.96096875,
+      "end": 99.23909375000001,
+      "speaker": "SPEAKER_06",
+      "text": "I thought we died ages ago."
+    },
+    {
+      "start": 99.94784375,
+      "end": 100.92659375000001,
+      "speaker": "SPEAKER_11",
+      "text": "Don't look like him."
+    },
+    {
+      "start": 102.64784375,
+      "end": 103.57596875,
+      "speaker": "SPEAKER_11",
+      "text": "They're called a police."
+    },
+    {
+      "start": 104.47034375000001,
+      "end": 105.88784375,
+      "speaker": "SPEAKER_06",
+      "text": "I need this next door."
+    },
+    {
+      "start": 105.90471875,
+      "end": 107.18721875,
+      "speaker": "SPEAKER_11",
+      "text": "Then sort this mess out."
+    },
+    {
+      "start": 107.37284375,
+      "end": 110.24159375,
+      "speaker": "SPEAKER_06",
+      "text": "No, why would he be squatting if he's mum's only?"
+    },
+    {
+      "start": 113.98784375000001,
+      "end": 114.37596875000001,
+      "speaker": "SPEAKER_06",
+      "text": "No."
+    },
+    {
+      "start": 115.01721875000001,
+      "end": 117.97034375000001,
+      "speaker": "SPEAKER_06",
+      "text": "Stays, we did. No, this ain't right. Well, we can see that, Stays."
+    },
+    {
+      "start": 117.97034375000001,
+      "end": 118.45971875000001,
+      "speaker": "SPEAKER_11",
+      "text": "Come on."
+    },
+    {
+      "start": 118.45971875000001,
+      "end": 120.43409375,
+      "speaker": "SPEAKER_06",
+      "text": "Just don't do anything. I need to speak to Dott."
+    },
+    {
+      "start": 133.88346875000002,
+      "end": 137.69721875000002,
+      "speaker": "SPEAKER_05",
+      "text": "Okay, I think we all need to calm down. One of us?"
+    },
+    {
+      "start": 137.83221875,
+      "end": 143.18159375000002,
+      "speaker": "SPEAKER_09",
+      "text": "It has to be. What are you talking about? It was here. Everything happened here. Peter, for goodness sake."
+    },
+    {
+      "start": 144.37971875,
+      "end": 145.03784375,
+      "speaker": "SPEAKER_09",
+      "text": "She told you."
+    },
+    {
+      "start": 145.91534375,
+      "end": 147.63659375,
+      "speaker": "SPEAKER_09",
+      "text": "What? Lauren said she told you."
+    },
+    {
+      "start": 148.21034375000002,
+      "end": 156.29346875000002,
+      "speaker": "SPEAKER_09",
+      "text": "Oh, she didn't tell me. Not exactly. She gave me a card. What card? What did he say? It said that Lucy was killed in this house. I saw it must have been someone who was here."
+    },
+    {
+      "start": 157.27221875,
+      "end": 158.04846875,
+      "speaker": "SPEAKER_05",
+      "text": "Well, think about it."
+    },
+    {
+      "start": 159.41534375,
+      "end": 161.18721875,
+      "speaker": "SPEAKER_05",
+      "text": "I was only here in Cindy living here at the time."
+    },
+    {
+      "start": 163.87034375000002,
+      "end": 164.71409375000002,
+      "speaker": "SPEAKER_03",
+      "text": "And niece."
+    },
+    {
+      "start": 165.67596875,
+      "end": 166.99221875,
+      "speaker": "SPEAKER_03",
+      "text": "She was living here then too."
+    },
+    {
+      "start": 168.44346875000002,
+      "end": 169.50659375,
+      "speaker": "SPEAKER_03",
+      "text": "Look, I want to see this card."
+    },
+    {
+      "start": 169.54034375,
+      "end": 170.33346875,
+      "speaker": "SPEAKER_09",
+      "text": "Never mind that."
+    },
+    {
+      "start": 171.07596875000002,
+      "end": 171.95346875,
+      "speaker": "SPEAKER_09",
+      "text": "Denise is in the Vic."
+    },
+    {
+      "start": 172.89846875,
+      "end": 173.16846875000002,
+      "speaker": "SPEAKER_09",
+      "text": "Dad?"
+    },
+    {
+      "start": 176.56034375000002,
+      "end": 177.16784375,
+      "speaker": "SPEAKER_09",
+      "text": "I don't get it."
+    },
+    {
+      "start": 177.99471875,
+      "end": 180.03659375,
+      "speaker": "SPEAKER_09",
+      "text": "What's the matter with you? Why do you want to do something?"
+    },
+    {
+      "start": 181.90971875000002,
+      "end": 183.90096875,
+      "speaker": "SPEAKER_09",
+      "text": "Or if you won't, I will. I'm going over there."
+    },
+    {
+      "start": 183.90096875,
+      "end": 184.40721875,
+      "speaker": "SPEAKER_05",
+      "text": "Here, no."
+    },
+    {
+      "start": 187.42784375000002,
+      "end": 191.71409375000002,
+      "speaker": "SPEAKER_05",
+      "text": "You can't just go around accusing someone of something like this, especially Denise."
+    },
+    {
+      "start": 191.37659375,
+      "end": 195.73034375,
+      "speaker": "SPEAKER_03",
+      "text": "Lauren wouldn't have just said all that because she felt like it. Okay, she must have had a reason."
+    },
+    {
+      "start": 195.56159375000001,
+      "end": 195.57846875,
+      "speaker": "SPEAKER_05",
+      "text": "you"
+    },
+    {
+      "start": 195.57846875,
+      "end": 198.70034375,
+      "speaker": "SPEAKER_09",
+      "text": "She said she found something. Something Summer Hayes had been working on."
+    },
+    {
+      "start": 198.70034375,
+      "end": 199.00409375,
+      "speaker": "SPEAKER_03",
+      "text": "more."
+    },
+    {
+      "start": 199.88159375,
+      "end": 201.21471875,
+      "speaker": "SPEAKER_09",
+      "text": "Well, I don't know. Not exactly."
+    },
+    {
+      "start": 202.22721875000002,
+      "end": 203.12159375000002,
+      "speaker": "SPEAKER_03",
+      "text": "Come and get her then."
+    },
+    {
+      "start": 204.31971875000002,
+      "end": 205.01159375,
+      "speaker": "SPEAKER_09",
+      "text": "She's not here."
+    },
+    {
+      "start": 205.46721875,
+      "end": 206.53034375000001,
+      "speaker": "SPEAKER_03",
+      "text": "Where is she?"
+    },
+    {
+      "start": 208.26846875,
+      "end": 209.44971875000002,
+      "speaker": "SPEAKER_09",
+      "text": "What were we talking about lowering for?"
+    },
+    {
+      "start": 210.27659375000002,
+      "end": 211.91346875000002,
+      "speaker": "SPEAKER_09",
+      "text": "Dad Denise"
+    },
+    {
+      "start": 228.45096875000002,
+      "end": 228.82221875000002,
+      "speaker": "SPEAKER_01",
+      "text": "Woo!"
+    },
+    {
+      "start": 230.32409375,
+      "end": 231.75846875000002,
+      "speaker": "SPEAKER_01",
+      "text": "I'm having to in and Jane."
+    },
+    {
+      "start": 233.02409375000002,
+      "end": 234.27284375000002,
+      "speaker": "SPEAKER_01",
+      "text": "Maybe there was a problem."
+    },
+    {
+      "start": 235.16721875000002,
+      "end": 241.25909375,
+      "speaker": "SPEAKER_01",
+      "text": "When you saw her face when the registrar said to say, I do, she didn't exactly blush, just like, yes, did she?"
+    },
+    {
+      "start": 252.16034375,
+      "end": 252.97034375,
+      "speaker": "SPEAKER_04",
+      "text": "Very good."
+    },
+    {
+      "start": 256.00784375,
+      "end": 256.68284375,
+      "speaker": "SPEAKER_02",
+      "text": "I'm not ashamed."
+    },
+    {
+      "start": 258.01596875,
+      "end": 258.03284375000004,
+      "speaker": "SPEAKER_04",
+      "text": "you"
+    },
+    {
+      "start": 258.03284375000004,
+      "end": 258.50534375,
+      "speaker": "SPEAKER_00",
+      "text": "What?"
+    },
+    {
+      "start": 259.50096875,
+      "end": 261.30659375,
+      "speaker": "SPEAKER_02",
+      "text": "I'm not saying anything your mum doesn't know."
+    },
+    {
+      "start": 263.14596875,
+      "end": 264.74909375000004,
+      "speaker": "SPEAKER_00",
+      "text": "What do you think he's doing?"
+    },
+    {
+      "start": 264.96846875,
+      "end": 267.16221875,
+      "speaker": "SPEAKER_02",
+      "text": "No, just don't. Keep your head in here."
+    },
+    {
+      "start": 267.70221875000004,
+      "end": 269.05221875,
+      "speaker": "SPEAKER_02",
+      "text": "I'm gonna have a part of the square."
+    },
+    {
+      "start": 273.10221875,
+      "end": 273.77721875000003,
+      "speaker": "SPEAKER_06",
+      "text": "She's not in."
+    },
+    {
+      "start": 274.13159375000004,
+      "end": 275.26221875000005,
+      "speaker": "SPEAKER_10",
+      "text": "That's the place Cush is right."
+    },
+    {
+      "start": 276.13971875000004,
+      "end": 277.03409375,
+      "speaker": "SPEAKER_10",
+      "text": "What's going on here?"
+    },
+    {
+      "start": 277.69221875,
+      "end": 282.87284375,
+      "speaker": "SPEAKER_10",
+      "text": "What do you think it's called? It's called a police. You don't think it's weird? It's not cotton. Of course it's weird. It's nothing to do with us."
+    },
+    {
+      "start": 283.63221875,
+      "end": 286.26471875000004,
+      "speaker": "SPEAKER_10",
+      "text": "And long we don't do anything about it, then all the police gonna wonder why."
+    },
+    {
+      "start": 289.21784375000004,
+      "end": 289.72409375,
+      "speaker": "SPEAKER_06",
+      "text": "Yeah."
+    },
+    {
+      "start": 291.86721875,
+      "end": 292.86284375,
+      "speaker": "SPEAKER_06",
+      "text": "Yeah, okay."
+    },
+    {
+      "start": 298.58346875,
+      "end": 299.14034375,
+      "speaker": "SPEAKER_11",
+      "text": "What do you do?"
+    },
+    {
+      "start": 313.06221875,
+      "end": 313.73721875,
+      "speaker": "SPEAKER_11",
+      "text": "How did you..."
+    },
+    {
+      "start": 313.39971875000003,
+      "end": 316.89284375,
+      "speaker": "SPEAKER_06",
+      "text": "We were just seeing where it was like for Cat and the Boys."
+    },
+    {
+      "start": 318.86721875,
+      "end": 319.42409375,
+      "speaker": "SPEAKER_06",
+      "text": "Johnny."
+    },
+    {
+      "start": 321.51659375,
+      "end": 321.87096875000003,
+      "speaker": "SPEAKER_11",
+      "text": "No."
+    },
+    {
+      "start": 321.68534375,
+      "end": 323.65971875,
+      "speaker": "SPEAKER_06",
+      "text": "No one else has been here, is it? It's just us."
+    },
+    {
+      "start": 322.71471875000003,
+      "end": 324.57096875,
+      "speaker": "SPEAKER_11",
+      "text": "It was just us. It was all boarded up."
+    },
+    {
+      "start": 325.27971875000003,
+      "end": 327.23721875,
+      "speaker": "SPEAKER_06",
+      "text": "Charlie, what are you doing?"
+    },
+    {
+      "start": 328.68846875,
+      "end": 329.48159375,
+      "speaker": "SPEAKER_06",
+      "text": "Yes, Tacey."
+    },
+    {
+      "start": 332.46846875,
+      "end": 333.07596875,
+      "speaker": "SPEAKER_06",
+      "text": "You know."
+    },
+    {
+      "start": 335.84346875,
+      "end": 336.88971875000004,
+      "speaker": "SPEAKER_06",
+      "text": "You knew he was here."
+    },
+    {
+      "start": 347.99346875000003,
+      "end": 349.27596875,
+      "speaker": "SPEAKER_09",
+      "text": "You can't just sit here."
+    },
+    {
+      "start": 350.76096875,
+      "end": 352.49909375000004,
+      "speaker": "SPEAKER_05",
+      "text": "So what Denise was like when it happened?"
+    },
+    {
+      "start": 353.12346875000003,
+      "end": 354.84471875,
+      "speaker": "SPEAKER_05",
+      "text": "She was like the rest of us. She was in bits."
+    },
+    {
+      "start": 355.50284375,
+      "end": 356.71784375000004,
+      "speaker": "SPEAKER_09",
+      "text": "But you see that all the time though."
+    },
+    {
+      "start": 357.52784375000005,
+      "end": 359.45159375000003,
+      "speaker": "SPEAKER_09",
+      "text": "People do something and then they pretend they haven't."
+    },
+    {
+      "start": 360.32909375,
+      "end": 361.39221875000004,
+      "speaker": "SPEAKER_09",
+      "text": "people believe them too."
+    },
+    {
+      "start": 363.16409375,
+      "end": 365.88096875,
+      "speaker": "SPEAKER_05",
+      "text": "you're there to just march into the walk up to the nation."
+    },
+    {
+      "start": 365.15534375000004,
+      "end": 368.63159375000004,
+      "speaker": "SPEAKER_08",
+      "text": "Yes, that's exactly what I'm gonna do. But just me."
+    },
+    {
+      "start": 369.61034375,
+      "end": 370.25159375000004,
+      "speaker": "SPEAKER_08",
+      "text": "Not you, okay?"
+    },
+    {
+      "start": 370.79159375,
+      "end": 371.12909375000004,
+      "speaker": "SPEAKER_05",
+      "text": "in."
+    },
+    {
+      "start": 372.20909375,
+      "end": 372.96846875,
+      "speaker": "SPEAKER_05",
+      "text": "Think about this."
+    },
+    {
+      "start": 373.69409375000004,
+      "end": 374.68971875,
+      "speaker": "SPEAKER_08",
+      "text": "I don't need to think about it."
+    },
+    {
+      "start": 375.82034375,
+      "end": 377.00159375000004,
+      "speaker": "SPEAKER_08",
+      "text": "I'll know in a minute, I ask her."
+    },
+    {
+      "start": 378.09846875000005,
+      "end": 379.00971875000005,
+      "speaker": "SPEAKER_08",
+      "text": "I'll see it in her eyes."
+    },
+    {
+      "start": 397.20096875,
+      "end": 398.65221875000003,
+      "speaker": "SPEAKER_11",
+      "text": "Ha ha ha ha!"
+    },
+    {
+      "start": 398.65221875000003,
+      "end": 398.77034375000005,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 398.77034375000005,
+      "end": 398.80409375000005,
+      "speaker": "SPEAKER_10",
+      "text": "you"
+    },
+    {
+      "start": 399.63096875,
+      "end": 400.01909375,
+      "speaker": "SPEAKER_10",
+      "text": "Thank you."
+    },
+    {
+      "start": 400.01909375,
+      "end": 400.08659375,
+      "speaker": "SPEAKER_11",
+      "text": "you"
+    },
+    {
+      "start": 400.08659375,
+      "end": 400.20471875000004,
+      "speaker": "SPEAKER_10",
+      "text": "you"
+    },
+    {
+      "start": 411.10596875000005,
+      "end": 413.83971875000003,
+      "speaker": "SPEAKER_04",
+      "text": "So what do we do now? Well, you heard Ab. She's..."
+    },
+    {
+      "start": 415.86471875,
+      "end": 418.31159375000004,
+      "speaker": "SPEAKER_04",
+      "text": "My little girl, what's happened to her?"
+    },
+    {
+      "start": 419.62784375,
+      "end": 421.04534375000003,
+      "speaker": "SPEAKER_02",
+      "text": "what you're trying to say and what it's all my fault."
+    },
+    {
+      "start": 421.95659375,
+      "end": 424.30221875,
+      "speaker": "SPEAKER_04",
+      "text": "I didn't say that. I didn't mean that either."
+    },
+    {
+      "start": 428.33534375000005,
+      "end": 429.75284375,
+      "speaker": "SPEAKER_04",
+      "text": "Remember when she wanted to be over there."
+    },
+    {
+      "start": 452.83784375000005,
+      "end": 453.25971875000005,
+      "speaker": "SPEAKER_08",
+      "text": "I'm in."
+    },
+    {
+      "start": 453.93471875,
+      "end": 455.21721875000003,
+      "speaker": "SPEAKER_08",
+      "text": "Not now, Mike."
+    },
+    {
+      "start": 455.80784375,
+      "end": 457.78221875,
+      "speaker": "SPEAKER_08",
+      "text": "Tell Mick I'll be in a bit. We've got a problem."
+    },
+    {
+      "start": 461.19096875,
+      "end": 461.76471875000004,
+      "speaker": "SPEAKER_08",
+      "text": "We grew up here."
+    },
+    {
+      "start": 462.92909375000005,
+      "end": 463.21596875,
+      "speaker": "SPEAKER_08",
+      "text": "What?"
+    },
+    {
+      "start": 464.17784375,
+      "end": 464.58284375000005,
+      "speaker": "SPEAKER_08",
+      "text": "You're me."
+    },
+    {
+      "start": 466.59096875000006,
+      "end": 467.43471875000006,
+      "speaker": "SPEAKER_08",
+      "text": "No more place."
+    },
+    {
+      "start": 468.86909375000005,
+      "end": 469.72971875,
+      "speaker": "SPEAKER_08",
+      "text": "Don't move families."
+    },
+    {
+      "start": 472.64909375,
+      "end": 473.35784375000003,
+      "speaker": "SPEAKER_08",
+      "text": "Memoanda it."
+    },
+    {
+      "start": 473.35784375000003,
+      "end": 473.39159375,
+      "speaker": "SPEAKER_10",
+      "text": "you"
+    },
+    {
+      "start": 475.56846875,
+      "end": 475.58534375000005,
+      "speaker": "SPEAKER_08",
+      "text": "you"
+    },
+    {
+      "start": 475.58534375000005,
+      "end": 476.15909375,
+      "speaker": "SPEAKER_10",
+      "text": "And I walk."
+    },
+    {
+      "start": 483.28034375000004,
+      "end": 486.18284375,
+      "speaker": "SPEAKER_10",
+      "text": "Five minutes. There's nothing to do with a wedding. It's done."
+    },
+    {
+      "start": 488.19096875,
+      "end": 488.56221875000006,
+      "speaker": "SPEAKER_10",
+      "text": "Stop."
+    },
+    {
+      "start": 492.66284375000004,
+      "end": 493.23659375000005,
+      "speaker": "SPEAKER_09",
+      "text": "or silent."
+    },
+    {
+      "start": 499.39596875,
+      "end": 499.61534375,
+      "speaker": "SPEAKER_07",
+      "text": "Huh?"
+    },
+    {
+      "start": 501.38721875000005,
+      "end": 502.43346875000003,
+      "speaker": "SPEAKER_07",
+      "text": "I'm gonna make it for."
+    },
+    {
+      "start": 502.99034375,
+      "end": 504.15471875000003,
+      "speaker": "SPEAKER_00",
+      "text": "So you can start talking."
+    },
+    {
+      "start": 505.47096875000005,
+      "end": 506.97284375000004,
+      "speaker": "SPEAKER_00",
+      "text": "But for starters, where have you been? What have you been doing?"
+    },
+    {
+      "start": 512.71034375,
+      "end": 513.55409375,
+      "speaker": "SPEAKER_00",
+      "text": "That's a lot of money."
+    },
+    {
+      "start": 514.51596875,
+      "end": 517.09784375,
+      "speaker": "SPEAKER_07",
+      "text": "I should have been double that. I had expenses but sir."
+    },
+    {
+      "start": 517.63784375,
+      "end": 519.0890937500001,
+      "speaker": "SPEAKER_07",
+      "text": "I'm not going to spend any more where I come from."
+    },
+    {
+      "start": 519.29159375,
+      "end": 520.15221875,
+      "speaker": "SPEAKER_00",
+      "text": "Plenty more of what?"
+    },
+    {
+      "start": 520.9284687500001,
+      "end": 521.7553437500001,
+      "speaker": "SPEAKER_00",
+      "text": "Living like this."
+    },
+    {
+      "start": 522.85221875,
+      "end": 526.05846875,
+      "speaker": "SPEAKER_00",
+      "text": "My gut's twisting into a knot every time they'll build. Pull up on the square."
+    },
+    {
+      "start": 526.05846875,
+      "end": 529.2140937500001,
+      "speaker": "SPEAKER_07",
+      "text": "Oh, he didn't marry a quiet boy, Sharon, as long as that's really a shock, is it?"
+    },
+    {
+      "start": 529.2140937500001,
+      "end": 530.69909375,
+      "speaker": "SPEAKER_00",
+      "text": "I didn't want to marry a choir boy."
+    },
+    {
+      "start": 530.69909375,
+      "end": 532.99409375,
+      "speaker": "SPEAKER_07",
+      "text": "as well because you've not exactly been an angel. I wanted to"
+    },
+    {
+      "start": 532.40346875,
+      "end": 534.52971875,
+      "speaker": "SPEAKER_00",
+      "text": "I wanted to marry a man I could count on."
+    },
+    {
+      "start": 535.0359687499999,
+      "end": 536.2509687500001,
+      "speaker": "SPEAKER_00",
+      "text": "Who'd be there for us?"
+    },
+    {
+      "start": 538.00596875,
+      "end": 540.2165937500001,
+      "speaker": "SPEAKER_00",
+      "text": "I hate it for living like this."
+    },
+    {
+      "start": 541.6340937500001,
+      "end": 543.5747187500001,
+      "speaker": "SPEAKER_00",
+      "text": "seeing you in prison all beaten up."
+    },
+    {
+      "start": 544.51971875,
+      "end": 544.9753437500001,
+      "speaker": "SPEAKER_07",
+      "text": "knowing."
+    },
+    {
+      "start": 545.73471875,
+      "end": 547.01721875,
+      "speaker": "SPEAKER_00",
+      "text": "So this time what about the next?"
+    },
+    {
+      "start": 548.16471875,
+      "end": 552.94034375,
+      "speaker": "SPEAKER_07",
+      "text": "You stick to your business, okay? And I'll stick the sword out, Max and the mess you made of mine."
+    },
+    {
+      "start": 553.8347187500001,
+      "end": 556.85534375,
+      "speaker": "SPEAKER_07",
+      "text": "What do you want me to do, Sharon? We named that my allotment, I got gardening."
+    },
+    {
+      "start": 556.70346875,
+      "end": 558.57659375,
+      "speaker": "SPEAKER_00",
+      "text": "I want you to run your businesses."
+    },
+    {
+      "start": 559.15034375,
+      "end": 563.16659375,
+      "speaker": "SPEAKER_00",
+      "text": "Do your deals. Just keep right away from the sort of stuff that's gonna put you back in the neck."
+    },
+    {
+      "start": 563.2678437500001,
+      "end": 563.2847187500001,
+      "speaker": "SPEAKER_07",
+      "text": "you"
+    },
+    {
+      "start": 563.2847187500001,
+      "end": 564.58409375,
+      "speaker": "SPEAKER_00",
+      "text": "Nothing about it. No Phil."
+    },
+    {
+      "start": 565.3940937500001,
+      "end": 566.03534375,
+      "speaker": "SPEAKER_00",
+      "text": "You do it."
+    },
+    {
+      "start": 567.97596875,
+      "end": 568.3640937499999,
+      "speaker": "SPEAKER_00",
+      "text": "Oh"
+    },
+    {
+      "start": 568.3640937499999,
+      "end": 568.38096875,
+      "speaker": "SPEAKER_11",
+      "text": "you"
+    },
+    {
+      "start": 569.1572187500001,
+      "end": 569.6128437500001,
+      "speaker": "SPEAKER_00",
+      "text": "I told you."
+    },
+    {
+      "start": 570.4734687499999,
+      "end": 571.51971875,
+      "speaker": "SPEAKER_00",
+      "text": "I can't live like this."
+    },
+    {
+      "start": 572.3972187500001,
+      "end": 574.4897187500001,
+      "speaker": "SPEAKER_00",
+      "text": "No, I won't live like this."
+    },
+    {
+      "start": 575.3840937500001,
+      "end": 577.2234687499999,
+      "speaker": "SPEAKER_00",
+      "text": "And if you tell me I have to, then I will walk."
+    },
+    {
+      "start": 577.94909375,
+      "end": 580.63221875,
+      "speaker": "SPEAKER_00",
+      "text": "Away from you, from the Albert, everything. We're through."
+    },
+    {
+      "start": 582.6740937500001,
+      "end": 584.1084687499999,
+      "speaker": "SPEAKER_07",
+      "text": "I'm coming this turn out to be."
+    },
+    {
+      "start": 584.8003437500001,
+      "end": 585.30659375,
+      "speaker": "SPEAKER_07",
+      "text": "It could be."
+    },
+    {
+      "start": 586.92284375,
+      "end": 587.59784375,
+      "speaker": "SPEAKER_06",
+      "text": "That's up to you."
+    },
+    {
+      "start": 587.0278437500001,
+      "end": 587.61471875,
+      "speaker": "SPEAKER_07",
+      "text": "up to you."
+    },
+    {
+      "start": 587.70284375,
+      "end": 587.7197187500001,
+      "speaker": "SPEAKER_00",
+      "text": "you"
+    },
+    {
+      "start": 603.89909375,
+      "end": 605.63721875,
+      "speaker": "SPEAKER_06",
+      "text": "I don't seem that surprised by all this."
+    },
+    {
+      "start": 604.00409375,
+      "end": 605.7590937500001,
+      "speaker": "SPEAKER_10",
+      "text": "I don't think that's surprised by all this."
+    },
+    {
+      "start": 606.43034375,
+      "end": 607.49346875,
+      "speaker": "SPEAKER_06",
+      "text": "Well, he's dicey, was."
+    },
+    {
+      "start": 606.53534375,
+      "end": 607.63221875,
+      "speaker": "SPEAKER_10",
+      "text": "It was me, Stacey was."
+    },
+    {
+      "start": 607.64534375,
+      "end": 609.09659375,
+      "speaker": "SPEAKER_06",
+      "text": "She fucked Nick died months ago."
+    },
+    {
+      "start": 607.7334687499999,
+      "end": 609.21846875,
+      "speaker": "SPEAKER_10",
+      "text": "She fucked Nick died months ago."
+    },
+    {
+      "start": 609.73784375,
+      "end": 611.10471875,
+      "speaker": "SPEAKER_06",
+      "text": "And the way that was talking."
+    },
+    {
+      "start": 609.85971875,
+      "end": 611.2097187500001,
+      "speaker": "SPEAKER_10",
+      "text": "And the way that was talking."
+    },
+    {
+      "start": 614.51346875,
+      "end": 614.81721875,
+      "speaker": "SPEAKER_06",
+      "text": "Well"
+    },
+    {
+      "start": 614.63534375,
+      "end": 614.93909375,
+      "speaker": "SPEAKER_10",
+      "text": "well."
+    },
+    {
+      "start": 616.36971875,
+      "end": 617.48346875,
+      "speaker": "SPEAKER_06",
+      "text": "I'd like you to have something to do with it."
+    },
+    {
+      "start": 621.22971875,
+      "end": 621.73596875,
+      "speaker": "SPEAKER_07",
+      "text": "Ian?"
+    },
+    {
+      "start": 622.36034375,
+      "end": 623.08596875,
+      "speaker": "SPEAKER_07",
+      "text": "Why me in the big"
+    },
+    {
+      "start": 626.73096875,
+      "end": 627.06846875,
+      "speaker": "SPEAKER_07",
+      "text": "the"
+    },
+    {
+      "start": 628.97534375,
+      "end": 629.41409375,
+      "speaker": "SPEAKER_05",
+      "text": "I don't."
+    },
+    {
+      "start": 631.60784375,
+      "end": 632.48534375,
+      "speaker": "SPEAKER_11",
+      "text": "So, love."
+    },
+    {
+      "start": 633.59909375,
+      "end": 634.35846875,
+      "speaker": "SPEAKER_11",
+      "text": "Wow!"
+    },
+    {
+      "start": 638.17221875,
+      "end": 638.83034375,
+      "speaker": "SPEAKER_11",
+      "text": "Look how"
+    },
+    {
+      "start": 639.65721875,
+      "end": 640.50096875,
+      "speaker": "SPEAKER_11",
+      "text": "Dad told me..."
+    },
+    {
+      "start": 642.96471875,
+      "end": 643.75784375,
+      "speaker": "SPEAKER_11",
+      "text": "Who about the clinic?"
+    },
+    {
+      "start": 652.14471875,
+      "end": 652.83659375,
+      "speaker": "SPEAKER_11",
+      "text": "He's with mom."
+    },
+    {
+      "start": 655.08096875,
+      "end": 655.97534375,
+      "speaker": "SPEAKER_11",
+      "text": "What's mom doing here?"
+    },
+    {
+      "start": 656.53221875,
+      "end": 657.71346875,
+      "speaker": "SPEAKER_11",
+      "text": "We should set her back for the wedding."
+    },
+    {
+      "start": 659.77221875,
+      "end": 661.8647187500001,
+      "speaker": "SPEAKER_11",
+      "text": "They're in the cafe now, just the two of them."
+    },
+    {
+      "start": 663.5522187500001,
+      "end": 665.10471875,
+      "speaker": "SPEAKER_11",
+      "text": "Do you think that her and Dad will..."
+    },
+    {
+      "start": 667.36596875,
+      "end": 667.38284375,
+      "speaker": "SPEAKER_11",
+      "text": "you"
+    },
+    {
+      "start": 667.38284375,
+      "end": 668.46284375,
+      "speaker": "SPEAKER_03",
+      "text": "I don't know if she's got any sense."
+    },
+    {
+      "start": 674.5209687500001,
+      "end": 675.28034375,
+      "speaker": "SPEAKER_04",
+      "text": "I'm going to do this."
+    },
+    {
+      "start": 676.30971875,
+      "end": 676.69784375,
+      "speaker": "SPEAKER_03",
+      "text": "Well"
+    },
+    {
+      "start": 677.22096875,
+      "end": 678.80721875,
+      "speaker": "SPEAKER_03",
+      "text": "This is a start, I suppose, isn't it?"
+    },
+    {
+      "start": 679.31346875,
+      "end": 680.79846875,
+      "speaker": "SPEAKER_03",
+      "text": "are such a wee talking about stuff."
+    },
+    {
+      "start": 682.30034375,
+      "end": 683.3803437500001,
+      "speaker": "SPEAKER_04",
+      "text": "Yeah, but that's for ages."
+    },
+    {
+      "start": 685.10159375,
+      "end": 685.4897187500001,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah."
+    },
+    {
+      "start": 686.09721875,
+      "end": 687.32909375,
+      "speaker": "SPEAKER_04",
+      "text": "It's just been menu"
+    },
+    {
+      "start": 689.10096875,
+      "end": 689.38784375,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah."
+    },
+    {
+      "start": 689.38784375,
+      "end": 689.40471875,
+      "speaker": "SPEAKER_11",
+      "text": "you"
+    },
+    {
+      "start": 697.48784375,
+      "end": 698.9897187500001,
+      "speaker": "SPEAKER_01",
+      "text": "Now we're done."
+    },
+    {
+      "start": 699.71534375,
+      "end": 700.39034375,
+      "speaker": "SPEAKER_01",
+      "text": "I'm so sorry."
+    },
+    {
+      "start": 700.91346875,
+      "end": 701.63909375,
+      "speaker": "SPEAKER_01",
+      "text": "I'm so un..."
+    },
+    {
+      "start": 702.73596875,
+      "end": 703.19159375,
+      "speaker": "SPEAKER_01",
+      "text": "I'm mixed."
+    },
+    {
+      "start": 703.19159375,
+      "end": 703.86659375,
+      "speaker": "SPEAKER_03",
+      "text": "Hi."
+    },
+    {
+      "start": 705.19971875,
+      "end": 705.68909375,
+      "speaker": "SPEAKER_01",
+      "text": "Sorry."
+    },
+    {
+      "start": 705.68909375,
+      "end": 706.24596875,
+      "speaker": "SPEAKER_03",
+      "text": "It's not."
+    },
+    {
+      "start": 706.60034375,
+      "end": 707.12346875,
+      "speaker": "SPEAKER_01",
+      "text": "Max."
+    },
+    {
+      "start": 709.62096875,
+      "end": 709.65471875,
+      "speaker": "SPEAKER_03",
+      "text": "the"
+    },
+    {
+      "start": 709.65471875,
+      "end": 710.32971875,
+      "speaker": "SPEAKER_11",
+      "text": "Ah."
+    },
+    {
+      "start": 714.98721875,
+      "end": 715.88159375,
+      "speaker": "SPEAKER_04",
+      "text": "So are you in here?"
+    },
+    {
+      "start": 726.19221875,
+      "end": 726.64784375,
+      "speaker": "SPEAKER_01",
+      "text": "What's happening?"
+    },
+    {
+      "start": 729.17909375,
+      "end": 729.34784375,
+      "speaker": "SPEAKER_01",
+      "text": "I'm going to be back."
+    },
+    {
+      "start": 729.34784375,
+      "end": 730.02284375,
+      "speaker": "SPEAKER_07",
+      "text": "What in seven..."
+    },
+    {
+      "start": 730.02284375,
+      "end": 730.47846875,
+      "speaker": "SPEAKER_01",
+      "text": "it was"
+    },
+    {
+      "start": 730.47846875,
+      "end": 730.51221875,
+      "speaker": "SPEAKER_07",
+      "text": "Yeah."
+    },
+    {
+      "start": 732.7397187500001,
+      "end": 733.31346875,
+      "speaker": "SPEAKER_01",
+      "text": "Is that it?"
+    },
+    {
+      "start": 736.97534375,
+      "end": 737.00909375,
+      "speaker": "SPEAKER_06",
+      "text": "you"
+    },
+    {
+      "start": 737.00909375,
+      "end": 737.59971875,
+      "speaker": "SPEAKER_08",
+      "text": "Trout."
+    },
+    {
+      "start": 740.85659375,
+      "end": 746.03721875,
+      "speaker": "SPEAKER_08",
+      "text": "Honey, I want to talk to Sharon and Ian. No one else. Just them. Come on."
+    },
+    {
+      "start": 753.91784375,
+      "end": 755.13284375,
+      "speaker": "SPEAKER_00",
+      "text": "Why should she send that card to you?"
+    },
+    {
+      "start": 756.21284375,
+      "end": 757.73159375,
+      "speaker": "SPEAKER_00",
+      "text": "Going one up to me or to Ian?"
+    },
+    {
+      "start": 758.18721875,
+      "end": 758.71034375,
+      "speaker": "SPEAKER_05",
+      "text": "What you saying?"
+    },
+    {
+      "start": 758.71034375,
+      "end": 758.74409375,
+      "speaker": "SPEAKER_10",
+      "text": "you"
+    },
+    {
+      "start": 758.74409375,
+      "end": 760.49909375,
+      "speaker": "SPEAKER_00",
+      "text": "Well what's Lauren saying that it was one of us?"
+    },
+    {
+      "start": 761.27534375,
+      "end": 762.08534375,
+      "speaker": "SPEAKER_00",
+      "text": "Is that what Emma thought?"
+    },
+    {
+      "start": 762.45659375,
+      "end": 762.86159375,
+      "speaker": "SPEAKER_10",
+      "text": "Listen."
+    },
+    {
+      "start": 763.90784375,
+      "end": 766.92846875,
+      "speaker": "SPEAKER_10",
+      "text": "No one actually knows what Lauren was saying or what Emma felt."
+    },
+    {
+      "start": 766.87784375,
+      "end": 768.78471875,
+      "speaker": "SPEAKER_00",
+      "text": "Who will I send it in the first place then?"
+    },
+    {
+      "start": 769.52721875,
+      "end": 772.69971875,
+      "speaker": "SPEAKER_00",
+      "text": "What's the point if she didn't actually know anything?"
+    },
+    {
+      "start": 775.70346875,
+      "end": 776.22659375,
+      "speaker": "SPEAKER_00",
+      "text": "This."
+    },
+    {
+      "start": 776.7665937500001,
+      "end": 785.60909375,
+      "speaker": "SPEAKER_00",
+      "text": "is just a few stupid words on a piece of paper. Cindy. And now we're all here looking at each other wondering if... Cindy."
+    },
+    {
+      "start": 787.24596875,
+      "end": 788.93346875,
+      "speaker": "SPEAKER_10",
+      "text": "No one is looking at anyone."
+    },
+    {
+      "start": 789.43971875,
+      "end": 791.27909375,
+      "speaker": "SPEAKER_10",
+      "text": "and no one is wondering anything either."
+    },
+    {
+      "start": 792.67971875,
+      "end": 794.01284375,
+      "speaker": "SPEAKER_10",
+      "text": "if it happens here."
+    },
+    {
+      "start": 795.56534375,
+      "end": 796.4428437500001,
+      "speaker": "SPEAKER_10",
+      "text": "Someone could have got in."
+    },
+    {
+      "start": 797.45534375,
+      "end": 800.22284375,
+      "speaker": "SPEAKER_10",
+      "text": "or Lucy could have met someone and they could have followed her home."
+    },
+    {
+      "start": 801.3703437500001,
+      "end": 802.75409375,
+      "speaker": "SPEAKER_10",
+      "text": "Peter gets a drink of water, will you?"
+    },
+    {
+      "start": 809.43659375,
+      "end": 810.19596875,
+      "speaker": "SPEAKER_10",
+      "text": "Lawrence Card."
+    },
+    {
+      "start": 810.88784375,
+      "end": 812.82846875,
+      "speaker": "SPEAKER_10",
+      "text": "Didn't actually say it was one of us now."
+    },
+    {
+      "start": 813.50346875,
+      "end": 813.67221875,
+      "speaker": "SPEAKER_10",
+      "text": "Thank you."
+    },
+    {
+      "start": 815.89971875,
+      "end": 816.15284375,
+      "speaker": "SPEAKER_01",
+      "text": "We"
+    },
+    {
+      "start": 816.15284375,
+      "end": 821.82284375,
+      "speaker": "SPEAKER_12",
+      "text": "Come on, we're gonna rest a time."
+    },
+    {
+      "start": 832.57221875,
+      "end": 832.84221875,
+      "speaker": "SPEAKER_12",
+      "text": "Oh"
+    },
+    {
+      "start": 834.22596875,
+      "end": 835.2722187500001,
+      "speaker": "SPEAKER_12",
+      "text": "Still no sign."
+    },
+    {
+      "start": 836.23409375,
+      "end": 837.0947187500001,
+      "speaker": "SPEAKER_12",
+      "text": "Yeah."
+    },
+    {
+      "start": 838.25909375,
+      "end": 840.0478437500001,
+      "speaker": "SPEAKER_12",
+      "text": "This baby's not keeping still tonight."
+    },
+    {
+      "start": 841.43159375,
+      "end": 849.73409375,
+      "speaker": "SPEAKER_12",
+      "text": "Maybe you were right, you know. You know what you said at the wedding? Maybe she has come to her senses. I didn't mean it though. Ain't that much of a half-faced cat."
+    },
+    {
+      "start": 851.80971875,
+      "end": 856.01159375,
+      "speaker": "SPEAKER_12",
+      "text": "What meaning that I am but I did I did say that which sounded a bit like it"
+    },
+    {
+      "start": 856.95659375,
+      "end": 865.00596875,
+      "speaker": "SPEAKER_12",
+      "text": "Well, you do seem a bit bitter and twisted. Oh, nice. So now I'm a bitter and twisted-eyed face, Count. Oi, oi. This is a wedding. Remember, you're lucky you're still welcoming us."
+    },
+    {
+      "start": 865.52909375,
+      "end": 870.0515937499999,
+      "speaker": "SPEAKER_12",
+      "text": "We're all happy, smiley people. Anyway, I'll probably last longer than yours."
+    },
+    {
+      "start": 871.38471875,
+      "end": 894.80721875,
+      "speaker": "SPEAKER_12",
+      "text": "You know what I'm not gonna go back that, so keep your big nose out, Ken. I've had enough of this. Whatever mistake I made, at least I realised before it was too late. What mistake? I ain't made no mistake. Oh, no, no. Of course not. You just let some loser knock you up and then run out and you're... It was for my bubbles. Oh, yeah. So just remember that when you're coming over all holier than that, because whatever mistakes I made, they ain't gonna spend a lifetime paying for them."
+    },
+    {
+      "start": 887.88846875,
+      "end": 888.5634687500001,
+      "speaker": "SPEAKER_03",
+      "text": "So just"
+    },
+    {
+      "start": 909.96096875,
+      "end": 916.33971875,
+      "speaker": "SPEAKER_12",
+      "text": "We don't know aggro from you either. Me? I'm all sweetness and light, me."
+    },
+    {
+      "start": 926.6672187500001,
+      "end": 927.5109687500001,
+      "speaker": "SPEAKER_05",
+      "text": "It's about time."
+    },
+    {
+      "start": 929.0634687500001,
+      "end": 929.94096875,
+      "speaker": "SPEAKER_05",
+      "text": "Ian and Charnel on the way back."
+    },
+    {
+      "start": 931.94909375,
+      "end": 934.04159375,
+      "speaker": "SPEAKER_05",
+      "text": "Come on, Peter, everyone's waiting. Don't see righty in there."
+    },
+    {
+      "start": 935.2397187500001,
+      "end": 936.31971875,
+      "speaker": "SPEAKER_05",
+      "text": "No, I'm just kidding."
+    },
+    {
+      "start": 940.26846875,
+      "end": 940.89284375,
+      "speaker": "SPEAKER_05",
+      "text": "If you know what?"
+    },
+    {
+      "start": 940.89284375,
+      "end": 940.90971875,
+      "speaker": "SPEAKER_01",
+      "text": "you"
+    },
+    {
+      "start": 941.36534375,
+      "end": 942.07409375,
+      "speaker": "SPEAKER_05",
+      "text": "Why'd you ask that?"
+    },
+    {
+      "start": 944.14971875,
+      "end": 946.98471875,
+      "speaker": "SPEAKER_05",
+      "text": "You seem a bit weird or something. You seem a bit weird yourself."
+    },
+    {
+      "start": 946.69784375,
+      "end": 947.01846875,
+      "speaker": "SPEAKER_01",
+      "text": "boy."
+    },
+    {
+      "start": 947.01846875,
+      "end": 947.03534375,
+      "speaker": "SPEAKER_05",
+      "text": "you"
+    },
+    {
+      "start": 948.14909375,
+      "end": 948.95909375,
+      "speaker": "SPEAKER_05",
+      "text": "But we're getting worried."
+    },
+    {
+      "start": 950.89971875,
+      "end": 951.22034375,
+      "speaker": "SPEAKER_05",
+      "text": "There you go."
+    },
+    {
+      "start": 952.94159375,
+      "end": 954.29159375,
+      "speaker": "SPEAKER_12",
+      "text": "She deserved it, OK?"
+    },
+    {
+      "start": 956.36721875,
+      "end": 957.9028437500001,
+      "speaker": "SPEAKER_12",
+      "text": "You have what she said to me."
+    },
+    {
+      "start": 959.69159375,
+      "end": 961.24409375,
+      "speaker": "SPEAKER_12",
+      "text": "It's got to be like the Black Bull Tunneler."
+    },
+    {
+      "start": 966.42471875,
+      "end": 968.23034375,
+      "speaker": "SPEAKER_12",
+      "text": "Yes, I'll try."
+    },
+    {
+      "start": 976.93784375,
+      "end": 978.37221875,
+      "speaker": "SPEAKER_05",
+      "text": "Ah, here he is."
+    },
+    {
+      "start": 979.85721875,
+      "end": 981.49409375,
+      "speaker": "SPEAKER_05",
+      "text": "I'm gonna take a picture of you."
+    },
+    {
+      "start": 982.67534375,
+      "end": 982.82721875,
+      "speaker": "SPEAKER_04",
+      "text": "the"
+    },
+    {
+      "start": 982.82721875,
+      "end": 982.84409375,
+      "speaker": "SPEAKER_12",
+      "text": "you"
+    },
+    {
+      "start": 982.84409375,
+      "end": 982.96221875,
+      "speaker": "SPEAKER_04",
+      "text": "Thank you."
+    },
+    {
+      "start": 982.96221875,
+      "end": 983.02971875,
+      "speaker": "SPEAKER_12",
+      "text": "you"
+    },
+    {
+      "start": 983.02971875,
+      "end": 983.72159375,
+      "speaker": "SPEAKER_09",
+      "text": "What's going on?"
+    },
+    {
+      "start": 985.54409375,
+      "end": 985.57784375,
+      "speaker": "SPEAKER_09",
+      "text": "you"
+    },
+    {
+      "start": 985.57784375,
+      "end": 985.67909375,
+      "speaker": "SPEAKER_12",
+      "text": "you"
+    },
+    {
+      "start": 985.67909375,
+      "end": 985.69596875,
+      "speaker": "SPEAKER_09",
+      "text": "you"
+    },
+    {
+      "start": 985.69596875,
+      "end": 985.71284375,
+      "speaker": "SPEAKER_12",
+      "text": "you"
+    },
+    {
+      "start": 985.71284375,
+      "end": 985.7297187500001,
+      "speaker": "SPEAKER_09",
+      "text": "the"
+    },
+    {
+      "start": 985.7297187500001,
+      "end": 986.23596875,
+      "speaker": "SPEAKER_12",
+      "text": "really needs to be."
+    },
+    {
+      "start": 986.23596875,
+      "end": 987.21471875,
+      "speaker": "SPEAKER_09",
+      "text": "You drink, don't you?"
+    },
+    {
+      "start": 987.21471875,
+      "end": 987.23159375,
+      "speaker": "SPEAKER_08",
+      "text": "you"
+    },
+    {
+      "start": 990.13409375,
+      "end": 990.9440937500001,
+      "speaker": "SPEAKER_06",
+      "text": "So, uh..."
+    },
+    {
+      "start": 992.15909375,
+      "end": 993.25596875,
+      "speaker": "SPEAKER_06",
+      "text": "Where is the biting grip?"
+    },
+    {
+      "start": 994.5890937500001,
+      "end": 995.66909375,
+      "speaker": "SPEAKER_08",
+      "text": "Yeah."
+    },
+    {
+      "start": 996.37784375,
+      "end": 997.9809687500001,
+      "speaker": "SPEAKER_06",
+      "text": "I'll get the music cranked up a bit."
+    },
+    {
+      "start": 998.84159375,
+      "end": 999.5165937500001,
+      "speaker": "SPEAKER_06",
+      "text": "Yeah, I'm gonna"
+    },
+    {
+      "start": 1002.03096875,
+      "end": 1004.07284375,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah, yeah, I'll go get him."
+    },
+    {
+      "start": 1004.56221875,
+      "end": 1005.6928437500001,
+      "speaker": "SPEAKER_11",
+      "text": "Why do you know when you drink?"
+    },
+    {
+      "start": 1009.05096875,
+      "end": 1009.0678437500001,
+      "speaker": "SPEAKER_11",
+      "text": "you"
+    },
+    {
+      "start": 1009.0678437500001,
+      "end": 1009.4897187500001,
+      "speaker": "SPEAKER_12",
+      "text": "Okay?"
+    },
+    {
+      "start": 1012.7297187500001,
+      "end": 1013.1684687500001,
+      "speaker": "SPEAKER_12",
+      "text": "Okay?"
+    },
+    {
+      "start": 1018.82159375,
+      "end": 1021.38659375,
+      "speaker": "SPEAKER_12",
+      "text": "Okay, I'm sorry, I didn't mean it."
+    },
+    {
+      "start": 1024.30596875,
+      "end": 1024.67721875,
+      "speaker": "SPEAKER_12",
+      "text": "Kim."
+    },
+    {
+      "start": 1027.79909375,
+      "end": 1028.17034375,
+      "speaker": "SPEAKER_12",
+      "text": "Kim!"
+    },
+    {
+      "start": 1029.38534375,
+      "end": 1030.12784375,
+      "speaker": "SPEAKER_12",
+      "text": "I can't hear you."
+    },
+    {
+      "start": 1030.97159375,
+      "end": 1031.8828437500001,
+      "speaker": "SPEAKER_12",
+      "text": "at least I tried"
+    },
+    {
+      "start": 1036.23659375,
+      "end": 1036.27034375,
+      "speaker": "SPEAKER_12",
+      "text": "you"
+    },
+    {
+      "start": 1036.27034375,
+      "end": 1036.81034375,
+      "speaker": "SPEAKER_03",
+      "text": "Oh!"
+    },
+    {
+      "start": 1038.3628437500001,
+      "end": 1039.15596875,
+      "speaker": "SPEAKER_03",
+      "text": "Oh"
+    },
+    {
+      "start": 1039.96596875,
+      "end": 1040.03346875,
+      "speaker": "SPEAKER_03",
+      "text": "Bye."
+    },
+    {
+      "start": 1041.53534375,
+      "end": 1043.10471875,
+      "speaker": "SPEAKER_03",
+      "text": "If Abby wants to come and stay, then..."
+    },
+    {
+      "start": 1042.98659375,
+      "end": 1043.5772187500002,
+      "speaker": "SPEAKER_04",
+      "text": "I'm sorry."
+    },
+    {
+      "start": 1043.5772187500002,
+      "end": 1047.86346875,
+      "speaker": "SPEAKER_03",
+      "text": "Right, I'm just saying, if Ibra and the girls do, then they know they can."
+    },
+    {
+      "start": 1048.57221875,
+      "end": 1049.1797187500001,
+      "speaker": "SPEAKER_03",
+      "text": "Where is Lauren?"
+    },
+    {
+      "start": 1051.5928437500002,
+      "end": 1055.20409375,
+      "speaker": "SPEAKER_03",
+      "text": "Come on, Max. You saw Abby. She's a mess. I'm talking about she ain't a mess."
+    },
+    {
+      "start": 1056.84096875,
+      "end": 1059.28784375,
+      "speaker": "SPEAKER_04",
+      "text": "All right, we've seen as a mess we made already one. We did."
+    },
+    {
+      "start": 1059.28784375,
+      "end": 1059.32159375,
+      "speaker": "SPEAKER_03",
+      "text": "you"
+    },
+    {
+      "start": 1059.32159375,
+      "end": 1059.6084687500002,
+      "speaker": "SPEAKER_04",
+      "text": "Wait."
+    },
+    {
+      "start": 1060.13159375,
+      "end": 1060.85721875,
+      "speaker": "SPEAKER_04",
+      "text": "Yeah, you and me."
+    },
+    {
+      "start": 1061.58284375,
+      "end": 1061.97096875,
+      "speaker": "SPEAKER_03",
+      "text": "Bye."
+    },
+    {
+      "start": 1062.96659375,
+      "end": 1068.75471875,
+      "speaker": "SPEAKER_03",
+      "text": "So I'm the one who had an affair with Stacey, am I? No, it wasn't just about that. It was Lucy as well. Seriously."
+    },
+    {
+      "start": 1067.67471875,
+      "end": 1068.41721875,
+      "speaker": "SPEAKER_04",
+      "text": "We want."
+    },
+    {
+      "start": 1068.41721875,
+      "end": 1068.82221875,
+      "speaker": "SPEAKER_02",
+      "text": "the"
+    },
+    {
+      "start": 1068.82221875,
+      "end": 1069.93596875,
+      "speaker": "SPEAKER_03",
+      "text": "Can't listen up."
+    },
+    {
+      "start": 1069.05846875,
+      "end": 1069.07534375,
+      "speaker": "SPEAKER_02",
+      "text": "you"
+    },
+    {
+      "start": 1069.07534375,
+      "end": 1069.95284375,
+      "speaker": "SPEAKER_04",
+      "text": "Can't mess it up."
+    },
+    {
+      "start": 1069.93596875,
+      "end": 1071.89346875,
+      "speaker": "SPEAKER_02",
+      "text": "Who's it going to be next time?"
+    },
+    {
+      "start": 1071.18471875,
+      "end": 1071.20159375,
+      "speaker": "SPEAKER_03",
+      "text": "you"
+    },
+    {
+      "start": 1071.20159375,
+      "end": 1072.58534375,
+      "speaker": "SPEAKER_04",
+      "text": "What happened the next time, is it?"
+    },
+    {
+      "start": 1071.89346875,
+      "end": 1071.91034375,
+      "speaker": "SPEAKER_03",
+      "text": "you"
+    },
+    {
+      "start": 1072.56846875,
+      "end": 1078.77846875,
+      "speaker": "SPEAKER_02",
+      "text": "Abby was a sweet innocent little daddy's girl and she still would be now if it weren't for you and everything that you have done so don't you dare lay any of that at my door."
+    },
+    {
+      "start": 1078.27221875,
+      "end": 1081.76534375,
+      "speaker": "SPEAKER_04",
+      "text": "Right, do you think any of this is out? Do you ask knocking seven bells out of each other's time?"
+    },
+    {
+      "start": 1086.79409375,
+      "end": 1088.11034375,
+      "speaker": "SPEAKER_03",
+      "text": "I didn't come here to argue."
+    },
+    {
+      "start": 1090.30409375,
+      "end": 1091.13096875,
+      "speaker": "SPEAKER_04",
+      "text": "So why did you come?"
+    },
+    {
+      "start": 1094.79284375,
+      "end": 1095.75471875,
+      "speaker": "SPEAKER_03",
+      "text": "For my best nights, I do."
+    },
+    {
+      "start": 1096.31159375,
+      "end": 1096.8515937500001,
+      "speaker": "SPEAKER_04",
+      "text": "Oh yeah."
+    },
+    {
+      "start": 1097.47596875,
+      "end": 1097.6953437500001,
+      "speaker": "SPEAKER_03",
+      "text": "Thank you."
+    },
+    {
+      "start": 1112.34284375,
+      "end": 1113.47346875,
+      "speaker": "SPEAKER_09",
+      "text": "That's right what they say then."
+    },
+    {
+      "start": 1115.54909375,
+      "end": 1116.42659375,
+      "speaker": "SPEAKER_09",
+      "text": "That pen is..."
+    },
+    {
+      "start": 1117.65846875,
+      "end": 1118.5190937500001,
+      "speaker": "SPEAKER_09",
+      "text": "Always turn up."
+    },
+    {
+      "start": 1121.65784375,
+      "end": 1122.83909375,
+      "speaker": "SPEAKER_09",
+      "text": "I don't know why, mind you."
+    },
+    {
+      "start": 1124.34096875,
+      "end": 1126.61909375,
+      "speaker": "SPEAKER_09",
+      "text": "I mean, Max, he's already got one of your businesses."
+    },
+    {
+      "start": 1127.76659375,
+      "end": 1129.6228437500001,
+      "speaker": "SPEAKER_09",
+      "text": "It's only a matter of time before he gets the rest."
+    },
+    {
+      "start": 1132.4409687500001,
+      "end": 1133.1328437500001,
+      "speaker": "SPEAKER_09",
+      "text": "R and R."
+    },
+    {
+      "start": 1134.2634687500001,
+      "end": 1134.92159375,
+      "speaker": "SPEAKER_09",
+      "text": "the album."
+    },
+    {
+      "start": 1136.47409375,
+      "end": 1138.02659375,
+      "speaker": "SPEAKER_09",
+      "text": "maybe even the landlady."
+    },
+    {
+      "start": 1139.22471875,
+      "end": 1139.52846875,
+      "speaker": "SPEAKER_09",
+      "text": "Oh"
+    },
+    {
+      "start": 1140.49034375,
+      "end": 1141.36784375,
+      "speaker": "SPEAKER_09",
+      "text": "I struck a nerve."
+    },
+    {
+      "start": 1143.71346875,
+      "end": 1144.84409375,
+      "speaker": "SPEAKER_09",
+      "text": "Not that he'd want to mind."
+    },
+    {
+      "start": 1145.9409687500001,
+      "end": 1146.90284375,
+      "speaker": "SPEAKER_09",
+      "text": "just because he could."
+    },
+    {
+      "start": 1147.98284375,
+      "end": 1148.70846875,
+      "speaker": "SPEAKER_09",
+      "text": "Bring any bells?"
+    },
+    {
+      "start": 1150.5815937500001,
+      "end": 1152.84284375,
+      "speaker": "SPEAKER_09",
+      "text": "Also Max, I don't seem much"
+    },
+    {
+      "start": 1153.61909375,
+      "end": 1154.34471875,
+      "speaker": "SPEAKER_09",
+      "text": "Well, she proper..."
+    },
+    {
+      "start": 1155.67784375,
+      "end": 1156.7747187500001,
+      "speaker": "SPEAKER_09",
+      "text": "You lost the words to fight."
+    },
+    {
+      "start": 1157.95596875,
+      "end": 1160.74034375,
+      "speaker": "SPEAKER_09",
+      "text": "Yeah, or something's ain't worth fighting for, are they? What do you mean, me?"
+    },
+    {
+      "start": 1162.56284375,
+      "end": 1163.06909375,
+      "speaker": "SPEAKER_09",
+      "text": "Oh, sure."
+    },
+    {
+      "start": 1165.36409375,
+      "end": 1166.56221875,
+      "speaker": "SPEAKER_09",
+      "text": "It's just weird. That's a weird thing."
+    },
+    {
+      "start": 1168.38471875,
+      "end": 1169.29596875,
+      "speaker": "SPEAKER_09",
+      "text": "seeing you out here."
+    },
+    {
+      "start": 1170.76409375,
+      "end": 1172.02971875,
+      "speaker": "SPEAKER_09",
+      "text": "Shouldn't you be with your wife?"
+    },
+    {
+      "start": 1192.07721875,
+      "end": 1192.49909375,
+      "speaker": "SPEAKER_07",
+      "text": "Yeah."
+    },
+    {
+      "start": 1192.13721875,
+      "end": 1192.55909375,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah."
+    },
+    {
+      "start": 1193.8997187500001,
+      "end": 1196.0090937500001,
+      "speaker": "SPEAKER_08",
+      "text": "Drink this. I don't want nothing to drink."
+    },
+    {
+      "start": 1193.95971875,
+      "end": 1196.08596875,
+      "speaker": "SPEAKER_02",
+      "text": "Drink this. I don't want nothing to drink."
+    },
+    {
+      "start": 1197.74721875,
+      "end": 1198.43909375,
+      "speaker": "SPEAKER_07",
+      "text": "Victor."
+    },
+    {
+      "start": 1197.84096875,
+      "end": 1198.49909375,
+      "speaker": "SPEAKER_03",
+      "text": "Dot."
+    },
+    {
+      "start": 1199.87346875,
+      "end": 1201.81409375,
+      "speaker": "SPEAKER_07",
+      "text": "We've got to do something about this."
+    },
+    {
+      "start": 1199.95034375,
+      "end": 1201.87409375,
+      "speaker": "SPEAKER_03",
+      "text": "We've got to do something about this."
+    },
+    {
+      "start": 1203.70409375,
+      "end": 1204.64909375,
+      "speaker": "SPEAKER_08",
+      "text": "Tell us what happened."
+    },
+    {
+      "start": 1203.76409375,
+      "end": 1204.72596875,
+      "speaker": "SPEAKER_02",
+      "text": "Tell us what happened."
+    },
+    {
+      "start": 1207.28159375,
+      "end": 1208.26034375,
+      "speaker": "SPEAKER_08",
+      "text": "I let him do it."
+    },
+    {
+      "start": 1207.35846875,
+      "end": 1208.33721875,
+      "speaker": "SPEAKER_02",
+      "text": "I let him do it."
+    },
+    {
+      "start": 1210.6228437500001,
+      "end": 1210.7578437500001,
+      "speaker": "SPEAKER_07",
+      "text": "with"
+    },
+    {
+      "start": 1210.68284375,
+      "end": 1210.81784375,
+      "speaker": "SPEAKER_02",
+      "text": "with"
+    },
+    {
+      "start": 1210.9097187500001,
+      "end": 1211.50034375,
+      "speaker": "SPEAKER_07",
+      "text": "Do what?"
+    },
+    {
+      "start": 1210.96971875,
+      "end": 1211.56034375,
+      "speaker": "SPEAKER_03",
+      "text": "Do what?"
+    },
+    {
+      "start": 1211.50034375,
+      "end": 1211.51721875,
+      "speaker": "SPEAKER_08",
+      "text": "you"
+    },
+    {
+      "start": 1212.79971875,
+      "end": 1214.20034375,
+      "speaker": "SPEAKER_08",
+      "text": "I let him take his drugs."
+    },
+    {
+      "start": 1212.87659375,
+      "end": 1214.26034375,
+      "speaker": "SPEAKER_02",
+      "text": "I'll let him take his drug."
+    },
+    {
+      "start": 1216.04909375,
+      "end": 1217.60159375,
+      "speaker": "SPEAKER_02",
+      "text": "and then I let him die."
+    },
+    {
+      "start": 1218.96846875,
+      "end": 1221.43221875,
+      "speaker": "SPEAKER_02",
+      "text": "I can see from your eyes you're thinking"
+    },
+    {
+      "start": 1222.25909375,
+      "end": 1226.0390937500001,
+      "speaker": "SPEAKER_02",
+      "text": "What sort of mother does that make me? Don't you sight out."
+    },
+    {
+      "start": 1226.0390937500001,
+      "end": 1232.04659375,
+      "speaker": "SPEAKER_00",
+      "text": "Don't you ever say that. You were the best mum Nick could have ever had. It's not me saying that."
+    },
+    {
+      "start": 1232.62034375,
+      "end": 1235.62409375,
+      "speaker": "SPEAKER_00",
+      "text": "That's what my auntie Pauline used to say, time after time and me grand."
+    },
+    {
+      "start": 1237.22721875,
+      "end": 1239.21846875,
+      "speaker": "SPEAKER_03",
+      "text": "Mum and parents never knew that you did it either."
+    },
+    {
+      "start": 1240.36596875,
+      "end": 1242.0703437500001,
+      "speaker": "SPEAKER_03",
+      "text": "You know, you kept stepping in and..."
+    },
+    {
+      "start": 1243.03221875,
+      "end": 1244.53409375,
+      "speaker": "SPEAKER_03",
+      "text": "and taken his side, but..."
+    },
+    {
+      "start": 1245.0234687500001,
+      "end": 1248.66846875,
+      "speaker": "SPEAKER_02",
+      "text": "But what? You can only take so much and then you snap?"
+    },
+    {
+      "start": 1249.29284375,
+      "end": 1254.99659375,
+      "speaker": "SPEAKER_02",
+      "text": "Yes, that's the truth. I snapped. And I didn't do it out of love."
+    },
+    {
+      "start": 1255.51971875,
+      "end": 1259.08034375,
+      "speaker": "SPEAKER_02",
+      "text": "Not like we there thought. I did it out of anger."
+    },
+    {
+      "start": 1260.51471875,
+      "end": 1269.64409375,
+      "speaker": "SPEAKER_02",
+      "text": "for all the suffering it caused. I wanted him to face judgement, I didn't want him to be released. I wanted to punish him, and I did."
+    },
+    {
+      "start": 1271.19659375,
+      "end": 1271.41596875,
+      "speaker": "SPEAKER_02",
+      "text": "and"
+    },
+    {
+      "start": 1272.56346875,
+      "end": 1272.58034375,
+      "speaker": "SPEAKER_02",
+      "text": "You"
+    },
+    {
+      "start": 1272.58034375,
+      "end": 1273.76159375,
+      "speaker": "SPEAKER_00",
+      "text": "kept all this to yourself."
+    },
+    {
+      "start": 1274.85846875,
+      "end": 1278.95909375,
+      "speaker": "SPEAKER_02",
+      "text": "I just kept pretending it hadn't happened, you know, carrying on as normal."
+    },
+    {
+      "start": 1279.81971875,
+      "end": 1288.99971875,
+      "speaker": "SPEAKER_02",
+      "text": "You know, they say that you should be wary of strangers, but it's the ones you love who hurt you the most, and you hurt the ones that love you the most too."
+    },
+    {
+      "start": 1290.53534375,
+      "end": 1291.76721875,
+      "speaker": "SPEAKER_02",
+      "text": "Nick was my test."
+    },
+    {
+      "start": 1292.79659375,
+      "end": 1293.91034375,
+      "speaker": "SPEAKER_02",
+      "text": "and I failed it."
+    },
+    {
+      "start": 1294.61909375,
+      "end": 1298.19659375,
+      "speaker": "SPEAKER_02",
+      "text": "I failed him in his life, and I failed him in his death."
+    },
+    {
+      "start": 1298.85471875,
+      "end": 1302.02721875,
+      "speaker": "SPEAKER_02",
+      "text": "and I needed to tell someone."
+    },
+    {
+      "start": 1302.68534375,
+      "end": 1303.47846875,
+      "speaker": "SPEAKER_02",
+      "text": "And now..."
+    },
+    {
+      "start": 1304.99721875,
+      "end": 1305.92534375,
+      "speaker": "SPEAKER_02",
+      "text": "I can do it."
+    },
+    {
+      "start": 1307.73096875,
+      "end": 1308.64221875,
+      "speaker": "SPEAKER_02",
+      "text": "Now you can do what?"
+    },
+    {
+      "start": 1310.02596875,
+      "end": 1311.37596875,
+      "speaker": "SPEAKER_02",
+      "text": "Make my peace."
+    },
+    {
+      "start": 1334.62971875,
+      "end": 1335.22034375,
+      "speaker": "SPEAKER_08",
+      "text": "Everything OK?"
+    },
+    {
+      "start": 1335.92909375,
+      "end": 1337.22846875,
+      "speaker": "SPEAKER_08",
+      "text": "I was about to ask you that."
+    },
+    {
+      "start": 1338.03846875,
+      "end": 1338.66284375,
+      "speaker": "SPEAKER_08",
+      "text": "What's happening?"
+    },
+    {
+      "start": 1339.40534375,
+      "end": 1341.51471875,
+      "speaker": "SPEAKER_08",
+      "text": "Um, just give me a few minutes, Bobby, yeah?"
+    },
+    {
+      "start": 1344.99096875,
+      "end": 1346.88096875,
+      "speaker": "SPEAKER_08",
+      "text": "He wants to come home. What am I supposed to say to him?"
+    },
+    {
+      "start": 1347.16784375,
+      "end": 1347.94409375,
+      "speaker": "SPEAKER_06",
+      "text": "No."
+    },
+    {
+      "start": 1349.00721875,
+      "end": 1350.10409375,
+      "speaker": "SPEAKER_06",
+      "text": "No, not yet. Just..."
+    },
+    {
+      "start": 1351.20096875,
+      "end": 1352.06159375,
+      "speaker": "SPEAKER_06",
+      "text": "Just tell him to hang on."
+    },
+    {
+      "start": 1353.64784375,
+      "end": 1355.33534375,
+      "speaker": "SPEAKER_06",
+      "text": "Everything will be fine, I promise."
+    },
+    {
+      "start": 1356.07784375,
+      "end": 1358.52471875,
+      "speaker": "SPEAKER_08",
+      "text": "Okay, don't tell Poppy, but at least tell me."
+    },
+    {
+      "start": 1360.71846875,
+      "end": 1361.66346875,
+      "speaker": "SPEAKER_08",
+      "text": "Jane, what's wrong?"
+    },
+    {
+      "start": 1365.19034375,
+      "end": 1365.62909375,
+      "speaker": "SPEAKER_08",
+      "text": "being."
+    },
+    {
+      "start": 1367.92409375,
+      "end": 1369.49346875,
+      "speaker": "SPEAKER_08",
+      "text": "Ian has done something, hasn't he?"
+    },
+    {
+      "start": 1369.49346875,
+      "end": 1369.51034375,
+      "speaker": "SPEAKER_06",
+      "text": "you"
+    },
+    {
+      "start": 1377.98159375,
+      "end": 1383.49971875,
+      "speaker": "SPEAKER_06",
+      "text": "Check it out. There we go. Thank you."
+    },
+    {
+      "start": 1383.49971875,
+      "end": 1384.07346875,
+      "speaker": "SPEAKER_08",
+      "text": "Oh!"
+    },
+    {
+      "start": 1384.76534375,
+      "end": 1385.52471875,
+      "speaker": "SPEAKER_06",
+      "text": "That's a big one."
+    },
+    {
+      "start": 1386.97596875,
+      "end": 1387.02659375,
+      "speaker": "SPEAKER_08",
+      "text": "you"
+    },
+    {
+      "start": 1387.02659375,
+      "end": 1387.06034375,
+      "speaker": "SPEAKER_02",
+      "text": "you"
+    },
+    {
+      "start": 1387.06034375,
+      "end": 1388.89971875,
+      "speaker": "SPEAKER_08",
+      "text": "is everything."
+    },
+    {
+      "start": 1389.27096875,
+      "end": 1390.03034375,
+      "speaker": "SPEAKER_02",
+      "text": "Okay."
+    },
+    {
+      "start": 1390.13159375,
+      "end": 1392.66284375,
+      "speaker": "SPEAKER_06",
+      "text": "I wasn't even talking to me. Stop it, I'll be back."
+    },
+    {
+      "start": 1392.98346875,
+      "end": 1393.03409375,
+      "speaker": "SPEAKER_02",
+      "text": "We're going to be back."
+    },
+    {
+      "start": 1393.03409375,
+      "end": 1396.67909375,
+      "speaker": "SPEAKER_00",
+      "text": "She's been in their ages."
+    },
+    {
+      "start": 1415.0390937500001,
+      "end": 1415.96721875,
+      "speaker": "SPEAKER_08",
+      "text": "I'm gonna enjoy this."
+    },
+    {
+      "start": 1417.3003437500001,
+      "end": 1417.9922187500001,
+      "speaker": "SPEAKER_08",
+      "text": "Enjoy war."
+    },
+    {
+      "start": 1419.86534375,
+      "end": 1420.48971875,
+      "speaker": "SPEAKER_08",
+      "text": "Wait and see."
+    },
+    {
+      "start": 1432.7578437500001,
+      "end": 1433.1797187500001,
+      "speaker": "SPEAKER_06",
+      "text": "Kid!"
+    },
+    {
+      "start": 1435.96409375,
+      "end": 1436.79096875,
+      "speaker": "SPEAKER_06",
+      "text": "You still in there?"
+    },
+    {
+      "start": 1438.71471875,
+      "end": 1439.44034375,
+      "speaker": "SPEAKER_06",
+      "text": "Tee-"
+    },
+    {
+      "start": 1440.46971875,
+      "end": 1441.88721875,
+      "speaker": "SPEAKER_06",
+      "text": "What's the matter?"
+    },
+    {
+      "start": 1443.4397187499999,
+      "end": 1444.5703437500001,
+      "speaker": "SPEAKER_06",
+      "text": "Kim!"
+    },
+    {
+      "start": 1446.2578437500001,
+      "end": 1447.81034375,
+      "speaker": "SPEAKER_06",
+      "text": "Oh"
+    },
+    {
+      "start": 1449.9365937500002,
+      "end": 1449.95346875,
+      "speaker": "SPEAKER_05",
+      "text": "you"
+    },
+    {
+      "start": 1449.95346875,
+      "end": 1449.97034375,
+      "speaker": "SPEAKER_06",
+      "text": "you"
+    },
+    {
+      "start": 1449.97034375,
+      "end": 1450.6284687500001,
+      "speaker": "SPEAKER_05",
+      "text": "Hey!"
+    },
+    {
+      "start": 1452.24846875,
+      "end": 1452.7209687499999,
+      "speaker": "SPEAKER_05",
+      "text": "Oh!"
+    },
+    {
+      "start": 1453.8515937500001,
+      "end": 1453.96971875,
+      "speaker": "SPEAKER_06",
+      "text": "Oh"
+    },
+    {
+      "start": 1453.96971875,
+      "end": 1454.03721875,
+      "speaker": "SPEAKER_05",
+      "text": "you"
+    },
+    {
+      "start": 1454.03721875,
+      "end": 1455.89346875,
+      "speaker": "SPEAKER_06",
+      "text": "Don't be daft."
+    },
+    {
+      "start": 1456.88909375,
+      "end": 1456.90596875,
+      "speaker": "SPEAKER_06",
+      "text": "I"
+    },
+    {
+      "start": 1456.90596875,
+      "end": 1456.92284375,
+      "speaker": "SPEAKER_05",
+      "text": "you"
+    },
+    {
+      "start": 1456.92284375,
+      "end": 1458.57659375,
+      "speaker": "SPEAKER_06",
+      "text": "He's still got two months to go!"
+    },
+    {
+      "start": 1459.7578437500001,
+      "end": 1460.34846875,
+      "speaker": "SPEAKER_06",
+      "text": "Eugh."
+    },
+    {
+      "start": 1460.95596875,
+      "end": 1461.31034375,
+      "speaker": "SPEAKER_06",
+      "text": "Uh!"
+    },
+    {
+      "start": 1465.09034375,
+      "end": 1465.76534375,
+      "speaker": "SPEAKER_06",
+      "text": "What's happening?"
+    },
+    {
+      "start": 1466.45721875,
+      "end": 1466.94659375,
+      "speaker": "SPEAKER_07",
+      "text": "I wish you."
+    },
+    {
+      "start": 1467.45284375,
+      "end": 1468.24596875,
+      "speaker": "SPEAKER_07",
+      "text": "What she was saying."
+    },
+    {
+      "start": 1468.9209687500002,
+      "end": 1469.51159375,
+      "speaker": "SPEAKER_07",
+      "text": "I've got Nick."
+    },
+    {
+      "start": 1469.51159375,
+      "end": 1469.5959687499999,
+      "speaker": "SPEAKER_03",
+      "text": "you"
+    },
+    {
+      "start": 1470.33846875,
+      "end": 1470.35534375,
+      "speaker": "SPEAKER_07",
+      "text": "you"
+    },
+    {
+      "start": 1470.35534375,
+      "end": 1470.84471875,
+      "speaker": "SPEAKER_03",
+      "text": "It's alright."
+    },
+    {
+      "start": 1472.11034375,
+      "end": 1474.11846875,
+      "speaker": "SPEAKER_03",
+      "text": "Well, she didn't pull a gun on him or nothing, but..."
+    },
+    {
+      "start": 1475.18159375,
+      "end": 1477.25721875,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, it seems he took some drugs and..."
+    },
+    {
+      "start": 1478.18534375,
+      "end": 1479.78846875,
+      "speaker": "SPEAKER_03",
+      "text": "He had an attack or something and..."
+    },
+    {
+      "start": 1481.17221875,
+      "end": 1481.96534375,
+      "speaker": "SPEAKER_03",
+      "text": "Well, she let him die."
+    },
+    {
+      "start": 1481.96534375,
+      "end": 1482.08346875,
+      "speaker": "SPEAKER_07",
+      "text": "I"
+    },
+    {
+      "start": 1483.34909375,
+      "end": 1486.55534375,
+      "speaker": "SPEAKER_07",
+      "text": "So what do we do? What we should have done half an hour ago. We called the police."
+    },
+    {
+      "start": 1487.23034375,
+      "end": 1487.93909375,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, and then what?"
+    },
+    {
+      "start": 1488.49596875,
+      "end": 1492.63034375,
+      "speaker": "SPEAKER_03",
+      "text": "I mean, the state dot Simran now, she's gonna say the same thing to them, that it was all down to her."
+    },
+    {
+      "start": 1493.42346875,
+      "end": 1494.82409375,
+      "speaker": "SPEAKER_07",
+      "text": "Oh, that's what you're saying."
+    },
+    {
+      "start": 1496.08971875,
+      "end": 1497.94596875,
+      "speaker": "SPEAKER_03",
+      "text": "Well, I'm saying that we know."
+    },
+    {
+      "start": 1498.55346875,
+      "end": 1504.96596875,
+      "speaker": "SPEAKER_03",
+      "text": "She knows there's no reason for anyone else to find out though, is there? We can't actually pretend it ain't happened. Come on in, it's not her fault, not really."
+    },
+    {
+      "start": 1504.96596875,
+      "end": 1506.80534375,
+      "speaker": "SPEAKER_07",
+      "text": "You still ain't got anything to do with us, has it? Exactly."
+    },
+    {
+      "start": 1507.51409375,
+      "end": 1508.61096875,
+      "speaker": "SPEAKER_07",
+      "text": "Right, so we can all just forget it."
+    },
+    {
+      "start": 1509.18471875,
+      "end": 1509.65721875,
+      "speaker": "SPEAKER_07",
+      "text": "No."
+    },
+    {
+      "start": 1510.5178437499999,
+      "end": 1512.23909375,
+      "speaker": "SPEAKER_07",
+      "text": "Yeah, I'm sorry for that. Of course I am."
+    },
+    {
+      "start": 1512.89721875,
+      "end": 1514.28096875,
+      "speaker": "SPEAKER_07",
+      "text": "If you're saying what I think you're saying."
+    },
+    {
+      "start": 1515.12471875,
+      "end": 1516.62659375,
+      "speaker": "SPEAKER_07",
+      "text": "We're gonna be in this right up to our necks."
+    },
+    {
+      "start": 1516.62659375,
+      "end": 1516.77846875,
+      "speaker": "SPEAKER_00",
+      "text": "you"
+    },
+    {
+      "start": 1516.77846875,
+      "end": 1518.01034375,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, and what if it was your mum?"
+    },
+    {
+      "start": 1519.17471875,
+      "end": 1519.22534375,
+      "speaker": "SPEAKER_03",
+      "text": "you"
+    },
+    {
+      "start": 1519.22534375,
+      "end": 1521.43596875,
+      "speaker": "SPEAKER_00",
+      "text": "Or your dad or Lou. He'll still come out."
+    },
+    {
+      "start": 1522.97159375,
+      "end": 1523.0390937500001,
+      "speaker": "SPEAKER_00",
+      "text": "you"
+    },
+    {
+      "start": 1523.0390937500001,
+      "end": 1524.11909375,
+      "speaker": "SPEAKER_07",
+      "text": "how much we try and hide it."
+    },
+    {
+      "start": 1524.11909375,
+      "end": 1524.13596875,
+      "speaker": "SPEAKER_00",
+      "text": "you"
+    },
+    {
+      "start": 1524.8615937499999,
+      "end": 1525.50284375,
+      "speaker": "SPEAKER_03",
+      "text": "Why should I?"
+    },
+    {
+      "start": 1526.66721875,
+      "end": 1527.8147187499999,
+      "speaker": "SPEAKER_03",
+      "text": "If we all agree it hasn't happened."
+    },
+    {
+      "start": 1528.27034375,
+      "end": 1530.91971875,
+      "speaker": "SPEAKER_07",
+      "text": "Well that ain't gonna stop Dot saying it, has it? She can say what she wants."
+    },
+    {
+      "start": 1531.54409375,
+      "end": 1533.77159375,
+      "speaker": "SPEAKER_07",
+      "text": "If the police can't find the body, it don't make much difference, does it?"
+    },
+    {
+      "start": 1536.87659375,
+      "end": 1537.83846875,
+      "speaker": "SPEAKER_07",
+      "text": "She's an old lady, I suppose."
+    },
+    {
+      "start": 1539.61034375,
+      "end": 1542.37784375,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah, they'll just say that she's wondering in the hate or something."
+    },
+    {
+      "start": 1542.90096875,
+      "end": 1544.74034375,
+      "speaker": "SPEAKER_07",
+      "text": "So you're saying? We're saying."
+    },
+    {
+      "start": 1545.43221875,
+      "end": 1546.00596875,
+      "speaker": "SPEAKER_07",
+      "text": "Nobody."
+    },
+    {
+      "start": 1547.00159375,
+      "end": 1547.72721875,
+      "speaker": "SPEAKER_07",
+      "text": "is no evidence."
+    },
+    {
+      "start": 1568.73659375,
+      "end": 1569.4453437500001,
+      "speaker": "SPEAKER_04",
+      "text": "You look enough!"
+    },
+    {
+      "start": 1570.98096875,
+      "end": 1574.30534375,
+      "speaker": "SPEAKER_04",
+      "text": "If I'm not even gonna say, what's the matter with you today? Nothing to matter me."
+    },
+    {
+      "start": 1574.89596875,
+      "end": 1576.29659375,
+      "speaker": "SPEAKER_04",
+      "text": "Why someone been saying there is?"
+    },
+    {
+      "start": 1577.30909375,
+      "end": 1578.28784375,
+      "speaker": "SPEAKER_04",
+      "text": "I'm gonna need trouble."
+    },
+    {
+      "start": 1578.96284375,
+      "end": 1579.89096875,
+      "speaker": "SPEAKER_04",
+      "text": "I like some people."
+    },
+    {
+      "start": 1581.03846875,
+      "end": 1581.64596875,
+      "speaker": "SPEAKER_04",
+      "text": "All right."
+    },
+    {
+      "start": 1582.15221875,
+      "end": 1584.53159375,
+      "speaker": "SPEAKER_04",
+      "text": "But if that's the way you want it, I'd like to disappoint ya."
+    },
+    {
+      "start": 1585.37534375,
+      "end": 1587.09659375,
+      "speaker": "SPEAKER_04",
+      "text": "That X of yours in here tonight."
+    },
+    {
+      "start": 1587.85596875,
+      "end": 1598.06534375,
+      "speaker": "SPEAKER_04",
+      "text": "We got on like a house on fire. No, Lioron. Yeah. Don't believe ya. Maybe I should ask that daughter of yours. Jane here, Eva. No. Did she abandon you at all? No."
+    },
+    {
+      "start": 1598.16659375,
+      "end": 1598.68971875,
+      "speaker": "SPEAKER_07",
+      "text": "Scanner."
+    },
+    {
+      "start": 1598.68971875,
+      "end": 1601.98034375,
+      "speaker": "SPEAKER_04",
+      "text": "This drunken care, that's what? I ain't you cony!"
+    },
+    {
+      "start": 1601.98034375,
+      "end": 1603.11096875,
+      "speaker": "SPEAKER_07",
+      "text": "Just let it go, all right?"
+    },
+    {
+      "start": 1603.58346875,
+      "end": 1605.10221875,
+      "speaker": "SPEAKER_04",
+      "text": "Don't worry, I don't have to say anything."
+    },
+    {
+      "start": 1606.8740937500002,
+      "end": 1610.2490937500002,
+      "speaker": "SPEAKER_04",
+      "text": "In my book, actions speak louder than words."
+    },
+    {
+      "start": 1610.35034375,
+      "end": 1610.80596875,
+      "speaker": "SPEAKER_00",
+      "text": "What?"
+    },
+    {
+      "start": 1611.16034375,
+      "end": 1612.17284375,
+      "speaker": "SPEAKER_04",
+      "text": "Do us some cake!"
+    },
+    {
+      "start": 1612.17284375,
+      "end": 1613.11784375,
+      "speaker": "SPEAKER_00",
+      "text": "No, no, no, cat!"
+    },
+    {
+      "start": 1613.69159375,
+      "end": 1614.95721875,
+      "speaker": "SPEAKER_04",
+      "text": "Wait!"
+    },
+    {
+      "start": 1616.88096875,
+      "end": 1623.42846875,
+      "speaker": "SPEAKER_04",
+      "text": "Yeah, yeah, get out of the pub with pleasure!"
+    },
+    {
+      "start": 1626.71909375,
+      "end": 1629.0815937500001,
+      "speaker": "SPEAKER_04",
+      "text": "Anyone else got anything to say?"
+    },
+    {
+      "start": 1629.43596875,
+      "end": 1630.00971875,
+      "speaker": "SPEAKER_07",
+      "text": "Oh, yeah."
+    },
+    {
+      "start": 1631.49471875,
+      "end": 1632.0347187500001,
+      "speaker": "SPEAKER_07",
+      "text": "I need your help."
+    },
+    {
+      "start": 1632.40596875,
+      "end": 1633.4522187500002,
+      "speaker": "SPEAKER_06",
+      "text": "Not now, Charlie."
+    },
+    {
+      "start": 1636.30409375,
+      "end": 1636.6753437500001,
+      "speaker": "SPEAKER_07",
+      "text": "That's it."
+    },
+    {
+      "start": 1637.3672187500001,
+      "end": 1638.54846875,
+      "speaker": "SPEAKER_07",
+      "text": "I need your help too. No."
+    },
+    {
+      "start": 1640.50596875,
+      "end": 1641.40034375,
+      "speaker": "SPEAKER_06",
+      "text": "coming back for you."
+    },
+    {
+      "start": 1649.24721875,
+      "end": 1650.27659375,
+      "speaker": "SPEAKER_00",
+      "text": "Did you make"
+    },
+    {
+      "start": 1650.5972187500001,
+      "end": 1650.64784375,
+      "speaker": "SPEAKER_07",
+      "text": "you"
+    },
+    {
+      "start": 1650.64784375,
+      "end": 1650.69846875,
+      "speaker": "SPEAKER_00",
+      "text": "you"
+    },
+    {
+      "start": 1650.69846875,
+      "end": 1650.73221875,
+      "speaker": "SPEAKER_07",
+      "text": "you"
+    },
+    {
+      "start": 1652.09909375,
+      "end": 1653.66846875,
+      "speaker": "SPEAKER_00",
+      "text": "Oh, I think that's a no."
+    },
+    {
+      "start": 1653.95534375,
+      "end": 1654.10721875,
+      "speaker": "SPEAKER_06",
+      "text": "you"
+    },
+    {
+      "start": 1654.10721875,
+      "end": 1654.63034375,
+      "speaker": "SPEAKER_00",
+      "text": "Shout out."
+    },
+    {
+      "start": 1654.83284375,
+      "end": 1656.0815937500001,
+      "speaker": "SPEAKER_06",
+      "text": "That one does."
+    },
+    {
+      "start": 1656.58784375,
+      "end": 1667.86034375,
+      "speaker": "SPEAKER_06",
+      "text": "Son, you needed. Not now, my love, Denise. I'm trying to get cleaned up. It's Kim. She's in the looge. If she needs a doctor, tell her to call one. I'm off duty. Oh, yeah. Yeah, ambulance."
+    },
+    {
+      "start": 1668.7378437500001,
+      "end": 1670.96534375,
+      "speaker": "SPEAKER_06",
+      "text": "It's a Queen Vic and Wife. She's not ill."
+    },
+    {
+      "start": 1682.67659375,
+      "end": 1683.04784375,
+      "speaker": "SPEAKER_03",
+      "text": "Go on."
+    },
+    {
+      "start": 1683.79034375,
+      "end": 1684.49909375,
+      "speaker": "SPEAKER_07",
+      "text": "Looks everywhere."
+    },
+    {
+      "start": 1685.34284375,
+      "end": 1686.54096875,
+      "speaker": "SPEAKER_07",
+      "text": "I've tried his blower, nothing."
+    },
+    {
+      "start": 1688.07659375,
+      "end": 1689.08909375,
+      "speaker": "SPEAKER_03",
+      "text": "Are you sure it was him?"
+    },
+    {
+      "start": 1690.1015937500001,
+      "end": 1690.62471875,
+      "speaker": "SPEAKER_00",
+      "text": "Yes."
+    },
+    {
+      "start": 1692.6328437500001,
+      "end": 1694.23596875,
+      "speaker": "SPEAKER_03",
+      "text": "Alright, maybe you just went off again."
+    },
+    {
+      "start": 1695.07971875,
+      "end": 1697.47596875,
+      "speaker": "SPEAKER_00",
+      "text": "Why would he turn up in the first place if he was just gonna go off again?"
+    },
+    {
+      "start": 1700.96909375,
+      "end": 1701.44159375,
+      "speaker": "SPEAKER_00",
+      "text": "No, well."
+    },
+    {
+      "start": 1703.36534375,
+      "end": 1704.07409375,
+      "speaker": "SPEAKER_00",
+      "text": "Maybe you'll want it."
+    },
+    {
+      "start": 1734.5503437500001,
+      "end": 1734.61784375,
+      "speaker": "SPEAKER_06",
+      "text": "you"
+    },
+    {
+      "start": 1734.61784375,
+      "end": 1741.24971875,
+      "speaker": "SPEAKER_05",
+      "text": "Come on. Come on. OK, the ambulance say they're on their way."
+    },
+    {
+      "start": 1739.10659375,
+      "end": 1740.1697187500001,
+      "speaker": "SPEAKER_00",
+      "text": "Okay, the endless..."
+    },
+    {
+      "start": 1741.38471875,
+      "end": 1745.43471875,
+      "speaker": "SPEAKER_05",
+      "text": "They're on the way! They need to be here now! Yeah, but that's how we have to stay on the phone here!"
+    },
+    {
+      "start": 1746.0759687500001,
+      "end": 1750.0247187500001,
+      "speaker": "SPEAKER_05",
+      "text": "I think it's not the time for little cogs to chat with an ambulance!"
+    },
+    {
+      "start": 1750.0247187500001,
+      "end": 1750.8515937500001,
+      "speaker": "SPEAKER_06",
+      "text": "What do you think of him?"
+    },
+    {
+      "start": 1750.8515937500001,
+      "end": 1750.8684687500001,
+      "speaker": "SPEAKER_05",
+      "text": "you"
+    },
+    {
+      "start": 1751.37471875,
+      "end": 1751.39159375,
+      "speaker": "SPEAKER_05",
+      "text": "you"
+    },
+    {
+      "start": 1751.39159375,
+      "end": 1755.0872187500001,
+      "speaker": "SPEAKER_06",
+      "text": "Perfect, Brad. I'm all... I say there's a problem or something."
+    },
+    {
+      "start": 1756.79159375,
+      "end": 1758.07409375,
+      "speaker": "SPEAKER_06",
+      "text": "They might..."
+    },
+    {
+      "start": 1759.2890937500001,
+      "end": 1759.79534375,
+      "speaker": "SPEAKER_06",
+      "text": "Oh my..."
+    },
+    {
+      "start": 1759.79534375,
+      "end": 1759.84596875,
+      "speaker": "SPEAKER_05",
+      "text": "you"
+    },
+    {
+      "start": 1760.43659375,
+      "end": 1760.45346875,
+      "speaker": "SPEAKER_06",
+      "text": "you"
+    },
+    {
+      "start": 1760.45346875,
+      "end": 1766.0390937500001,
+      "speaker": "SPEAKER_05",
+      "text": "Oh no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no"
+    },
+    {
+      "start": 1766.0390937500001,
+      "end": 1767.0347187500001,
+      "speaker": "SPEAKER_04",
+      "text": "Anyway, so"
+    },
+    {
+      "start": 1767.0347187500001,
+      "end": 1781.76659375,
+      "speaker": "SPEAKER_06",
+      "text": "I do all people not babies. What they say now? What they say we got a layer on a side. What? Which side? The left, the left side. And they say we got to get something warm and try some towels or something."
+    },
+    {
+      "start": 1777.04159375,
+      "end": 1778.40846875,
+      "speaker": "SPEAKER_05",
+      "text": "Come on, Kelly!"
+    },
+    {
+      "start": 1782.23909375,
+      "end": 1782.89721875,
+      "speaker": "SPEAKER_05",
+      "text": "No!"
+    },
+    {
+      "start": 1782.89721875,
+      "end": 1782.96471875,
+      "speaker": "SPEAKER_06",
+      "text": "Bye."
+    },
+    {
+      "start": 1782.96471875,
+      "end": 1784.80409375,
+      "speaker": "SPEAKER_05",
+      "text": "Just in time"
+    },
+    {
+      "start": 1784.14596875,
+      "end": 1785.34409375,
+      "speaker": "SPEAKER_06",
+      "text": "Just in case."
+    },
+    {
+      "start": 1785.34409375,
+      "end": 1786.45784375,
+      "speaker": "SPEAKER_05",
+      "text": "No!"
+    },
+    {
+      "start": 1785.43784375,
+      "end": 1785.72471875,
+      "speaker": "SPEAKER_03",
+      "text": "Oh!"
+    },
+    {
+      "start": 1785.72471875,
+      "end": 1785.79221875,
+      "speaker": "SPEAKER_04",
+      "text": "Oh"
+    },
+    {
+      "start": 1785.79221875,
+      "end": 1788.00284375,
+      "speaker": "SPEAKER_03",
+      "text": "No, no, no, no, no."
+    },
+    {
+      "start": 1786.96409375,
+      "end": 1788.87096875,
+      "speaker": "SPEAKER_05",
+      "text": "Oh"
+    },
+    {
+      "start": 1788.00284375,
+      "end": 1788.82971875,
+      "speaker": "SPEAKER_10",
+      "text": "I"
+    },
+    {
+      "start": 1791.05721875,
+      "end": 1793.35971875,
+      "speaker": "SPEAKER_01",
+      "text": "I'm really not sure about this."
+    },
+    {
+      "start": 1792.99784375,
+      "end": 1794.75284375,
+      "speaker": "SPEAKER_10",
+      "text": "Yeah, well, it never bothered you last time."
+    },
+    {
+      "start": 1793.0559687500001,
+      "end": 1794.81096875,
+      "speaker": "SPEAKER_06",
+      "text": "Yeah, well it never bothered you last time."
+    },
+    {
+      "start": 1794.83721875,
+      "end": 1806.75846875,
+      "speaker": "SPEAKER_01",
+      "text": "Last time we were pretending he was dead. You were? This isn't pretending, this is covering up! What's the difference? Oh, about five years. What did he say? If anyone had found out about the first, we'd have probably got a slap on the wrist. Diz!"
+    },
+    {
+      "start": 1806.68346875,
+      "end": 1808.91096875,
+      "speaker": "SPEAKER_10",
+      "text": "Well, no one's gonna find out about this, though, are they?"
+    },
+    {
+      "start": 1806.75846875,
+      "end": 1808.86784375,
+      "speaker": "SPEAKER_06",
+      "text": "Well, no one's gonna find out about this, though, are they?"
+    },
+    {
+      "start": 1808.86784375,
+      "end": 1810.44659375,
+      "speaker": "SPEAKER_01",
+      "text": "like plenty of people already have."
+    },
+    {
+      "start": 1811.45909375,
+      "end": 1812.03284375,
+      "speaker": "SPEAKER_10",
+      "text": "Yeah, cool."
+    },
+    {
+      "start": 1811.51721875,
+      "end": 1812.07409375,
+      "speaker": "SPEAKER_06",
+      "text": "Yeah, cool."
+    },
+    {
+      "start": 1812.18471875,
+      "end": 1813.66971875,
+      "speaker": "SPEAKER_10",
+      "text": "They're all gonna keep their mouth shut."
+    },
+    {
+      "start": 1812.22596875,
+      "end": 1813.7278437500001,
+      "speaker": "SPEAKER_06",
+      "text": "They're all going to keep their mouth shut."
+    },
+    {
+      "start": 1815.18846875,
+      "end": 1816.38659375,
+      "speaker": "SPEAKER_10",
+      "text": "So there's no problem, is there?"
+    },
+    {
+      "start": 1820.11596875,
+      "end": 1820.1328437500001,
+      "speaker": "SPEAKER_10",
+      "text": "you"
+    },
+    {
+      "start": 1820.1328437500001,
+      "end": 1823.60909375,
+      "speaker": "SPEAKER_00",
+      "text": "Right, now that's sorted. Let's leave this to Les and the family."
+    },
+    {
+      "start": 1824.46971875,
+      "end": 1826.17409375,
+      "speaker": "SPEAKER_00",
+      "text": "Let the rest of us get back to the party, shall we?"
+    },
+    {
+      "start": 1832.53596875,
+      "end": 1832.89034375,
+      "speaker": "SPEAKER_00",
+      "text": "Alright."
+    },
+    {
+      "start": 1833.93659375,
+      "end": 1834.62846875,
+      "speaker": "SPEAKER_00",
+      "text": "Come on, you."
+    },
+    {
+      "start": 1835.20221875,
+      "end": 1836.45096875,
+      "speaker": "SPEAKER_00",
+      "text": "You've got a wedding to get back to."
+    },
+    {
+      "start": 1837.22721875,
+      "end": 1838.71221875,
+      "speaker": "SPEAKER_00",
+      "text": "General thinks she's been dumped to something."
+    },
+    {
+      "start": 1840.75409375,
+      "end": 1842.42471875,
+      "speaker": "SPEAKER_07",
+      "text": "I'm just gonna hang around here for a bit."
+    },
+    {
+      "start": 1842.89721875,
+      "end": 1843.57221875,
+      "speaker": "SPEAKER_00",
+      "text": "What for?"
+    },
+    {
+      "start": 1843.57221875,
+      "end": 1843.82534375,
+      "speaker": "SPEAKER_06",
+      "text": "Peace."
+    },
+    {
+      "start": 1845.71534375,
+      "end": 1845.79971875,
+      "speaker": "SPEAKER_06",
+      "text": "Yeah."
+    },
+    {
+      "start": 1847.9765937500001,
+      "end": 1848.02721875,
+      "speaker": "SPEAKER_02",
+      "text": "you"
+    },
+    {
+      "start": 1854.55784375,
+      "end": 1854.77721875,
+      "speaker": "SPEAKER_06",
+      "text": "the"
+    },
+    {
+      "start": 1854.77721875,
+      "end": 1854.84471875,
+      "speaker": "SPEAKER_04",
+      "text": "you"
+    },
+    {
+      "start": 1854.84471875,
+      "end": 1854.86159375,
+      "speaker": "SPEAKER_06",
+      "text": "you"
+    },
+    {
+      "start": 1854.86159375,
+      "end": 1854.92909375,
+      "speaker": "SPEAKER_04",
+      "text": "you"
+    },
+    {
+      "start": 1854.92909375,
+      "end": 1855.73909375,
+      "speaker": "SPEAKER_06",
+      "text": "I'm gonna say"
+    },
+    {
+      "start": 1856.21159375,
+      "end": 1856.76846875,
+      "speaker": "SPEAKER_04",
+      "text": "I'm full."
+    },
+    {
+      "start": 1857.02159375,
+      "end": 1858.03409375,
+      "speaker": "SPEAKER_06",
+      "text": "Could you be more epic?"
+    },
+    {
+      "start": 1858.03409375,
+      "end": 1858.96221875,
+      "speaker": "SPEAKER_07",
+      "text": "smile you got in your face."
+    },
+    {
+      "start": 1859.63721875,
+      "end": 1861.72971875,
+      "speaker": "SPEAKER_04",
+      "text": "Maybe this will be me in Japan, right?"
+    },
+    {
+      "start": 1862.89409375,
+      "end": 1863.61971875,
+      "speaker": "SPEAKER_04",
+      "text": "Tie in the knot."
+    },
+    {
+      "start": 1863.61971875,
+      "end": 1863.63659375,
+      "speaker": "SPEAKER_05",
+      "text": "you"
+    },
+    {
+      "start": 1864.54784375,
+      "end": 1864.58159375,
+      "speaker": "SPEAKER_04",
+      "text": "you"
+    },
+    {
+      "start": 1864.58159375,
+      "end": 1864.64909375,
+      "speaker": "SPEAKER_05",
+      "text": "you"
+    },
+    {
+      "start": 1864.64909375,
+      "end": 1864.93596875,
+      "speaker": "SPEAKER_04",
+      "text": "Oh"
+    },
+    {
+      "start": 1865.07096875,
+      "end": 1866.26909375,
+      "speaker": "SPEAKER_07",
+      "text": "Where is Jane and Ian anyway?"
+    },
+    {
+      "start": 1866.80909375,
+      "end": 1867.78784375,
+      "speaker": "SPEAKER_05",
+      "text": "At least I'm not bad."
+    },
+    {
+      "start": 1868.09159375,
+      "end": 1874.53784375,
+      "speaker": "SPEAKER_07",
+      "text": "It's not a young animal to be ugly. Best we stop there."
+    },
+    {
+      "start": 1875.16221875,
+      "end": 1886.23221875,
+      "speaker": "SPEAKER_05",
+      "text": "We need some towels. Someone had an accident. Out in water, hot water. And can you stick a sign on the car to the door to stop anyone coming in? What? Saying what? Closed. Due to childbirth."
+    },
+    {
+      "start": 1886.23221875,
+      "end": 1886.99159375,
+      "speaker": "SPEAKER_02",
+      "text": "Whoa!"
+    },
+    {
+      "start": 1888.32471875,
+      "end": 1888.72971875,
+      "speaker": "SPEAKER_05",
+      "text": "Ugh!"
+    },
+    {
+      "start": 1921.07909375,
+      "end": 1921.0959687499999,
+      "speaker": "SPEAKER_05",
+      "text": "you"
+    },
+    {
+      "start": 1921.0959687499999,
+      "end": 1921.61909375,
+      "speaker": "SPEAKER_12",
+      "text": "Strange."
+    },
+    {
+      "start": 1924.3359687500001,
+      "end": 1925.58471875,
+      "speaker": "SPEAKER_12",
+      "text": "I've said that mom was back."
+    },
+    {
+      "start": 1927.05284375,
+      "end": 1928.30159375,
+      "speaker": "SPEAKER_06",
+      "text": "Er, yeah, she was, yeah."
+    },
+    {
+      "start": 1935.49034375,
+      "end": 1936.87409375,
+      "speaker": "SPEAKER_06",
+      "text": "I think it'll all have it."
+    },
+    {
+      "start": 1938.08909375,
+      "end": 1939.18596875,
+      "speaker": "SPEAKER_06",
+      "text": "I'll talk to Stacy for a..."
+    },
+    {
+      "start": 1940.9240937499999,
+      "end": 1942.12221875,
+      "speaker": "SPEAKER_06",
+      "text": "You know, just tell her what you said to me."
+    },
+    {
+      "start": 1943.59034375,
+      "end": 1946.13846875,
+      "speaker": "SPEAKER_06",
+      "text": "Stuff about Lucy, he didn't mean it. He read it was all over the place."
+    },
+    {
+      "start": 1948.3828437500001,
+      "end": 1949.2265937500001,
+      "speaker": "SPEAKER_06",
+      "text": "All right, she's gonna just let me."
+    },
+    {
+      "start": 1952.02784375,
+      "end": 1953.09096875,
+      "speaker": "SPEAKER_04",
+      "text": "So you were a mum then?"
+    },
+    {
+      "start": 1953.09096875,
+      "end": 1954.79534375,
+      "speaker": "SPEAKER_06",
+      "text": "Go on, just leave a stace at the me, will you?"
+    },
+    {
+      "start": 1957.22534375,
+      "end": 1958.05221875,
+      "speaker": "SPEAKER_06",
+      "text": "Just leave everything to me."
+    },
+    {
+      "start": 1965.32534375,
+      "end": 1968.02534375,
+      "speaker": "SPEAKER_01",
+      "text": "I need a drink. I just shower."
+    },
+    {
+      "start": 1972.04159375,
+      "end": 1973.71221875,
+      "speaker": "SPEAKER_08",
+      "text": "I do have a drink myself after all that."
+    },
+    {
+      "start": 1976.42909375,
+      "end": 1977.0703437500001,
+      "speaker": "SPEAKER_08",
+      "text": "What are you doing?"
+    },
+    {
+      "start": 1979.23034375,
+      "end": 1979.24721875,
+      "speaker": "SPEAKER_00",
+      "text": "you"
+    },
+    {
+      "start": 1979.24721875,
+      "end": 1979.29784375,
+      "speaker": "SPEAKER_05",
+      "text": "you"
+    },
+    {
+      "start": 1979.29784375,
+      "end": 1979.43284375,
+      "speaker": "SPEAKER_00",
+      "text": "We'll be right back."
+    },
+    {
+      "start": 1979.43284375,
+      "end": 1979.56784375,
+      "speaker": "SPEAKER_05",
+      "text": "Bye."
+    },
+    {
+      "start": 1979.56784375,
+      "end": 1979.6015937500001,
+      "speaker": "SPEAKER_00",
+      "text": "you"
+    },
+    {
+      "start": 1981.18784375,
+      "end": 1987.24596875,
+      "speaker": "SPEAKER_05",
+      "text": "What is your law against shitting on a bench? That's a bench. So, look at the state of it."
+    },
+    {
+      "start": 1987.26284375,
+      "end": 1993.48971875,
+      "speaker": "SPEAKER_13",
+      "text": "Look at the state he was freezing! I feel alright! I wonder if you could feel anything if you drank all that!"
+    },
+    {
+      "start": 1993.48971875,
+      "end": 1995.17721875,
+      "speaker": "SPEAKER_08",
+      "text": "I'm not even watching it spill on a bench anyway."
+    },
+    {
+      "start": 1995.41346875,
+      "end": 1999.86846875,
+      "speaker": "SPEAKER_13",
+      "text": "Come on, let's get you home. I'll try. It stays. I really did. I thought..."
+    },
+    {
+      "start": 2001.33659375,
+      "end": 2009.5547187500001,
+      "speaker": "SPEAKER_13",
+      "text": "Don't do it. Don't kick off. Just have a couple of drinks. Toast a happy couple. Go home."
+    },
+    {
+      "start": 2014.06034375,
+      "end": 2017.75596875,
+      "speaker": "SPEAKER_13",
+      "text": "Still, I gave your Mrs Wat for so the night won't completely waste it."
+    },
+    {
+      "start": 2018.63346875,
+      "end": 2021.97471875,
+      "speaker": "SPEAKER_13",
+      "text": "Will you help me take a home?"
+    },
+    {
+      "start": 2023.54409375,
+      "end": 2025.18096875,
+      "speaker": "SPEAKER_08",
+      "text": "Yeah, yeah, of course."
+    },
+    {
+      "start": 2027.08784375,
+      "end": 2027.10471875,
+      "speaker": "SPEAKER_13",
+      "text": "you"
+    },
+    {
+      "start": 2027.10471875,
+      "end": 2027.59409375,
+      "speaker": "SPEAKER_03",
+      "text": "Come on."
+    },
+    {
+      "start": 2028.47159375,
+      "end": 2029.55159375,
+      "speaker": "SPEAKER_03",
+      "text": "Come on, get up."
+    },
+    {
+      "start": 2029.55159375,
+      "end": 2029.60221875,
+      "speaker": "SPEAKER_08",
+      "text": "and"
+    },
+    {
+      "start": 2029.60221875,
+      "end": 2030.59784375,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 2031.94784375,
+      "end": 2032.01534375,
+      "speaker": "SPEAKER_03",
+      "text": "you"
+    },
+    {
+      "start": 2034.71534375,
+      "end": 2035.03596875,
+      "speaker": "SPEAKER_03",
+      "text": "Okay."
+    },
+    {
+      "start": 2035.03596875,
+      "end": 2036.95971875,
+      "speaker": "SPEAKER_09",
+      "text": "I"
+    },
+    {
+      "start": 2038.56284375,
+      "end": 2043.38909375,
+      "speaker": "SPEAKER_09",
+      "text": "You're going to take him away. It's OK. We've worked out what we're going to do. Yeah?"
+    },
+    {
+      "start": 2043.99659375,
+      "end": 2045.19471875,
+      "speaker": "SPEAKER_07",
+      "text": "You're not gonna get in any trouble."
+    },
+    {
+      "start": 2045.19471875,
+      "end": 2046.8315937500001,
+      "speaker": "SPEAKER_09",
+      "text": "Just do what we say."
+    },
+    {
+      "start": 2047.87784375,
+      "end": 2052.09659375,
+      "speaker": "SPEAKER_09",
+      "text": "Everything's been taken care of, doc. Yes. Yes, I know it has."
+    },
+    {
+      "start": 2055.23534375,
+      "end": 2066.98034375,
+      "speaker": "SPEAKER_04",
+      "text": "Where are they? They're still ten minutes away. Don't think we've got ten minutes. I can see the edge. What? No! Take three back this time. We'll ask them if we've got the towels. Yeah, we have."
+    },
+    {
+      "start": 2058.30659375,
+      "end": 2058.45846875,
+      "speaker": "SPEAKER_09",
+      "text": "You"
+    },
+    {
+      "start": 2063.63909375,
+      "end": 2064.66846875,
+      "speaker": "SPEAKER_03",
+      "text": "That is tough!"
+    },
+    {
+      "start": 2067.36846875,
+      "end": 2080.53096875,
+      "speaker": "SPEAKER_04",
+      "text": "Yes. And they're saying if anything does happen... Going to never mind, dear. We've got to make sure we don't lie the baby on the floor because it has to be kept warm for the moment. This baby's too much for me. It's going to be linky-batter. They're saying we've got to lie the baby on Kim."
+    },
+    {
+      "start": 2070.35534375,
+      "end": 2071.92471875,
+      "speaker": "SPEAKER_00",
+      "text": "I'm going to never mind this!"
+    },
+    {
+      "start": 2075.70471875,
+      "end": 2076.56534375,
+      "speaker": "SPEAKER_00",
+      "text": "It's mine, honey."
+    },
+    {
+      "start": 2077.15596875,
+      "end": 2077.96596875,
+      "speaker": "SPEAKER_02",
+      "text": "I'm so sorry."
+    },
+    {
+      "start": 2078.33721875,
+      "end": 2078.64096875,
+      "speaker": "SPEAKER_00",
+      "text": "Oh!"
+    },
+    {
+      "start": 2078.87721875,
+      "end": 2078.97846875,
+      "speaker": "SPEAKER_03",
+      "text": "I'm not sure if you can see it."
+    },
+    {
+      "start": 2081.20596875,
+      "end": 2086.5553437500002,
+      "speaker": "SPEAKER_04",
+      "text": "Yeah, make sure it's dry and then we've got to lay the baby on mum because that's the best way, apparently."
+    },
+    {
+      "start": 2087.28096875,
+      "end": 2096.35971875,
+      "speaker": "SPEAKER_03",
+      "text": "Come on!"
+    },
+    {
+      "start": 2094.95909375,
+      "end": 2095.60034375,
+      "speaker": "SPEAKER_02",
+      "text": "I'm feeling it."
+    },
+    {
+      "start": 2097.15284375,
+      "end": 2100.39284375,
+      "speaker": "SPEAKER_03",
+      "text": "Everything's gonna be fine!"
+    },
+    {
+      "start": 2100.39284375,
+      "end": 2100.40971875,
+      "speaker": "SPEAKER_05",
+      "text": "you"
+    },
+    {
+      "start": 2103.68346875,
+      "end": 2103.86909375,
+      "speaker": "SPEAKER_05",
+      "text": "Thank you."
+    },
+    {
+      "start": 2105.03346875,
+      "end": 2107.34534375,
+      "speaker": "SPEAKER_05",
+      "text": "Little mites know when they're full term, you see?"
+    },
+    {
+      "start": 2108.02034375,
+      "end": 2112.62721875,
+      "speaker": "SPEAKER_03",
+      "text": "She got at least another couple of months to go."
+    },
+    {
+      "start": 2113.38659375,
+      "end": 2114.90534375,
+      "speaker": "SPEAKER_03",
+      "text": "Where is he?"
+    },
+    {
+      "start": 2114.90534375,
+      "end": 2114.93909375,
+      "speaker": "SPEAKER_07",
+      "text": "you"
+    },
+    {
+      "start": 2115.81659375,
+      "end": 2115.83346875,
+      "speaker": "SPEAKER_03",
+      "text": "you"
+    },
+    {
+      "start": 2115.83346875,
+      "end": 2125.68846875,
+      "speaker": "SPEAKER_07",
+      "text": "Ambulance. I just spoke to her mate, it was a cabbie. We don't need a cabbie, donut. We need a midwars. Apparently there's been a big smash-up on commercial road outside the church. Traffic's chock-up."
+    },
+    {
+      "start": 2118.26346875,
+      "end": 2118.41534375,
+      "speaker": "SPEAKER_03",
+      "text": "Yeah."
+    },
+    {
+      "start": 2151.32159375,
+      "end": 2151.37221875,
+      "speaker": "SPEAKER_11",
+      "text": "you"
+    },
+    {
+      "start": 2151.37221875,
+      "end": 2151.67596875,
+      "speaker": "SPEAKER_12",
+      "text": "you"
+    },
+    {
+      "start": 2151.67596875,
+      "end": 2151.70971875,
+      "speaker": "SPEAKER_11",
+      "text": "you"
+    },
+    {
+      "start": 2151.70971875,
+      "end": 2151.72659375,
+      "speaker": "SPEAKER_12",
+      "text": "you"
+    },
+    {
+      "start": 2151.72659375,
+      "end": 2151.81096875,
+      "speaker": "SPEAKER_11",
+      "text": "you"
+    },
+    {
+      "start": 2151.81096875,
+      "end": 2151.87846875,
+      "speaker": "SPEAKER_12",
+      "text": "you"
+    },
+    {
+      "start": 2151.87846875,
+      "end": 2152.24971875,
+      "speaker": "SPEAKER_11",
+      "text": "in here."
+    },
+    {
+      "start": 2152.24971875,
+      "end": 2152.41846875,
+      "speaker": "SPEAKER_12",
+      "text": "the"
+    },
+    {
+      "start": 2152.41846875,
+      "end": 2154.93284375,
+      "speaker": "SPEAKER_11",
+      "text": "Something came up, you know, to go somewhere."
+    },
+    {
+      "start": 2155.54034375,
+      "end": 2158.03784375,
+      "speaker": "SPEAKER_11",
+      "text": "It's your wedding? Yeah, no, we'll be back in a bit."
+    },
+    {
+      "start": 2158.61159375,
+      "end": 2162.0709687500002,
+      "speaker": "SPEAKER_12",
+      "text": "Yeah well I am, I won't so that's why I wanted to see you."
+    },
+    {
+      "start": 2162.93159375,
+      "end": 2163.80909375,
+      "speaker": "SPEAKER_12",
+      "text": "Why was the problem?"
+    },
+    {
+      "start": 2164.51784375,
+      "end": 2165.49659375,
+      "speaker": "SPEAKER_12",
+      "text": "Who says there is one?"
+    },
+    {
+      "start": 2166.30659375,
+      "end": 2167.23471875,
+      "speaker": "SPEAKER_11",
+      "text": "That look on your face?"
+    },
+    {
+      "start": 2168.93909375,
+      "end": 2169.98534375,
+      "speaker": "SPEAKER_12",
+      "text": "Been talking to Max."
+    },
+    {
+      "start": 2171.13284375,
+      "end": 2171.53784375,
+      "speaker": "SPEAKER_12",
+      "text": "And..."
+    },
+    {
+      "start": 2172.04409375,
+      "end": 2175.18284375,
+      "speaker": "SPEAKER_12",
+      "text": "Well I should know by now, shouldn't I? Trips down memory lane, never work out."
+    },
+    {
+      "start": 2176.22909375,
+      "end": 2177.44409375,
+      "speaker": "SPEAKER_12",
+      "text": "what you thought you and him"
+    },
+    {
+      "start": 2180.14409375,
+      "end": 2181.15659375,
+      "speaker": "SPEAKER_12",
+      "text": "Move away."
+    },
+    {
+      "start": 2182.21971875,
+      "end": 2184.8522187500002,
+      "speaker": "SPEAKER_12",
+      "text": "Sorry Jane, so I just, I want to get back home."
+    },
+    {
+      "start": 2186.42159375,
+      "end": 2187.87284375,
+      "speaker": "SPEAKER_12",
+      "text": "You're so lucky you know you're in here."
+    },
+    {
+      "start": 2188.6490937500002,
+      "end": 2191.04534375,
+      "speaker": "SPEAKER_12",
+      "text": "I know that sounds stupid, everything you've been through but it's like..."
+    },
+    {
+      "start": 2191.88909375,
+      "end": 2194.9772187500002,
+      "speaker": "SPEAKER_12",
+      "text": "Things go wrong and it just brings you closer together."
+    },
+    {
+      "start": 2218.4840937500003,
+      "end": 2219.51346875,
+      "speaker": "SPEAKER_08",
+      "text": "Then if you get insomniac..."
+    },
+    {
+      "start": 2222.60159375,
+      "end": 2223.07409375,
+      "speaker": "SPEAKER_08",
+      "text": "Waiting."
+    },
+    {
+      "start": 2224.8122187500003,
+      "end": 2225.80784375,
+      "speaker": "SPEAKER_08",
+      "text": "Best man, kike."
+    },
+    {
+      "start": 2229.46971875,
+      "end": 2232.76034375,
+      "speaker": "SPEAKER_08",
+      "text": "I'll give you a few minutes. I was a little bit more than a wedding going on now at the moment."
+    },
+    {
+      "start": 2235.27471875,
+      "end": 2236.16909375,
+      "speaker": "SPEAKER_07",
+      "text": "I can't even go in."
+    },
+    {
+      "start": 2238.22784375,
+      "end": 2238.49784375,
+      "speaker": "SPEAKER_07",
+      "text": "well"
+    },
+    {
+      "start": 2241.28221875,
+      "end": 2242.04159375,
+      "speaker": "SPEAKER_07",
+      "text": "You have a kill challenge."
+    },
+    {
+      "start": 2244.28596875,
+      "end": 2244.52221875,
+      "speaker": "SPEAKER_07",
+      "text": "Ah."
+    },
+    {
+      "start": 2245.92284375,
+      "end": 2246.27721875,
+      "speaker": "SPEAKER_07",
+      "text": "You heard?"
+    },
+    {
+      "start": 2249.58471875,
+      "end": 2250.39471875,
+      "speaker": "SPEAKER_08",
+      "text": "I have a question, sir."
+    },
+    {
+      "start": 2252.48721875,
+      "end": 2252.80784375,
+      "speaker": "SPEAKER_07",
+      "text": "Have you?"
+    },
+    {
+      "start": 2257.51596875,
+      "end": 2258.62971875,
+      "speaker": "SPEAKER_08",
+      "text": "I've wanted to, yeah, but I..."
+    },
+    {
+      "start": 2260.43534375,
+      "end": 2260.50284375,
+      "speaker": "SPEAKER_08",
+      "text": "you"
+    },
+    {
+      "start": 2260.50284375,
+      "end": 2260.51971875,
+      "speaker": "SPEAKER_07",
+      "text": "you"
+    },
+    {
+      "start": 2260.51971875,
+      "end": 2260.70534375,
+      "speaker": "SPEAKER_08",
+      "text": "."
+    },
+    {
+      "start": 2266.67909375,
+      "end": 2267.48909375,
+      "speaker": "SPEAKER_07",
+      "text": "How can you live with it?"
+    },
+    {
+      "start": 2271.11721875,
+      "end": 2272.39971875,
+      "speaker": "SPEAKER_07",
+      "text": "How long can you go before you..."
+    },
+    {
+      "start": 2274.08721875,
+      "end": 2274.40784375,
+      "speaker": "SPEAKER_07",
+      "text": "Wow."
+    },
+    {
+      "start": 2277.39471875,
+      "end": 2277.79971875,
+      "speaker": "SPEAKER_07",
+      "text": "Atalama."
+    },
+    {
+      "start": 2278.9303437500002,
+      "end": 2279.67284375,
+      "speaker": "SPEAKER_07",
+      "text": "Crackers, boys."
+    },
+    {
+      "start": 2283.94221875,
+      "end": 2285.0222187500003,
+      "speaker": "SPEAKER_07",
+      "text": "Some people don't know, do they?"
+    },
+    {
+      "start": 2288.7009687500004,
+      "end": 2289.25784375,
+      "speaker": "SPEAKER_08",
+      "text": "Love him."
+    },
+    {
+      "start": 2291.14784375,
+      "end": 2292.80159375,
+      "speaker": "SPEAKER_08",
+      "text": "I made a few mistakes in my time."
+    },
+    {
+      "start": 2295.07971875,
+      "end": 2296.36221875,
+      "speaker": "SPEAKER_08",
+      "text": "few enemies but um"
+    },
+    {
+      "start": 2298.38721875,
+      "end": 2299.28159375,
+      "speaker": "SPEAKER_08",
+      "text": "I've never killed no one."
+    },
+    {
+      "start": 2299.28159375,
+      "end": 2299.31534375,
+      "speaker": "SPEAKER_07",
+      "text": "you"
+    },
+    {
+      "start": 2302.3190937500003,
+      "end": 2304.41159375,
+      "speaker": "SPEAKER_07",
+      "text": "Sometimes it's not your enemies though, is it? Sometimes it's..."
+    },
+    {
+      "start": 2307.66846875,
+      "end": 2308.29284375,
+      "speaker": "SPEAKER_07",
+      "text": "Someone"
+    },
+    {
+      "start": 2309.67659375,
+      "end": 2311.11096875,
+      "speaker": "SPEAKER_07",
+      "text": "I said it to me earlier tonight, and they're right."
+    },
+    {
+      "start": 2313.62534375,
+      "end": 2314.6715937500003,
+      "speaker": "SPEAKER_07",
+      "text": "Sometimes it's C."
+    },
+    {
+      "start": 2316.22409375,
+      "end": 2317.06784375,
+      "speaker": "SPEAKER_07",
+      "text": "People you love and..."
+    },
+    {
+      "start": 2317.8103437500004,
+      "end": 2318.90721875,
+      "speaker": "SPEAKER_07",
+      "text": "It's for all sorts of reasons."
+    },
+    {
+      "start": 2320.44284375,
+      "end": 2320.84784375,
+      "speaker": "SPEAKER_07",
+      "text": "When's that?"
+    },
+    {
+      "start": 2321.6240937499997,
+      "end": 2323.27784375,
+      "speaker": "SPEAKER_07",
+      "text": "Better do you think or worse?"
+    },
+    {
+      "start": 2324.8809687499997,
+      "end": 2326.97346875,
+      "speaker": "SPEAKER_07",
+      "text": "You know, killing that love, not hate."
+    },
+    {
+      "start": 2331.79971875,
+      "end": 2332.9303437500002,
+      "speaker": "SPEAKER_07",
+      "text": "Doesn't make any difference, I deserve."
+    },
+    {
+      "start": 2336.86221875,
+      "end": 2336.9128437500003,
+      "speaker": "SPEAKER_07",
+      "text": "you"
+    },
+    {
+      "start": 2336.9128437500003,
+      "end": 2336.94659375,
+      "speaker": "SPEAKER_08",
+      "text": "you"
+    },
+    {
+      "start": 2336.94659375,
+      "end": 2336.96346875,
+      "speaker": "SPEAKER_07",
+      "text": "you"
+    },
+    {
+      "start": 2336.96346875,
+      "end": 2337.0309687500003,
+      "speaker": "SPEAKER_08",
+      "text": "in"
+    },
+    {
+      "start": 2337.0309687500003,
+      "end": 2337.60471875,
+      "speaker": "SPEAKER_07",
+      "text": "No, didn't you?"
+    },
+    {
+      "start": 2337.60471875,
+      "end": 2337.6553437499997,
+      "speaker": "SPEAKER_08",
+      "text": "you"
+    },
+    {
+      "start": 2340.7097187500003,
+      "end": 2341.7559687499997,
+      "speaker": "SPEAKER_08",
+      "text": "You know I killed Lucy."
+    },
+    {
+      "start": 2346.8184687499997,
+      "end": 2347.2403437499997,
+      "speaker": "SPEAKER_07",
+      "text": "I did."
+    },
+    {
+      "start": 2349.72096875,
+      "end": 2350.63221875,
+      "speaker": "SPEAKER_07",
+      "text": "Not until tonight, but..."
+    },
+    {
+      "start": 2352.4209687499997,
+      "end": 2353.46721875,
+      "speaker": "SPEAKER_07",
+      "text": "I'm putting the pieces together."
+    },
+    {
+      "start": 2356.18409375,
+      "end": 2356.2009687500004,
+      "speaker": "SPEAKER_07",
+      "text": "you"
+    },
+    {
+      "start": 2356.2009687500004,
+      "end": 2357.31471875,
+      "speaker": "SPEAKER_08",
+      "text": "You said someone left sina?"
+    },
+    {
+      "start": 2362.93409375,
+      "end": 2363.7272187500002,
+      "speaker": "SPEAKER_08",
+      "text": "So I'm going to use that."
+    },
+    {
+      "start": 2369.26221875,
+      "end": 2370.19034375,
+      "speaker": "SPEAKER_08",
+      "text": "What are you doing out here?"
+    },
+    {
+      "start": 2372.6540937500004,
+      "end": 2373.63284375,
+      "speaker": "SPEAKER_08",
+      "text": "Why ain't you gonna find a-"
+    },
+    {
+      "start": 2375.86034375,
+      "end": 2376.33284375,
+      "speaker": "SPEAKER_07",
+      "text": "I don't have to."
+    },
+    {
+      "start": 2378.66159375,
+      "end": 2379.4040937500004,
+      "speaker": "SPEAKER_07",
+      "text": "They're gonna come to me."
+    },
+    {
+      "start": 2384.2809687500003,
+      "end": 2384.5847187500003,
+      "speaker": "SPEAKER_02",
+      "text": "you"
+    },
+    {
+      "start": 2384.5847187500003,
+      "end": 2386.0865937500002,
+      "speaker": "SPEAKER_03",
+      "text": "AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH"
+    },
+    {
+      "start": 2386.02846875,
+      "end": 2386.04534375,
+      "speaker": "SPEAKER_06",
+      "text": "you"
+    },
+    {
+      "start": 2386.04534375,
+      "end": 2386.23096875,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah."
+    },
+    {
+      "start": 2387.82471875,
+      "end": 2389.57971875,
+      "speaker": "SPEAKER_03",
+      "text": "Oh!"
+    },
+    {
+      "start": 2387.86784375,
+      "end": 2389.50471875,
+      "speaker": "SPEAKER_06",
+      "text": "Oh!"
+    },
+    {
+      "start": 2390.96346875,
+      "end": 2392.09409375,
+      "speaker": "SPEAKER_03",
+      "text": "Come on, kids!"
+    },
+    {
+      "start": 2390.98971875,
+      "end": 2398.19534375,
+      "speaker": "SPEAKER_06",
+      "text": "Come on, kids. Any minute now! Hush! Oh, God! You've got to."
+    },
+    {
+      "start": 2392.09409375,
+      "end": 2398.15221875,
+      "speaker": "SPEAKER_04",
+      "text": "Any minute now! Hush! Oh, God! You've got to!"
+    },
+    {
+      "start": 2399.70471875,
+      "end": 2409.57659375,
+      "speaker": "SPEAKER_04",
+      "text": "I don't have a baby to be born in here. You haven't got much choice. I want doctor."
+    },
+    {
+      "start": 2399.78159375,
+      "end": 2409.70409375,
+      "speaker": "SPEAKER_06",
+      "text": "I don't want babies to be born in here. You haven't got much choice. I want drugs then."
+    },
+    {
+      "start": 2409.7115937500002,
+      "end": 2409.96471875,
+      "speaker": "SPEAKER_04",
+      "text": "Thank you."
+    },
+    {
+      "start": 2409.73784375,
+      "end": 2411.81346875,
+      "speaker": "SPEAKER_06",
+      "text": "Hospital!"
+    },
+    {
+      "start": 2409.96471875,
+      "end": 2411.68596875,
+      "speaker": "SPEAKER_03",
+      "text": "Hospital!"
+    },
+    {
+      "start": 2411.66909375,
+      "end": 2412.7322187500004,
+      "speaker": "SPEAKER_04",
+      "text": "Get that, will ya?"
+    },
+    {
+      "start": 2411.81346875,
+      "end": 2415.27284375,
+      "speaker": "SPEAKER_08",
+      "text": "Get her, will ya? I don't care if I have to leave the playman and my little..."
+    },
+    {
+      "start": 2414.66534375,
+      "end": 2415.28971875,
+      "speaker": "SPEAKER_06",
+      "text": "I'm gonna show you!"
+    },
+    {
+      "start": 2415.28971875,
+      "end": 2415.32346875,
+      "speaker": "SPEAKER_08",
+      "text": "you"
+    },
+    {
+      "start": 2415.32346875,
+      "end": 2415.39096875,
+      "speaker": "SPEAKER_06",
+      "text": "That's it."
+    },
+    {
+      "start": 2415.39096875,
+      "end": 2415.42471875,
+      "speaker": "SPEAKER_08",
+      "text": "you"
+    },
+    {
+      "start": 2415.42471875,
+      "end": 2416.20096875,
+      "speaker": "SPEAKER_06",
+      "text": "I'm scared!"
+    },
+    {
+      "start": 2416.89284375,
+      "end": 2417.14596875,
+      "speaker": "SPEAKER_06",
+      "text": "I'm gonna die."
+    },
+    {
+      "start": 2424.75659375,
+      "end": 2425.29659375,
+      "speaker": "SPEAKER_01",
+      "text": "I wish he..."
+    },
+    {
+      "start": 2426.86596875,
+      "end": 2428.51971875,
+      "speaker": "SPEAKER_01",
+      "text": "Yeah? Oh, look on the bright side."
+    },
+    {
+      "start": 2429.21159375,
+      "end": 2430.66284375,
+      "speaker": "SPEAKER_01",
+      "text": "I'll be right, remember most of it anyway."
+    },
+    {
+      "start": 2431.06784375,
+      "end": 2432.55284375,
+      "speaker": "SPEAKER_04",
+      "text": "She always remembers."
+    },
+    {
+      "start": 2433.17721875,
+      "end": 2433.90284375,
+      "speaker": "SPEAKER_04",
+      "text": "That's the trouble."
+    },
+    {
+      "start": 2437.29471875,
+      "end": 2438.89784375,
+      "speaker": "SPEAKER_04",
+      "text": "Now you know why you moved away, right?"
+    },
+    {
+      "start": 2440.01159375,
+      "end": 2440.63596875,
+      "speaker": "SPEAKER_01",
+      "text": "Things happen."
+    },
+    {
+      "start": 2441.59784375,
+      "end": 2443.16721875,
+      "speaker": "SPEAKER_01",
+      "text": "If I hadn't, maybe I'd still be here."
+    },
+    {
+      "start": 2444.28096875,
+      "end": 2444.85471875,
+      "speaker": "SPEAKER_01",
+      "text": "on the stove."
+    },
+    {
+      "start": 2445.78284375,
+      "end": 2447.13284375,
+      "speaker": "SPEAKER_04",
+      "text": "Now I know you're joking."
+    },
+    {
+      "start": 2446.81221875,
+      "end": 2451.68909375,
+      "speaker": "SPEAKER_01",
+      "text": "I mean, serious. I mean, every now and then I thought about it, you know, coming back."
+    },
+    {
+      "start": 2452.58346875,
+      "end": 2453.39346875,
+      "speaker": "SPEAKER_01",
+      "text": "It's starting again."
+    },
+    {
+      "start": 2454.67596875,
+      "end": 2456.38034375,
+      "speaker": "SPEAKER_04",
+      "text": "There's nothing stopping you now."
+    },
+    {
+      "start": 2458.38846875,
+      "end": 2460.71721875,
+      "speaker": "SPEAKER_01",
+      "text": "I find stopping me doing anything that's price"
+    },
+    {
+      "start": 2461.89846875,
+      "end": 2462.33721875,
+      "speaker": "SPEAKER_01",
+      "text": "Oh yeah."
+    },
+    {
+      "start": 2463.43409375,
+      "end": 2464.32846875,
+      "speaker": "SPEAKER_04",
+      "text": "Yeah, I suppose."
+    },
+    {
+      "start": 2471.44971875,
+      "end": 2471.95596875,
+      "speaker": "SPEAKER_01",
+      "text": "I'm sorry."
+    },
+    {
+      "start": 2473.10346875,
+      "end": 2473.76159375,
+      "speaker": "SPEAKER_01",
+      "text": "just for"
+    },
+    {
+      "start": 2473.76159375,
+      "end": 2476.71471875,
+      "speaker": "SPEAKER_04",
+      "text": "Yeah, the door's behind you. Just see yourself out."
+    },
+    {
+      "start": 2490.53534375,
+      "end": 2493.23534375,
+      "speaker": "SPEAKER_06",
+      "text": "Oh"
+    },
+    {
+      "start": 2495.54721875,
+      "end": 2505.38534375,
+      "speaker": "SPEAKER_06",
+      "text": "Brilliant just one more time. Oh, I'm going to say the turning on the other side. Come on Kim, just one more time."
+    },
+    {
+      "start": 2507.05596875,
+      "end": 2507.24159375,
+      "speaker": "SPEAKER_06",
+      "text": "you"
+    },
+    {
+      "start": 2509.94159375,
+      "end": 2512.35471875,
+      "speaker": "SPEAKER_06",
+      "text": "I'm so sorry!"
+    },
+    {
+      "start": 2514.56534375,
+      "end": 2517.11346875,
+      "speaker": "SPEAKER_06",
+      "text": "Oh my god!"
+    },
+    {
+      "start": 2520.11721875,
+      "end": 2520.25221875,
+      "speaker": "SPEAKER_07",
+      "text": "Yeah."
+    },
+    {
+      "start": 2520.25221875,
+      "end": 2520.26909375,
+      "speaker": "SPEAKER_06",
+      "text": "you"
+    },
+    {
+      "start": 2520.26909375,
+      "end": 2520.38721875,
+      "speaker": "SPEAKER_07",
+      "text": "I'm so sorry."
+    },
+    {
+      "start": 2522.4459687500002,
+      "end": 2522.47971875,
+      "speaker": "SPEAKER_06",
+      "text": "you"
+    },
+    {
+      "start": 2522.47971875,
+      "end": 2523.2897187500002,
+      "speaker": "SPEAKER_07",
+      "text": "Everything okay?"
+    },
+    {
+      "start": 2525.28096875,
+      "end": 2529.46596875,
+      "speaker": "SPEAKER_07",
+      "text": "What's happening? Stay calm, Emma."
+    },
+    {
+      "start": 2530.91721875,
+      "end": 2532.94221875,
+      "speaker": "SPEAKER_07",
+      "text": "I want to see my baby."
+    },
+    {
+      "start": 2534.30909375,
+      "end": 2534.86596875,
+      "speaker": "SPEAKER_07",
+      "text": "Sonia"
+    },
+    {
+      "start": 2541.39659375,
+      "end": 2542.05471875,
+      "speaker": "SPEAKER_06",
+      "text": "Thank you."
+    },
+    {
+      "start": 2542.62846875,
+      "end": 2548.21409375,
+      "speaker": "SPEAKER_06",
+      "text": "He's crazy."
+    },
+    {
+      "start": 2549.81721875,
+      "end": 2550.25596875,
+      "speaker": "SPEAKER_06",
+      "text": "you"
+    },
+    {
+      "start": 2559.43596875,
+      "end": 2559.55409375,
+      "speaker": "SPEAKER_05",
+      "text": "Bye."
+    },
+    {
+      "start": 2563.73909375,
+      "end": 2563.97534375,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah."
+    },
+    {
+      "start": 2581.91346875,
+      "end": 2583.36471875,
+      "speaker": "SPEAKER_09",
+      "text": "Oh, he's having a look."
+    },
+    {
+      "start": 2583.90471875,
+      "end": 2584.69784375,
+      "speaker": "SPEAKER_09",
+      "text": "I think so."
+    },
+    {
+      "start": 2586.67221875,
+      "end": 2587.78596875,
+      "speaker": "SPEAKER_09",
+      "text": "He's so tiny."
+    },
+    {
+      "start": 2588.42721875,
+      "end": 2593.11846875,
+      "speaker": "SPEAKER_09",
+      "text": "I think everything's good. I mean, she's breathing, she's moving. She!"
+    },
+    {
+      "start": 2593.94534375,
+      "end": 2596.93221875,
+      "speaker": "SPEAKER_09",
+      "text": "Just stay calm, yeah? She's gorgeous, Kim."
+    },
+    {
+      "start": 2595.66659375,
+      "end": 2596.05471875,
+      "speaker": "SPEAKER_04",
+      "text": "What the?"
+    },
+    {
+      "start": 2598.21471875,
+      "end": 2599.02471875,
+      "speaker": "SPEAKER_09",
+      "text": "Look at that."
+    },
+    {
+      "start": 2599.02471875,
+      "end": 2601.38721875,
+      "speaker": "SPEAKER_08",
+      "text": "She's so small."
+    },
+    {
+      "start": 2602.01159375,
+      "end": 2602.45034375,
+      "speaker": "SPEAKER_08",
+      "text": "Let's move."
+    },
+    {
+      "start": 2602.45034375,
+      "end": 2602.46721875,
+      "speaker": "SPEAKER_09",
+      "text": "you"
+    },
+    {
+      "start": 2603.76659375,
+      "end": 2604.96471875,
+      "speaker": "SPEAKER_08",
+      "text": "No, I mean, she's..."
+    },
+    {
+      "start": 2604.96471875,
+      "end": 2605.63971875,
+      "speaker": "SPEAKER_09",
+      "text": "precious."
+    },
+    {
+      "start": 2605.87596875,
+      "end": 2605.89284375,
+      "speaker": "SPEAKER_08",
+      "text": "you"
+    },
+    {
+      "start": 2605.89284375,
+      "end": 2606.23034375,
+      "speaker": "SPEAKER_09",
+      "text": "Can I just..."
+    },
+    {
+      "start": 2606.61846875,
+      "end": 2606.63534375,
+      "speaker": "SPEAKER_08",
+      "text": "you"
+    },
+    {
+      "start": 2606.63534375,
+      "end": 2611.10721875,
+      "speaker": "SPEAKER_09",
+      "text": "She's precious. Precious. It's a lovely night. Yes, really nice."
+    },
+    {
+      "start": 2611.10721875,
+      "end": 2611.12409375,
+      "speaker": "SPEAKER_08",
+      "text": "you"
+    },
+    {
+      "start": 2611.12409375,
+      "end": 2611.15784375,
+      "speaker": "SPEAKER_09",
+      "text": "you"
+    },
+    {
+      "start": 2611.15784375,
+      "end": 2611.39409375,
+      "speaker": "SPEAKER_08",
+      "text": "Yeah!"
+    },
+    {
+      "start": 2612.50784375,
+      "end": 2613.41909375,
+      "speaker": "SPEAKER_08",
+      "text": "What do you think?"
+    },
+    {
+      "start": 2614.33034375,
+      "end": 2616.25409375,
+      "speaker": "SPEAKER_08",
+      "text": "I'm not gonna name a doubt on your say so."
+    },
+    {
+      "start": 2621.82284375,
+      "end": 2622.32909375,
+      "speaker": "SPEAKER_08",
+      "text": "pal"
+    },
+    {
+      "start": 2624.26971875,
+      "end": 2625.58596875,
+      "speaker": "SPEAKER_08",
+      "text": "She's a little perv."
+    },
+    {
+      "start": 2626.34534375,
+      "end": 2626.42971875,
+      "speaker": "SPEAKER_09",
+      "text": "you"
+    },
+    {
+      "start": 2626.42971875,
+      "end": 2626.44659375,
+      "speaker": "SPEAKER_08",
+      "text": "you"
+    },
+    {
+      "start": 2626.44659375,
+      "end": 2629.04534375,
+      "speaker": "SPEAKER_09",
+      "text": "Oh, thank God. Well done. Well done."
+    },
+    {
+      "start": 2628.58971875,
+      "end": 2628.80909375,
+      "speaker": "SPEAKER_08",
+      "text": "Bye."
+    },
+    {
+      "start": 2629.82159375,
+      "end": 2631.86346875,
+      "speaker": "SPEAKER_08",
+      "text": "I'll just be here."
+    },
+    {
+      "start": 2629.99034375,
+      "end": 2631.01971875,
+      "speaker": "SPEAKER_09",
+      "text": "Thank you."
+    },
+    {
+      "start": 2631.01971875,
+      "end": 2631.03659375,
+      "speaker": "SPEAKER_10",
+      "text": "you"
+    },
+    {
+      "start": 2631.03659375,
+      "end": 2631.22221875,
+      "speaker": "SPEAKER_05",
+      "text": "Yeah."
+    },
+    {
+      "start": 2631.86346875,
+      "end": 2631.93096875,
+      "speaker": "SPEAKER_10",
+      "text": "you"
+    },
+    {
+      "start": 2631.93096875,
+      "end": 2632.90971875,
+      "speaker": "SPEAKER_08",
+      "text": "I'm sorry."
+    },
+    {
+      "start": 2634.2428437500002,
+      "end": 2634.79971875,
+      "speaker": "SPEAKER_08",
+      "text": "You're okay."
+    },
+    {
+      "start": 2635.30596875,
+      "end": 2636.72346875,
+      "speaker": "SPEAKER_08",
+      "text": "Cheers. Wednesday's coming back."
+    },
+    {
+      "start": 2636.97659375,
+      "end": 2639.7272187500002,
+      "speaker": "SPEAKER_01",
+      "text": "Tom's give it a few hours. We'll have that party finished first."
+    },
+    {
+      "start": 2645.6334687500002,
+      "end": 2647.00034375,
+      "speaker": "SPEAKER_06",
+      "text": "There's an ambulance outside the Vic."
+    },
+    {
+      "start": 2647.92846875,
+      "end": 2648.73846875,
+      "speaker": "SPEAKER_06",
+      "text": "I need an"
+    },
+    {
+      "start": 2649.88596875,
+      "end": 2650.74659375,
+      "speaker": "SPEAKER_06",
+      "text": "So please go too."
+    },
+    {
+      "start": 2651.65784375,
+      "end": 2652.07971875,
+      "speaker": "SPEAKER_06",
+      "text": "and the"
+    },
+    {
+      "start": 2654.27346875,
+      "end": 2656.01159375,
+      "speaker": "SPEAKER_00",
+      "text": "It's probably on patrol."
+    },
+    {
+      "start": 2664.01034375,
+      "end": 2664.55034375,
+      "speaker": "SPEAKER_02",
+      "text": "Charlie?"
+    },
+    {
+      "start": 2666.91284375,
+      "end": 2667.46971875,
+      "speaker": "SPEAKER_02",
+      "text": "I'm trying."
+    },
+    {
+      "start": 2668.09409375,
+      "end": 2669.47784375,
+      "speaker": "SPEAKER_02",
+      "text": "They know. What?"
+    },
+    {
+      "start": 2670.40596875,
+      "end": 2672.56596875,
+      "speaker": "SPEAKER_02",
+      "text": "I phoned them when I was in the kitchen."
+    },
+    {
+      "start": 2684.32784375,
+      "end": 2685.20534375,
+      "speaker": "SPEAKER_10",
+      "text": "Mrs. Browning."
+    },
+    {
+      "start": 2685.20534375,
+      "end": 2685.25596875,
+      "speaker": "SPEAKER_02",
+      "text": "you"
+    },
+    {
+      "start": 2685.79596875,
+      "end": 2685.82971875,
+      "speaker": "SPEAKER_10",
+      "text": "Yeah."
+    },
+    {
+      "start": 2685.82971875,
+      "end": 2686.33596875,
+      "speaker": "SPEAKER_02",
+      "text": "the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of"
+    },
+    {
+      "start": 2687.19659375,
+      "end": 2687.21346875,
+      "speaker": "SPEAKER_10",
+      "text": "you"
+    },
+    {
+      "start": 2687.21346875,
+      "end": 2700.78096875,
+      "speaker": "SPEAKER_02",
+      "text": "You called Warford Police Station. I told the young lady who answered the phone. I killed my son. He's next door at number 23. No, she's got this all wrong. She doesn't know what she's saying. I do, Charlie."
+    },
+    {
+      "start": 2704.54409375,
+      "end": 2705.55659375,
+      "speaker": "SPEAKER_10",
+      "text": "You better show me then."
+    },
+    {
+      "start": 2758.10534375,
+      "end": 2758.71284375,
+      "speaker": "SPEAKER_03",
+      "text": "I love you."
+    },
+    {
+      "start": 2768.48346875,
+      "end": 2769.32721875,
+      "speaker": "SPEAKER_07",
+      "text": "Oh, God."
+    },
+    {
+      "start": 2770.5084687500002,
+      "end": 2770.54221875,
+      "speaker": "SPEAKER_07",
+      "text": "you"
+    },
+    {
+      "start": 2771.11596875,
+      "end": 2771.53784375,
+      "speaker": "SPEAKER_07",
+      "text": "What?"
+    },
+    {
+      "start": 2798.60534375,
+      "end": 2802.30096875,
+      "speaker": "SPEAKER_09",
+      "text": "Anything we can do, you just let us know, all right? It's just routine, Kim."
+    },
+    {
+      "start": 2802.82409375,
+      "end": 2806.41846875,
+      "speaker": "SPEAKER_09",
+      "text": "You promise? Yeah, they just need to get the baby checked out, that's all."
+    },
+    {
+      "start": 2808.25784375,
+      "end": 2810.55284375,
+      "speaker": "SPEAKER_08",
+      "text": "And that's it, yeah? She's gonna be fine."
+    },
+    {
+      "start": 2810.55284375,
+      "end": 2812.25721875,
+      "speaker": "SPEAKER_06",
+      "text": "She is."
+    },
+    {
+      "start": 2812.25721875,
+      "end": 2813.94471875,
+      "speaker": "SPEAKER_08",
+      "text": "I'm gonna come with you"
+    },
+    {
+      "start": 2813.94471875,
+      "end": 2815.26096875,
+      "speaker": "SPEAKER_06",
+      "text": "Good idea."
+    },
+    {
+      "start": 2815.46346875,
+      "end": 2833.97534375,
+      "speaker": "SPEAKER_08",
+      "text": "No, I don't want you anywhere near us. What? You've already told me what you think of her. Far with your concern, she's just a stupid mistake. Oh, Kim. But you're loving this, innit? Silly cow, can't even give birth where she's supposed to. Kim, I didn't mean any of the things that I've said, innit? Well, maybe I wanted out of you and upset me."
+    },
+    {
+      "start": 2834.97096875,
+      "end": 2838.14346875,
+      "speaker": "SPEAKER_08",
+      "text": "How do I want you anywhere near me or my baby?"
+    },
+    {
+      "start": 2838.78471875,
+      "end": 2839.71284375,
+      "speaker": "SPEAKER_08",
+      "text": "He wants to..."
+    },
+    {
+      "start": 2840.5397187500002,
+      "end": 2841.16409375,
+      "speaker": "SPEAKER_08",
+      "text": "We need to go."
+    },
+    {
+      "start": 2843.72909375,
+      "end": 2844.74159375,
+      "speaker": "SPEAKER_08",
+      "text": "You stay away."
+    },
+    {
+      "start": 2874.45846875,
+      "end": 2876.83784375,
+      "speaker": "SPEAKER_10",
+      "text": "I'll need to take you down to the station, Mrs. Brennan."
+    },
+    {
+      "start": 2877.15846875,
+      "end": 2877.74909375,
+      "speaker": "SPEAKER_02",
+      "text": "Yes."
+    },
+    {
+      "start": 2878.69409375,
+      "end": 2879.87534375,
+      "speaker": "SPEAKER_02",
+      "text": "Understand."
+    },
+    {
+      "start": 2911.56659375,
+      "end": 2912.84909375,
+      "speaker": "SPEAKER_03",
+      "text": "I want to come home."
+    },
+    {
+      "start": 2913.62534375,
+      "end": 2913.86159375,
+      "speaker": "SPEAKER_00",
+      "text": "I'm not."
+    },
+    {
+      "start": 2914.90784375,
+      "end": 2915.41409375,
+      "speaker": "SPEAKER_00",
+      "text": "How you come?"
+    },
+    {
+      "start": 2916.4772187500002,
+      "end": 2917.03409375,
+      "speaker": "SPEAKER_00",
+      "text": "I know, right?"
+    },
+    {
+      "start": 2917.8272187499997,
+      "end": 2919.26159375,
+      "speaker": "SPEAKER_00",
+      "text": "Ben, and I don't need it."
+    },
+    {
+      "start": 2919.88596875,
+      "end": 2920.7634687500004,
+      "speaker": "SPEAKER_00",
+      "text": "The mom and Billy?"
+    },
+    {
+      "start": 2922.13034375,
+      "end": 2922.60284375,
+      "speaker": "SPEAKER_00",
+      "text": "right."
+    },
+    {
+      "start": 2923.58159375,
+      "end": 2924.44221875,
+      "speaker": "SPEAKER_03",
+      "text": "Please, Phil."
+    },
+    {
+      "start": 2928.91409375,
+      "end": 2929.69034375,
+      "speaker": "SPEAKER_03",
+      "text": "I've got to go."
+    },
+    {
+      "start": 2931.49596875,
+      "end": 2932.20471875,
+      "speaker": "SPEAKER_03",
+      "text": "Please, Phil."
+    },
+    {
+      "start": 2932.94721875,
+      "end": 2933.52096875,
+      "speaker": "SPEAKER_03",
+      "text": "Please."
+    },
+    {
+      "start": 2946.76784375,
+      "end": 2948.2022187499997,
+      "speaker": "SPEAKER_10",
+      "text": "I ain't gonna run away, is it?"
+    },
+    {
+      "start": 2967.37221875,
+      "end": 2967.38909375,
+      "speaker": "SPEAKER_08",
+      "text": "you"
+    },
+    {
+      "start": 2967.38909375,
+      "end": 2968.09784375,
+      "speaker": "SPEAKER_06",
+      "text": "We should"
+    },
+    {
+      "start": 2970.00471875,
+      "end": 2970.29159375,
+      "speaker": "SPEAKER_06",
+      "text": "Huh?"
+    },
+    {
+      "start": 2971.10159375,
+      "end": 2971.5065937500003,
+      "speaker": "SPEAKER_06",
+      "text": "So, yeah."
+    },
+    {
+      "start": 2973.17721875,
+      "end": 2973.70034375,
+      "speaker": "SPEAKER_08",
+      "text": "Peter."
+    },
+    {
+      "start": 2973.70034375,
+      "end": 2976.2653437500003,
+      "speaker": "SPEAKER_06",
+      "text": "Just say it you bitch, just tell me what you did. Pizza!"
+    },
+    {
+      "start": 2983.5553437500002,
+      "end": 2984.1628437500003,
+      "speaker": "SPEAKER_03",
+      "text": "You've got it wrong."
+    },
+    {
+      "start": 2984.1628437500003,
+      "end": 2984.19659375,
+      "speaker": "SPEAKER_09",
+      "text": "you"
+    },
+    {
+      "start": 2986.46721875,
+      "end": 2986.73721875,
+      "speaker": "SPEAKER_03",
+      "text": "What?"
+    },
+    {
+      "start": 2986.52534375,
+      "end": 2986.79534375,
+      "speaker": "SPEAKER_09",
+      "text": "more."
+    },
+    {
+      "start": 2988.96471875,
+      "end": 2989.72409375,
+      "speaker": "SPEAKER_03",
+      "text": "It's not the nice."
+    },
+    {
+      "start": 2989.02284375,
+      "end": 2989.78221875,
+      "speaker": "SPEAKER_09",
+      "text": "It's not the nice."
+    },
+    {
+      "start": 2995.46159375,
+      "end": 2996.52471875,
+      "speaker": "SPEAKER_03",
+      "text": "What's happening?"
+    },
+    {
+      "start": 2995.53659375,
+      "end": 2996.58284375,
+      "speaker": "SPEAKER_08",
+      "text": "What's happening?"
+    },
+    {
+      "start": 3012.15096875,
+      "end": 3012.89346875,
+      "speaker": "SPEAKER_01",
+      "text": "AHH!"
+    },
+    {
+      "start": 3012.2090937499997,
+      "end": 3012.88409375,
+      "speaker": "SPEAKER_06",
+      "text": "AHH!"
+    },
+    {
+      "start": 3013.65284375,
+      "end": 3013.93971875,
+      "speaker": "SPEAKER_01",
+      "text": "Oh!"
+    },
+    {
+      "start": 3013.6940937500003,
+      "end": 3014.0147187499997,
+      "speaker": "SPEAKER_06",
+      "text": "Oh!"
+    },
+    {
+      "start": 3021.34784375,
+      "end": 3026.12346875,
+      "speaker": "SPEAKER_01",
+      "text": "Come in"
+    },
+    {
+      "start": 3026.54534375,
+      "end": 3030.12284375,
+      "speaker": "SPEAKER_00",
+      "text": "Where's Jane? He just missed one 11 floor show."
+    },
+    {
+      "start": 3030.62909375,
+      "end": 3030.64596875,
+      "speaker": "SPEAKER_00",
+      "text": "you"
+    },
+    {
+      "start": 3030.64596875,
+      "end": 3030.93284375,
+      "speaker": "SPEAKER_02",
+      "text": "Ian?"
+    },
+    {
+      "start": 3033.48096875,
+      "end": 3035.50596875,
+      "speaker": "SPEAKER_02",
+      "text": "There's been a problem with that."
+    },
+    {
+      "start": 3036.50159375,
+      "end": 3040.19721875,
+      "speaker": "SPEAKER_02",
+      "text": "It's alright, it's nothing serious but considering our age."
+    },
+    {
+      "start": 3041.29409375,
+      "end": 3045.29346875,
+      "speaker": "SPEAKER_02",
+      "text": "Linda, please keep the champagne flowing. Everyone enjoy the rest of your evening and..."
+    },
+    {
+      "start": 3046.82909375,
+      "end": 3047.40284375,
+      "speaker": "SPEAKER_02",
+      "text": "Call me later."
+    },
+    {
+      "start": 3047.77409375,
+      "end": 3048.53346875,
+      "speaker": "SPEAKER_00",
+      "text": "Yeah."
+    },
+    {
+      "start": 3048.31409375,
+      "end": 3049.44471875,
+      "speaker": "SPEAKER_02",
+      "text": "Keep the coast in there."
+    },
+    {
+      "start": 3050.64284375,
+      "end": 3051.08159375,
+      "speaker": "SPEAKER_02",
+      "text": "Come on."
+    },
+    {
+      "start": 3050.96346875,
+      "end": 3052.09409375,
+      "speaker": "SPEAKER_00",
+      "text": "Bless her."
+    },
+    {
+      "start": 3052.73534375,
+      "end": 3052.76909375,
+      "speaker": "SPEAKER_01",
+      "text": "you"
+    },
+    {
+      "start": 3052.76909375,
+      "end": 3053.22471875,
+      "speaker": "SPEAKER_00",
+      "text": "So"
+    },
+    {
+      "start": 3053.22471875,
+      "end": 3053.76471875,
+      "speaker": "SPEAKER_01",
+      "text": "It's okay."
+    },
+    {
+      "start": 3053.76471875,
+      "end": 3054.03471875,
+      "speaker": "SPEAKER_00",
+      "text": "you"
+    },
+    {
+      "start": 3054.03471875,
+      "end": 3055.24971875,
+      "speaker": "SPEAKER_01",
+      "text": "Just relax."
+    },
+    {
+      "start": 3055.24971875,
+      "end": 3055.73909375,
+      "speaker": "SPEAKER_00",
+      "text": "Relax."
+    },
+    {
+      "start": 3056.19471875,
+      "end": 3056.21159375,
+      "speaker": "SPEAKER_01",
+      "text": "you"
+    },
+    {
+      "start": 3057.73034375,
+      "end": 3060.61596875,
+      "speaker": "SPEAKER_03",
+      "text": "Oh no, no, no, no, don't do this."
+    },
+    {
+      "start": 3063.16409375,
+      "end": 3064.64909375,
+      "speaker": "SPEAKER_01",
+      "text": "Dad! Dad!"
+    },
+    {
+      "start": 3074.92596875,
+      "end": 3075.41534375,
+      "speaker": "SPEAKER_01",
+      "text": "We do it."
+    },
+    {
+      "start": 3076.73159375,
+      "end": 3077.35596875,
+      "speaker": "SPEAKER_01",
+      "text": "Stay back."
+    },
+    {
+      "start": 3077.52471875,
+      "end": 3079.02659375,
+      "speaker": "SPEAKER_03",
+      "text": "Then there's a pub full of people."
+    },
+    {
+      "start": 3079.02659375,
+      "end": 3082.46909375,
+      "speaker": "SPEAKER_01",
+      "text": "You know, you've got an alarm, haven't you? They'll get plenty of warning."
+    },
+    {
+      "start": 3083.00909375,
+      "end": 3088.52721875,
+      "speaker": "SPEAKER_01",
+      "text": "It's your pub, I won't let your punters. I'm not a madman and I'm not your slapper of a wife called me either."
+    },
+    {
+      "start": 3088.15596875,
+      "end": 3089.26971875,
+      "speaker": "SPEAKER_00",
+      "text": "That'd be stupid."
+    },
+    {
+      "start": 3091.66596875,
+      "end": 3092.05409375,
+      "speaker": "SPEAKER_01",
+      "text": "that you"
+    },
+    {
+      "start": 3093.65721875,
+      "end": 3094.83846875,
+      "speaker": "SPEAKER_01",
+      "text": "You can go if you want, then."
+    },
+    {
+      "start": 3097.55534375,
+      "end": 3097.82534375,
+      "speaker": "SPEAKER_01",
+      "text": "No."
+    },
+    {
+      "start": 3098.33159375,
+      "end": 3099.46221875,
+      "speaker": "SPEAKER_01",
+      "text": "They make your dad sell this out."
+    },
+    {
+      "start": 3100.00221875,
+      "end": 3100.89659375,
+      "speaker": "SPEAKER_01",
+      "text": "Got no argument with you."
+    },
+    {
+      "start": 3101.26784375,
+      "end": 3101.97659375,
+      "speaker": "SPEAKER_00",
+      "text": "Then she's right."
+    },
+    {
+      "start": 3103.64721875,
+      "end": 3104.69346875,
+      "speaker": "SPEAKER_00",
+      "text": "You ain't got a clue what you're doing."
+    },
+    {
+      "start": 3105.30096875,
+      "end": 3109.24971875,
+      "speaker": "SPEAKER_01",
+      "text": "And Nancy was right from the off. You see, Nancy knew there was something going on between me and Linda."
+    },
+    {
+      "start": 3112.00034375,
+      "end": 3113.02971875,
+      "speaker": "SPEAKER_01",
+      "text": "You know, out of life."
+    },
+    {
+      "start": 3113.67096875,
+      "end": 3114.26159375,
+      "speaker": "SPEAKER_01",
+      "text": "Before her."
+    },
+    {
+      "start": 3117.01221875,
+      "end": 3117.92346875,
+      "speaker": "SPEAKER_01",
+      "text": "I had a family."
+    },
+    {
+      "start": 3119.47596875,
+      "end": 3119.94846875,
+      "speaker": "SPEAKER_01",
+      "text": "Home."
+    },
+    {
+      "start": 3121.58534375,
+      "end": 3123.98159375,
+      "speaker": "SPEAKER_01",
+      "text": "And she took it all away from me. She took it all."
+    },
+    {
+      "start": 3125.38221875,
+      "end": 3126.52971875,
+      "speaker": "SPEAKER_01",
+      "text": "I'm not a rapist, though."
+    },
+    {
+      "start": 3127.35659375,
+      "end": 3128.23409375,
+      "speaker": "SPEAKER_01",
+      "text": "Just an arsonist."
+    },
+    {
+      "start": 3129.16221875,
+      "end": 3131.47409375,
+      "speaker": "SPEAKER_01",
+      "text": "or anything I'm doing, you've made me do."
+    },
+    {
+      "start": 3132.55409375,
+      "end": 3134.34284375,
+      "speaker": "SPEAKER_00",
+      "text": "Just like Linda, when she lets you on."
+    },
+    {
+      "start": 3135.43971875,
+      "end": 3136.65471875,
+      "speaker": "SPEAKER_00",
+      "text": "Wasn't your fault, Naver, was it?"
+    },
+    {
+      "start": 3136.80659375,
+      "end": 3136.99221875,
+      "speaker": "SPEAKER_01",
+      "text": "you"
+    },
+    {
+      "start": 3138.08909375,
+      "end": 3138.56159375,
+      "speaker": "SPEAKER_01",
+      "text": "You're welcome."
+    },
+    {
+      "start": 3138.86534375,
+      "end": 3139.79346875,
+      "speaker": "SPEAKER_00",
+      "text": "Nothing ever is."
+    },
+    {
+      "start": 3144.60284375,
+      "end": 3145.39596875,
+      "speaker": "SPEAKER_01",
+      "text": "You scared me."
+    },
+    {
+      "start": 3145.59846875,
+      "end": 3145.61534375,
+      "speaker": "SPEAKER_00",
+      "text": "you"
+    },
+    {
+      "start": 3145.61534375,
+      "end": 3145.91909375,
+      "speaker": "SPEAKER_01",
+      "text": "not."
+    },
+    {
+      "start": 3147.74159375,
+      "end": 3150.03659375,
+      "speaker": "SPEAKER_01",
+      "text": "You're the one who's scared. No, I'm not scared of anyone."
+    },
+    {
+      "start": 3151.50471875,
+      "end": 3155.90909375,
+      "speaker": "SPEAKER_01",
+      "text": "You just remember I did you a favor by sleeping with her. I opened your eyes."
+    },
+    {
+      "start": 3155.90909375,
+      "end": 3156.34784375,
+      "speaker": "SPEAKER_03",
+      "text": "Thanks."
+    },
+    {
+      "start": 3157.36034375,
+      "end": 3158.98034375,
+      "speaker": "SPEAKER_03",
+      "text": "You know your mum's through there, don't you?"
+    },
+    {
+      "start": 3164.51534375,
+      "end": 3165.76409375,
+      "speaker": "SPEAKER_00",
+      "text": "You shut your mouth."
+    },
+    {
+      "start": 3168.12659375,
+      "end": 3168.88596875,
+      "speaker": "SPEAKER_00",
+      "text": "That's what you do it."
+    },
+    {
+      "start": 3169.83096875,
+      "end": 3171.09659375,
+      "speaker": "SPEAKER_00",
+      "text": "Daddy's not breathing!"
+    },
+    {
+      "start": 3176.80034375,
+      "end": 3177.59346875,
+      "speaker": "SPEAKER_01",
+      "text": "Dad!"
+    },
+    {
+      "start": 3230.14221875,
+      "end": 3230.66534375,
+      "speaker": "SPEAKER_03",
+      "text": "It's me."
+    },
+    {
+      "start": 3233.44971875,
+      "end": 3233.88846875,
+      "speaker": "SPEAKER_03",
+      "text": "I know."
+    },
+    {
+      "start": 3236.30159375,
+      "end": 3236.94284375,
+      "speaker": "SPEAKER_03",
+      "text": "I know."
+    },
+    {
+      "start": 3240.25034375,
+      "end": 3241.09409375,
+      "speaker": "SPEAKER_03",
+      "text": "You killed Lucy."
+    },
+    {
+      "start": 3243.13596875,
+      "end": 3244.30034375,
+      "speaker": "SPEAKER_03",
+      "text": "Get everyone out the house."
+    },
+    {
+      "start": 3246.83159375,
+      "end": 3247.55721875,
+      "speaker": "SPEAKER_03",
+      "text": "I'm coming home."
+    },
+    {
+      "start": 3260.46659375,
+      "end": 3260.68596875,
+      "speaker": "SPEAKER_02",
+      "text": "Hey!"
+    },
+    {
+      "start": 3263.11596875,
+      "end": 3263.52096875,
+      "speaker": "SPEAKER_01",
+      "text": "Charlie!"
+    },
+    {
+      "start": 3265.07346875,
+      "end": 3265.63034375,
+      "speaker": "SPEAKER_01",
+      "text": "What's happened?"
+    },
+    {
+      "start": 3271.35096875,
+      "end": 3271.3678437500002,
+      "speaker": "SPEAKER_01",
+      "text": "you"
+    },
+    {
+      "start": 3271.3678437500002,
+      "end": 3272.22846875,
+      "speaker": "SPEAKER_03",
+      "text": "Goodbye."
+    },
+    {
+      "start": 3273.91596875,
+      "end": 3274.37159375,
+      "speaker": "SPEAKER_03",
+      "text": "No."
+    },
+    {
+      "start": 3278.13471875,
+      "end": 3278.28659375,
+      "speaker": "SPEAKER_00",
+      "text": "the"
+    },
+    {
+      "start": 3333.60284375,
+      "end": 3334.80096875,
+      "speaker": "SPEAKER_02",
+      "text": "Tell me exactly."
+    },
+    {
+      "start": 3335.71221875,
+      "end": 3336.80909375,
+      "speaker": "SPEAKER_02",
+      "text": "What happened that night?"
+    },
+    {
+      "start": 3391.26471875,
+      "end": 3393.20534375,
+      "speaker": "SPEAKER_03",
+      "text": "The gospel dark is alive."
+    },
+    {
+      "start": 3394.57221875,
+      "end": 3396.46221875,
+      "speaker": "SPEAKER_03",
+      "text": "Who doesn't break a man, makes a man?"
+    },
+    {
+      "start": 3397.55909375,
+      "end": 3397.62659375,
+      "speaker": "SPEAKER_03",
+      "text": "you"
+    },
+    {
+      "start": 3397.62659375,
+      "end": 3409.18596875,
+      "speaker": "SPEAKER_01",
+      "text": "My body is to be married. Who's it to be Elizabeth?"
+    },
+    {
+      "start": 3412.49346875,
+      "end": 3417.70784375,
+      "speaker": "SPEAKER_01",
+      "text": "What's your name? Demel the card. Rustpal doc."
+    },
+    {
+      "start": 3418.80471875,
+      "end": 3420.00284375,
+      "speaker": "SPEAKER_01",
+      "text": "People save us."
+    },
+    {
+      "start": 3420.79596875,
+      "end": 3423.34409375,
+      "speaker": "SPEAKER_01",
+      "text": "Your place is here. Your land, your mind."
+    },
+    {
+      "start": 3423.42846875,
+      "end": 3423.44534375,
+      "speaker": "SPEAKER_03",
+      "text": "you"
+    },
+    {
+      "start": 3423.44534375,
+      "end": 3423.9684687500003,
+      "speaker": "SPEAKER_01",
+      "text": "Where did you see that?"
+    },
+    {
+      "start": 3423.9684687500003,
+      "end": 3428.27159375,
+      "speaker": "SPEAKER_03",
+      "text": "I think I was going."
+    }
+  ],
+  "timing_stats": {
+    "audio_extraction_seconds": 6.177955150604248,
+    "diarization_seconds": 104.5421793460846,
+    "transcription_seconds": 233.45273447036743,
+    "average_chunk_diarization_seconds": 17.310905814170837,
+    "total_chunks_processed": 6,
+    "average_segment_transcription_seconds": 0.15153004719660831,
+    "total_segments_transcribed": 975
+  },
+  "audio_duration": 3428.32,
+  "total_processing_time": 351.99006175994873
+}

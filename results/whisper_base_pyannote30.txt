@@ -1,0 +1,2945 @@
+Speaker Diarization Results
+==========================
+
+Total audio duration: 00:57:08.320
+
+Performance Statistics:
+----------------------
+Audio extraction time: 6.17 seconds
+Diarization processing time: 674.40 seconds
+  - Average chunk processing time: 112.28 seconds
+  - Total chunks processed: 6
+Transcription processing time: 164.67 seconds
+  - Average segment transcription time: 0.08 seconds
+  - Total segments transcribed: 970
+Total processing time: 856.83 seconds
+Processing ratio: 0.25x realtime
+
+Speaking Time Summary:
+---------------------
+SPEAKER_06: 00:03:11.464 (5.58% of total)
+SPEAKER_02: 00:02:26.715 (4.28% of total)
+SPEAKER_11: 00:02:24.349 (4.21% of total)
+SPEAKER_04: 00:02:16.198 (3.97% of total)
+SPEAKER_00: 00:02:14.207 (3.91% of total)
+SPEAKER_03: 00:02:07.761 (3.73% of total)
+SPEAKER_01: 00:01:59.796 (3.49% of total)
+SPEAKER_07: 00:01:43.562 (3.02% of total)
+SPEAKER_05: 00:01:30.821 (2.65% of total)
+SPEAKER_10: 00:01:23.278 (2.43% of total)
+SPEAKER_08: 00:01:19.178 (2.31% of total)
+SPEAKER_12: 00:01:04.192 (1.87% of total)
+SPEAKER_09: 00:00:37.058 (1.08% of total)
+
+Detailed Timeline:
+----------------
+00:00:00.217 → 00:00:00.233 [00:00:00.017] : SPEAKER_05
+    you
+
+00:00:00.233 → 00:00:00.807 [00:00:00.574] : SPEAKER_04
+    Yeah.
+
+00:00:00.250 → 00:00:02.292 [00:00:02.042] : SPEAKER_05
+    Biscuits there Martin, here we go.
+
+00:00:40.210 → 00:00:41.813 [00:00:01.603] : SPEAKER_02
+    I really stinks in here, didn't it?
+
+00:00:42.252 → 00:00:47.450 [00:00:05.197] : SPEAKER_11
+    I'm still not sure about this guys. He's a bit late for that now, isn't it? This place actually safe.
+
+00:00:48.766 → 00:00:49.762 [00:00:00.996] : SPEAKER_02
+    I'm going to have to go home.
+
+00:00:50.842 → 00:00:52.192 [00:00:01.350] : SPEAKER_02
+    We can do nothing.
+
+00:00:55.162 → 00:00:57.524 [00:00:02.363] : SPEAKER_02
+    Just needs a bit of fresh air, little paint.
+
+00:00:58.469 → 00:00:59.077 [00:00:00.607] : SPEAKER_02
+    Give her.
+
+00:01:26.043 → 00:01:26.887 [00:00:00.844] : SPEAKER_02
+    it is time to eat.
+
+00:01:27.967 → 00:01:29.080 [00:00:01.114] : SPEAKER_11
+    Who's Nick? Don't sign.
+
+00:01:30.076 → 00:01:30.532 [00:00:00.456] : SPEAKER_11
+    Brennan.
+
+00:01:31.308 → 00:01:33.299 [00:00:01.991] : SPEAKER_11
+    I'm a citizen, and I'm a school nurse.
+
+00:01:34.160 → 00:01:35.965 [00:00:01.806] : SPEAKER_11
+    You're doing too much now, mate.
+
+00:01:36.961 → 00:01:39.239 [00:00:02.278] : SPEAKER_02
+    I thought we died ages ago.
+
+00:01:39.948 → 00:01:40.927 [00:00:00.979] : SPEAKER_11
+    Don't look like him.
+
+00:01:42.648 → 00:01:43.576 [00:00:00.928] : SPEAKER_11
+    I'm called to place.
+
+00:01:44.470 → 00:01:45.888 [00:00:01.417] : SPEAKER_02
+    I need this next door.
+
+00:01:45.905 → 00:01:47.187 [00:00:01.282] : SPEAKER_11
+    and suck this mess out.
+
+00:01:47.373 → 00:01:50.242 [00:00:02.869] : SPEAKER_02
+    And I would know, why would he be squatting if his mum's only?
+
+00:01:53.988 → 00:01:54.376 [00:00:00.388] : SPEAKER_02
+    Nice.
+
+00:01:55.017 → 00:01:55.034 [00:00:00.017] : SPEAKER_02
+    you
+
+00:01:55.034 → 00:01:55.051 [00:00:00.017] : SPEAKER_11
+    you
+
+00:01:55.051 → 00:01:57.970 [00:00:02.919] : SPEAKER_02
+    We can see that stage.
+
+00:01:57.970 → 00:01:58.460 [00:00:00.489] : SPEAKER_11
+    Come on.
+
+00:01:58.460 → 00:02:00.434 [00:00:01.974] : SPEAKER_02
+    Just don't do anything, I need to speak to Dota.
+
+00:02:13.883 → 00:02:17.697 [00:00:03.814] : SPEAKER_06
+    Okay, I think we all need to calm down. One of us.
+
+00:02:17.832 → 00:02:23.182 [00:00:05.349] : SPEAKER_10
+    It has to be. What are you talking about? It was here. Everything happened here. Peter, for goodness sake.
+
+00:02:24.380 → 00:02:25.038 [00:00:00.658] : SPEAKER_10
+    She told you.
+
+00:02:25.915 → 00:02:27.637 [00:00:01.721] : SPEAKER_10
+    Well, Lauren said she told you.
+
+00:02:28.210 → 00:02:36.293 [00:00:08.083] : SPEAKER_10
+    She didn't tell me, not exactly. She gave me a card. Well, what card? What did he say? It said that Lucy was killed in this house. So it must have been someone who was here.
+
+00:02:37.272 → 00:02:38.048 [00:00:00.776] : SPEAKER_06
+    Well, think about it.
+
+00:02:39.415 → 00:02:41.187 [00:00:01.772] : SPEAKER_06
+    on you and Cindy living here at the time.
+
+00:02:43.870 → 00:02:44.714 [00:00:00.844] : SPEAKER_05
+    Nice
+
+00:02:45.676 → 00:02:46.992 [00:00:01.316] : SPEAKER_05
+    She was living here then too.
+
+00:02:48.443 → 00:02:49.507 [00:00:01.063] : SPEAKER_05
+    Look, I want to see this card.
+
+00:02:49.540 → 00:02:50.333 [00:00:00.793] : SPEAKER_10
+    Never mind, huh?
+
+00:02:51.076 → 00:02:51.953 [00:00:00.877] : SPEAKER_10
+    Denise is in the Vic.
+
+00:02:52.898 → 00:02:53.168 [00:00:00.270] : SPEAKER_10
+    Dad?
+
+00:02:56.560 → 00:02:57.168 [00:00:00.607] : SPEAKER_10
+    Don't get it.
+
+00:02:57.995 → 00:03:00.037 [00:00:02.042] : SPEAKER_10
+    What's the matter with you? What do you want to do something?
+
+00:03:01.910 → 00:03:03.901 [00:00:01.991] : SPEAKER_10
+    Or if you won't, I will. I'm going over there.
+
+00:03:03.901 → 00:03:04.407 [00:00:00.506] : SPEAKER_06
+    here now.
+
+00:03:07.428 → 00:03:11.714 [00:00:04.286] : SPEAKER_06
+    You can't just go around accusing someone of something like this, especially Denise.
+
+00:03:11.377 → 00:03:15.730 [00:00:04.354] : SPEAKER_05
+    Lauren wouldn't have just said it without because she felt like it. Okay, she must have had a reason.
+
+00:03:15.562 → 00:03:15.578 [00:00:00.017] : SPEAKER_06
+    you
+
+00:03:15.578 → 00:03:18.683 [00:00:03.105] : SPEAKER_10
+    Yes, she said she found something. Something summer haze had been working on.
+
+00:03:18.683 → 00:03:19.004 [00:00:00.321] : SPEAKER_05
+    Thank you.
+
+00:03:19.882 → 00:03:21.215 [00:00:01.333] : SPEAKER_10
+    Why don't know, not exactly.
+
+00:03:22.227 → 00:03:23.122 [00:00:00.894] : SPEAKER_05
+    I'm gonna get it then.
+
+00:03:24.320 → 00:03:25.012 [00:00:00.692] : SPEAKER_10
+    She's not here.
+
+00:03:25.467 → 00:03:26.530 [00:00:01.063] : SPEAKER_05
+    Where is she?
+
+00:03:28.268 → 00:03:29.450 [00:00:01.181] : SPEAKER_10
+    What were talking about Lauren for?
+
+00:03:30.277 → 00:03:31.913 [00:00:01.637] : SPEAKER_10
+    Died, Denise.
+
+00:03:48.451 → 00:03:48.822 [00:00:00.371] : SPEAKER_01
+    Woo!
+
+00:03:50.324 → 00:03:51.758 [00:00:01.434] : SPEAKER_01
+    Faviterian and Jane.
+
+00:03:53.024 → 00:03:54.273 [00:00:01.249] : SPEAKER_01
+    Maybe there was a problem.
+
+00:03:55.167 → 00:04:01.259 [00:00:06.092] : SPEAKER_01
+    When you saw a face when the registrar said to say, I do, she didn't accept you rush to say yes this year.
+
+00:04:12.160 → 00:04:12.937 [00:00:00.776] : SPEAKER_12
+    Where are you going?
+
+00:04:12.937 → 00:04:12.953 [00:00:00.017] : SPEAKER_01
+    you
+
+00:04:12.953 → 00:04:12.970 [00:00:00.017] : SPEAKER_12
+    you
+
+00:04:16.008 → 00:04:16.683 [00:00:00.675] : SPEAKER_09
+    in vain.
+
+00:04:18.016 → 00:04:18.472 [00:00:00.456] : SPEAKER_01
+    What?
+
+00:04:18.472 → 00:04:18.505 [00:00:00.034] : SPEAKER_00
+    you
+
+00:04:19.501 → 00:04:21.307 [00:00:01.806] : SPEAKER_09
+    I'm sorry if anyone doesn't know.
+
+00:04:23.146 → 00:04:24.749 [00:00:01.603] : SPEAKER_00
+    What do you think he's doing now?
+
+00:04:24.968 → 00:04:27.162 [00:00:02.194] : SPEAKER_09
+    No, just um, people are having a hour.
+
+00:04:27.702 → 00:04:29.052 [00:00:01.350] : SPEAKER_09
+    We're gonna have a putty square.
+
+00:04:33.102 → 00:04:33.777 [00:00:00.675] : SPEAKER_02
+    She's not in.
+
+00:04:34.132 → 00:04:35.262 [00:00:01.131] : SPEAKER_11
+    state cushy's right.
+
+00:04:36.140 → 00:04:37.034 [00:00:00.894] : SPEAKER_11
+    It's going on there.
+
+00:04:37.692 → 00:04:42.873 [00:00:05.181] : SPEAKER_11
+    What are you doing? It's weird. It's Nikon. Of course it's weird. There's nothing to do with us.
+
+00:04:43.632 → 00:04:46.265 [00:00:02.633] : SPEAKER_11
+    And along with we don't do anything about it, I'm all the police going to wonder why.
+
+00:04:49.218 → 00:04:49.724 [00:00:00.506] : SPEAKER_03
+    Yeah.
+
+00:04:51.867 → 00:04:52.863 [00:00:00.996] : SPEAKER_03
+    Yeah, okay.
+
+00:04:58.583 → 00:04:59.140 [00:00:00.557] : SPEAKER_11
+    What do you do?
+
+00:05:13.062 → 00:05:13.737 [00:00:00.675] : SPEAKER_08
+    How did you see?
+
+00:05:13.400 → 00:05:16.893 [00:00:03.493] : SPEAKER_02
+    We were just seeing where it was like for Kat and the boys.
+
+00:05:18.867 → 00:05:19.424 [00:00:00.557] : SPEAKER_02
+    Johnny.
+
+00:05:21.517 → 00:05:21.871 [00:00:00.354] : SPEAKER_11
+    What?
+
+00:05:21.685 → 00:05:23.660 [00:00:01.974] : SPEAKER_02
+    No one else has been here. It's just us.
+
+00:05:22.715 → 00:05:24.571 [00:00:01.856] : SPEAKER_11
+    It was all imported out.
+
+00:05:25.280 → 00:05:27.237 [00:00:01.957] : SPEAKER_02
+    Charlie, what you're doing?
+
+00:05:28.688 → 00:05:29.482 [00:00:00.793] : SPEAKER_02
+    Stay safe.
+
+00:05:32.468 → 00:05:33.076 [00:00:00.608] : SPEAKER_02
+    You know.
+
+00:05:35.843 → 00:05:36.890 [00:00:01.046] : SPEAKER_02
+    You knew he was here.
+
+00:05:47.993 → 00:05:49.276 [00:00:01.282] : SPEAKER_10
+    You can't just sit here.
+
+00:05:50.761 → 00:05:52.499 [00:00:01.738] : SPEAKER_06
+    so what Denise was like when it happened.
+
+00:05:53.123 → 00:05:54.845 [00:00:01.721] : SPEAKER_06
+    She was like the rest of us. She was in bits.
+
+00:05:55.503 → 00:05:56.718 [00:00:01.215] : SPEAKER_10
+    You see that all the time though.
+
+00:05:57.528 → 00:05:59.452 [00:00:01.924] : SPEAKER_10
+    people do something and then they pretend they haven't.
+
+00:06:00.329 → 00:06:01.392 [00:00:01.063] : SPEAKER_10
+    people believe him too.
+
+00:06:03.164 → 00:06:05.881 [00:00:02.717] : SPEAKER_06
+    to just march into the bit, walk up to the nation.
+
+00:06:05.155 → 00:06:08.632 [00:00:03.476] : SPEAKER_07
+    Yes, that's exactly what I'm gonna do, but just me.
+
+00:06:09.610 → 00:06:10.252 [00:00:00.641] : SPEAKER_07
+    Not you, okay?
+
+00:06:10.792 → 00:06:11.129 [00:00:00.338] : SPEAKER_06
+    Ian.
+
+00:06:12.209 → 00:06:12.968 [00:00:00.759] : SPEAKER_06
+    Think about this.
+
+00:06:13.694 → 00:06:14.690 [00:00:00.996] : SPEAKER_07
+    I don't need to think about it.
+
+00:06:15.820 → 00:06:17.002 [00:00:01.181] : SPEAKER_07
+    I will know in a minute I ask her.
+
+00:06:18.098 → 00:06:19.010 [00:00:00.911] : SPEAKER_07
+    I'll see you in her eyes.
+
+00:06:37.201 → 00:06:38.804 [00:00:01.603] : SPEAKER_04
+    Ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha
+
+00:06:39.631 → 00:06:40.205 [00:00:00.574] : SPEAKER_04
+    You
+
+00:06:51.106 → 00:06:53.840 [00:00:02.734] : SPEAKER_12
+    So what do we do now? Well, you heard Ab, she's...
+
+00:06:55.865 → 00:06:58.312 [00:00:02.447] : SPEAKER_12
+    What happened to you?
+
+00:06:59.628 → 00:07:01.045 [00:00:01.418] : SPEAKER_09
+    which on the same way. So, Marvel.
+
+00:07:01.957 → 00:07:04.302 [00:00:02.346] : SPEAKER_12
+    I didn't say that. I didn't mean that either.
+
+00:07:08.335 → 00:07:09.753 [00:00:01.417] : SPEAKER_12
+    Remember when she wanted to be of that?
+
+00:07:32.838 → 00:07:33.260 [00:00:00.422] : SPEAKER_07
+    Get in!
+
+00:07:33.935 → 00:07:35.217 [00:00:01.283] : SPEAKER_07
+    I'm all in for work.
+
+00:07:35.808 → 00:07:37.782 [00:00:01.974] : SPEAKER_07
+    I'll make a bin a little bit. We got a problem.
+
+00:07:41.191 → 00:07:41.765 [00:00:00.574] : SPEAKER_07
+    grow up man.
+
+00:07:42.929 → 00:07:43.216 [00:00:00.287] : SPEAKER_07
+    What?
+
+00:07:44.178 → 00:07:44.583 [00:00:00.405] : SPEAKER_07
+    You and me.
+
+00:07:46.591 → 00:07:47.435 [00:00:00.844] : SPEAKER_07
+    I'm going to go home in place.
+
+00:07:48.869 → 00:07:49.730 [00:00:00.861] : SPEAKER_07
+    families.
+
+00:07:52.649 → 00:07:53.375 [00:00:00.726] : SPEAKER_07
+    and one day.
+
+00:07:53.375 → 00:07:53.392 [00:00:00.017] : SPEAKER_11
+    you
+
+00:07:55.568 → 00:07:55.585 [00:00:00.017] : SPEAKER_07
+    you
+
+00:07:55.585 → 00:07:56.159 [00:00:00.574] : SPEAKER_11
+    on Taiwan.
+
+00:08:03.280 → 00:08:06.183 [00:00:02.902] : SPEAKER_11
+    There's nothing to do with the wedding. Stop!
+
+00:08:08.191 → 00:08:08.562 [00:00:00.371] : SPEAKER_11
+    Don't.
+
+00:08:12.663 → 00:08:13.237 [00:00:00.574] : SPEAKER_10
+    We'll set it.
+
+00:08:19.396 → 00:08:19.615 [00:00:00.219] : SPEAKER_08
+    Huh?
+
+00:08:21.387 → 00:08:22.433 [00:00:01.046] : SPEAKER_08
+    I'm going to be back here for...
+
+00:08:22.990 → 00:08:24.155 [00:00:01.164] : SPEAKER_00
+    so you can start talking.
+
+00:08:25.471 → 00:08:26.973 [00:00:01.502] : SPEAKER_00
+    But for starters, what have you been, what you've been doing?
+
+00:08:32.710 → 00:08:33.554 [00:00:00.844] : SPEAKER_00
+    So a lot of money.
+
+00:08:34.516 → 00:08:37.098 [00:00:02.582] : SPEAKER_08
+    I should have been doubled out. I had expenses but so.
+
+00:08:37.638 → 00:08:39.089 [00:00:01.451] : SPEAKER_08
+    I just play anymore where I come from.
+
+00:08:39.292 → 00:08:40.152 [00:00:00.861] : SPEAKER_00
+    Penimo of what?
+
+00:08:40.928 → 00:08:41.755 [00:00:00.827] : SPEAKER_00
+    Living like this.
+
+00:08:42.852 → 00:08:46.058 [00:00:03.206] : SPEAKER_00
+    My gut's twisting into it, every time they'll bill, pull up on the square.
+
+00:08:46.058 → 00:08:49.214 [00:00:03.156] : SPEAKER_08
+    Oh, he did marry a choir boy, Sharon, so I was at least shocked, is it?
+
+00:08:49.214 → 00:08:50.699 [00:00:01.485] : SPEAKER_00
+    I didn't want to marry a co-op, boy.
+
+00:08:50.699 → 00:08:52.994 [00:00:02.295] : SPEAKER_08
+    as well because he's not exactly been in danger with us.
+
+00:08:52.403 → 00:08:54.530 [00:00:02.126] : SPEAKER_00
+    I wanted to marry a man I could count on.
+
+00:08:55.036 → 00:08:56.251 [00:00:01.215] : SPEAKER_00
+    who'd beat F4s.
+
+00:08:58.006 → 00:09:00.217 [00:00:02.211] : SPEAKER_00
+    I hate it for I hate living like this.
+
+00:09:01.634 → 00:09:03.575 [00:00:01.941] : SPEAKER_00
+    seeing you in prison or beaten up.
+
+00:09:04.520 → 00:09:04.975 [00:00:00.456] : SPEAKER_08
+    is
+
+00:09:05.735 → 00:09:07.017 [00:00:01.283] : SPEAKER_00
+    So this time what about the next?
+
+00:09:08.165 → 00:09:12.940 [00:00:04.776] : SPEAKER_08
+    You stick to your business, okay? And I'll stick the sold out max and the mesh you made them on.
+
+00:09:13.835 → 00:09:16.855 [00:00:03.021] : SPEAKER_08
+    I mean, what do you want me to do, Sharon? But we named that real oopment. I got guard.
+
+00:09:16.703 → 00:09:18.577 [00:00:01.873] : SPEAKER_00
+    I want you to run your businesses.
+
+00:09:19.150 → 00:09:23.167 [00:00:04.016] : SPEAKER_00
+    Do your deals. Just keep wet away from the sort of stuff that's gonna put you back in the neck.
+
+00:09:23.268 → 00:09:24.027 [00:00:00.759] : SPEAKER_08
+    about it.
+
+00:09:24.027 → 00:09:24.584 [00:00:00.557] : SPEAKER_00
+    no fail.
+
+00:09:25.394 → 00:09:26.035 [00:00:00.641] : SPEAKER_08
+    do it.
+
+00:09:27.976 → 00:09:28.381 [00:00:00.405] : SPEAKER_08
+    Oh.
+
+00:09:29.157 → 00:09:29.613 [00:00:00.456] : SPEAKER_00
+    Told you.
+
+00:09:30.473 → 00:09:31.520 [00:00:01.046] : SPEAKER_00
+    I can't live like this.
+
+00:09:32.397 → 00:09:34.490 [00:00:02.092] : SPEAKER_00
+    No, I won't live like this.
+
+00:09:35.384 → 00:09:37.223 [00:00:01.839] : SPEAKER_00
+    And if you tell me I have to, then I will walk.
+
+00:09:37.949 → 00:09:40.632 [00:00:02.683] : SPEAKER_00
+    away from you from the Albert everything we're through.
+
+00:09:42.674 → 00:09:44.108 [00:00:01.434] : SPEAKER_08
+    I don't come in this turn out to be.
+
+00:09:44.800 → 00:09:45.307 [00:00:00.506] : SPEAKER_08
+    could be.
+
+00:09:46.923 → 00:09:47.598 [00:00:00.675] : SPEAKER_05
+    accept you.
+
+00:09:47.028 → 00:09:47.703 [00:00:00.675] : SPEAKER_08
+    to you.
+
+00:09:47.598 → 00:09:47.615 [00:00:00.017] : SPEAKER_02
+    you
+
+00:09:47.703 → 00:09:47.720 [00:00:00.017] : SPEAKER_00
+    you
+
+00:10:03.899 → 00:10:05.637 [00:00:01.738] : SPEAKER_05
+    Don't seem that surprised by all this.
+
+00:10:04.004 → 00:10:05.759 [00:00:01.755] : SPEAKER_11
+    Don't seem that surprised by all this.
+
+00:10:06.430 → 00:10:07.493 [00:00:01.063] : SPEAKER_05
+    I mean, Stacy was.
+
+00:10:06.535 → 00:10:07.632 [00:00:01.097] : SPEAKER_11
+    I think he was.
+
+00:10:07.645 → 00:10:09.097 [00:00:01.451] : SPEAKER_05
+    She foot next time months ago.
+
+00:10:07.733 → 00:10:09.218 [00:00:01.485] : SPEAKER_11
+    She fought next time months ago.
+
+00:10:09.738 → 00:10:11.105 [00:00:01.367] : SPEAKER_05
+    The way Doc was talking.
+
+00:10:09.860 → 00:10:11.210 [00:00:01.350] : SPEAKER_11
+    the way Doc was talking.
+
+00:10:14.513 → 00:10:14.817 [00:00:00.304] : SPEAKER_05
+    Wow.
+
+00:10:14.635 → 00:10:14.939 [00:00:00.304] : SPEAKER_11
+    Thank you.
+
+00:10:16.370 → 00:10:17.483 [00:00:01.114] : SPEAKER_05
+    I just want you to have something to do with it.
+
+00:10:21.230 → 00:10:21.736 [00:00:00.506] : SPEAKER_11
+    Ian?
+
+00:10:22.360 → 00:10:23.086 [00:00:00.726] : SPEAKER_11
+    Why me in the big?
+
+00:10:26.731 → 00:10:27.052 [00:00:00.321] : SPEAKER_11
+    Well,
+
+00:10:27.052 → 00:10:27.068 [00:00:00.017] : SPEAKER_08
+    you
+
+00:10:28.975 → 00:10:29.414 [00:00:00.439] : SPEAKER_04
+    It's done.
+
+00:10:31.608 → 00:10:32.485 [00:00:00.877] : SPEAKER_08
+    Shove out.
+
+00:10:33.599 → 00:10:34.358 [00:00:00.759] : SPEAKER_08
+    Why couldn't you?
+
+00:10:38.172 → 00:10:38.830 [00:00:00.658] : SPEAKER_08
+    Look out.
+
+00:10:39.657 → 00:10:40.501 [00:00:00.844] : SPEAKER_08
+    That's all right.
+
+00:10:42.965 → 00:10:43.758 [00:00:00.793] : SPEAKER_08
+    about the clinic.
+
+00:10:52.145 → 00:10:52.837 [00:00:00.692] : SPEAKER_08
+    He's of mom.
+
+00:10:55.081 → 00:10:55.975 [00:00:00.894] : SPEAKER_08
+    What's mom doing in here?
+
+00:10:56.532 → 00:10:57.713 [00:00:01.181] : SPEAKER_08
+    We should say just back for the wedding.
+
+00:10:59.772 → 00:11:01.865 [00:00:02.093] : SPEAKER_08
+    They're in the calf now just a two of them.
+
+00:11:03.552 → 00:11:05.105 [00:00:01.552] : SPEAKER_08
+    Do you think the her and dad are not?
+
+00:11:07.366 → 00:11:07.400 [00:00:00.034] : SPEAKER_08
+    you
+
+00:11:07.400 → 00:11:08.463 [00:00:01.063] : SPEAKER_10
+    I don't know if she's got any sense.
+
+00:11:14.521 → 00:11:15.280 [00:00:00.759] : SPEAKER_06
+    I'm going to put it in.
+
+00:11:16.310 → 00:11:16.698 [00:00:00.388] : SPEAKER_10
+    Wow.
+
+00:11:17.221 → 00:11:18.807 [00:00:01.586] : SPEAKER_10
+    This is a star or a spouse isn't it?
+
+00:11:19.313 → 00:11:20.798 [00:00:01.485] : SPEAKER_10
+    us actually talking about stuff.
+
+00:11:22.300 → 00:11:23.380 [00:00:01.080] : SPEAKER_06
+    Yeah, I'm gonna be a striker soon.
+
+00:11:25.102 → 00:11:25.490 [00:00:00.388] : SPEAKER_10
+    Now
+
+00:11:26.097 → 00:11:27.329 [00:00:01.232] : SPEAKER_06
+    It's just been a minute.
+
+00:11:29.101 → 00:11:29.388 [00:00:00.287] : SPEAKER_10
+    Thank you.
+
+00:11:29.388 → 00:11:29.405 [00:00:00.017] : SPEAKER_08
+    you
+
+00:11:37.488 → 00:11:38.247 [00:00:00.759] : SPEAKER_01
+    I'll wait down.
+
+00:11:38.247 → 00:11:38.534 [00:00:00.287] : SPEAKER_10
+    Bye.
+
+00:11:38.534 → 00:11:38.973 [00:00:00.439] : SPEAKER_01
+    Thank you.
+
+00:11:38.973 → 00:11:38.990 [00:00:00.017] : SPEAKER_10
+    you
+
+00:11:39.715 → 00:11:40.390 [00:00:00.675] : SPEAKER_01
+    I'm so sorry.
+
+00:11:40.913 → 00:11:41.639 [00:00:00.726] : SPEAKER_01
+    outside on
+
+00:11:42.736 → 00:11:43.192 [00:00:00.456] : SPEAKER_01
+    I'm making.
+
+00:11:43.192 → 00:11:43.867 [00:00:00.675] : SPEAKER_10
+    Hi.
+
+00:11:45.200 → 00:11:45.689 [00:00:00.489] : SPEAKER_01
+    Sorry.
+
+00:11:45.689 → 00:11:46.246 [00:00:00.557] : SPEAKER_10
+    Yes, sir?
+
+00:11:46.600 → 00:11:47.123 [00:00:00.523] : SPEAKER_01
+    Thanks.
+
+00:11:49.621 → 00:11:49.672 [00:00:00.051] : SPEAKER_10
+    you
+
+00:11:49.672 → 00:11:50.330 [00:00:00.658] : SPEAKER_08
+    Oh.
+
+00:11:54.987 → 00:11:55.882 [00:00:00.894] : SPEAKER_06
+    So are you, really?
+
+00:12:06.192 → 00:12:06.648 [00:00:00.456] : SPEAKER_01
+    Thank you.
+
+00:12:09.179 → 00:12:10.512 [00:00:01.333] : SPEAKER_01
+    Not in South America.
+
+00:12:12.740 → 00:12:13.313 [00:00:00.574] : SPEAKER_01
+    Is that it?
+
+00:12:16.975 → 00:12:17.009 [00:00:00.034] : SPEAKER_01
+    you
+
+00:12:17.009 → 00:12:17.600 [00:00:00.591] : SPEAKER_02
+    God
+
+00:12:20.857 → 00:12:26.037 [00:00:05.181] : SPEAKER_02
+    I need you. I want to talk to Shardin' and Ian. No one else, just them. Come on.
+
+00:12:33.918 → 00:12:35.133 [00:00:01.215] : SPEAKER_00
+    Why she sent that card to you?
+
+00:12:36.213 → 00:12:37.732 [00:00:01.519] : SPEAKER_00
+    going right up to me or to Ian.
+
+00:12:38.187 → 00:12:38.710 [00:00:00.523] : SPEAKER_04
+    What are you saying?
+
+00:12:38.710 → 00:12:38.744 [00:00:00.034] : SPEAKER_07
+    you
+
+00:12:38.744 → 00:12:40.499 [00:00:01.755] : SPEAKER_00
+    But what's Lauren saying? It was one of us.
+
+00:12:41.275 → 00:12:42.085 [00:00:00.810] : SPEAKER_00
+    Is that what I'm a thought?
+
+00:12:42.457 → 00:12:42.862 [00:00:00.405] : SPEAKER_07
+    Listen.
+
+00:12:43.908 → 00:12:46.928 [00:00:03.021] : SPEAKER_07
+    No one actually knows what Lauren was saying or were Emma thought
+
+00:12:46.878 → 00:12:48.785 [00:00:01.907] : SPEAKER_00
+    Who will I send it in the first place then?
+
+00:12:49.527 → 00:12:52.700 [00:00:03.173] : SPEAKER_00
+    When was the point? If you didn't actually know anything.
+
+00:12:55.703 → 00:12:56.227 [00:00:00.523] : SPEAKER_00
+    This.
+
+00:12:56.767 → 00:13:05.609 [00:00:08.842] : SPEAKER_00
+    is just a few stupid words on a piece of paper. And now we're all here looking at each other, wondering if...
+
+00:13:07.246 → 00:13:08.933 [00:00:01.688] : SPEAKER_07
+    No one is looking at anyone.
+
+00:13:09.440 → 00:13:11.279 [00:00:01.839] : SPEAKER_07
+    and no one is wondering anything either.
+
+00:13:12.680 → 00:13:14.013 [00:00:01.333] : SPEAKER_07
+    If it happens here.
+
+00:13:15.565 → 00:13:16.443 [00:00:00.878] : SPEAKER_07
+    Someone could have got in.
+
+00:13:17.455 → 00:13:20.223 [00:00:02.768] : SPEAKER_07
+    or Lucy could have met someone and they could have followed her home.
+
+00:13:21.370 → 00:13:22.754 [00:00:01.384] : SPEAKER_07
+    Peter gets a drink of water, will you?
+
+00:13:29.437 → 00:13:30.196 [00:00:00.759] : SPEAKER_07
+    Lawrence Cards.
+
+00:13:30.888 → 00:13:32.828 [00:00:01.941] : SPEAKER_07
+    didn't actually say it was one of us now.
+
+00:13:33.503 → 00:13:33.672 [00:00:00.169] : SPEAKER_07
+    Thank you.
+
+00:13:35.900 → 00:13:41.823 [00:00:05.923] : SPEAKER_11
+    I'm going to get in a place that's a little bit more pretty.
+
+00:13:52.572 → 00:13:52.842 [00:00:00.270] : SPEAKER_11
+    Woo!
+
+00:13:54.226 → 00:13:55.272 [00:00:01.046] : SPEAKER_11
+    Still no sign.
+
+00:13:56.234 → 00:13:57.095 [00:00:00.861] : SPEAKER_11
+    Oh
+
+00:13:58.259 → 00:14:00.048 [00:00:01.789] : SPEAKER_11
+    This baby's not keeping still tonight.
+
+00:14:01.432 → 00:14:09.734 [00:00:08.303] : SPEAKER_11
+    Maybe you were right, you know. You know, you said it righty? Maybe she has come a few senses. It didn't mean it though. I think that much of a heart-faced cat.
+
+00:14:11.810 → 00:14:16.012 [00:00:04.202] : SPEAKER_11
+    What meaning that I am. But I didn't say that. But we sounded a bit like it.
+
+00:14:16.957 → 00:14:25.006 [00:00:08.049] : SPEAKER_11
+    You do some a bit bitter and twisted. I'm nice, so now I'm a bit of a twisted, hard-faced cow. Hi, hi, this is a wedding. Remember, you're lucky still welcoming her.
+
+00:14:25.529 → 00:14:30.052 [00:00:04.522] : SPEAKER_11
+    We're all happy, smiley people. Anyway, I'd probably last longer than you.
+
+00:14:31.385 → 00:14:54.807 [00:00:23.422] : SPEAKER_11
+    You don't want to pick her back, so keep your big nails out. I've had enough of this. Whatever mistake I made, at least I realised before it was too late. What mistake? I made no mistake. Oh no, of course not. You just let some losing knock you up and then run out and yeah. It was from our bubbles. So just do remember that when you're coming over all holier than that, because whatever mistakes I made, I ain't gonna spend a lifetime playing for them.
+
+00:14:47.888 → 00:14:48.563 [00:00:00.675] : SPEAKER_10
+    So just chill.
+
+00:15:09.961 → 00:15:16.340 [00:00:06.379] : SPEAKER_09
+    We don't have no aggro from you, Eva. Me? I'm all sweetness and light, me.
+
+00:15:26.667 → 00:15:27.511 [00:00:00.844] : SPEAKER_04
+    It was about time.
+
+00:15:29.063 → 00:15:29.941 [00:00:00.877] : SPEAKER_04
+    in China on the way back.
+
+00:15:31.949 → 00:15:34.042 [00:00:02.092] : SPEAKER_04
+    Come on, pay the phones, why you in? That's already in there.
+
+00:15:35.240 → 00:15:36.320 [00:00:01.080] : SPEAKER_04
+    9cm city.
+
+00:15:40.268 → 00:15:42.074 [00:00:01.806] : SPEAKER_04
+    I feel a lot more dressed now
+
+00:15:44.150 → 00:15:46.985 [00:00:02.835] : SPEAKER_04
+    You seem a bit weird, doesn't it? You seem a bit weird yourself.
+
+00:15:46.698 → 00:15:47.002 [00:00:00.304] : SPEAKER_11
+    boy.
+
+00:15:47.002 → 00:15:47.035 [00:00:00.034] : SPEAKER_04
+    you
+
+00:15:48.149 → 00:15:48.959 [00:00:00.810] : SPEAKER_04
+    But we get worried.
+
+00:15:50.900 → 00:15:51.203 [00:00:00.304] : SPEAKER_04
+    Bye.
+
+00:15:51.203 → 00:15:51.220 [00:00:00.017] : SPEAKER_07
+    you
+
+00:15:52.942 → 00:15:54.292 [00:00:01.350] : SPEAKER_11
+    She deserved it, okay?
+
+00:15:56.367 → 00:15:57.903 [00:00:01.536] : SPEAKER_11
+    You have what she said to me.
+
+00:15:59.692 → 00:16:01.244 [00:00:01.553] : SPEAKER_11
+    You got me a flat ball tunnel, eh?
+
+00:16:06.425 → 00:16:08.230 [00:00:01.806] : SPEAKER_11
+    Yes, I'll try it.
+
+00:16:16.938 → 00:16:18.372 [00:00:01.434] : SPEAKER_04
+    Hi, Reese!
+
+00:16:19.857 → 00:16:21.494 [00:00:01.637] : SPEAKER_04
+    I'll see you in a minute.
+
+00:16:22.675 → 00:16:22.692 [00:00:00.017] : SPEAKER_04
+    you
+
+00:16:22.692 → 00:16:23.688 [00:00:00.996] : SPEAKER_02
+    Nothing wrong is it?
+
+00:16:23.688 → 00:16:23.722 [00:00:00.034] : SPEAKER_04
+    you
+
+00:16:25.544 → 00:16:25.679 [00:00:00.135] : SPEAKER_06
+    you
+
+00:16:25.679 → 00:16:25.696 [00:00:00.017] : SPEAKER_02
+    you
+
+00:16:25.696 → 00:16:25.713 [00:00:00.017] : SPEAKER_06
+    you
+
+00:16:25.713 → 00:16:25.730 [00:00:00.017] : SPEAKER_02
+    you
+
+00:16:25.730 → 00:16:26.270 [00:00:00.540] : SPEAKER_06
+    needed
+
+00:16:26.270 → 00:16:27.232 [00:00:00.962] : SPEAKER_02
+    drink, don't you?
+
+00:16:30.134 → 00:16:30.944 [00:00:00.810] : SPEAKER_05
+    Some of them.
+
+00:16:32.159 → 00:16:33.256 [00:00:01.097] : SPEAKER_05
+    Where is the body working?
+
+00:16:34.589 → 00:16:35.669 [00:00:01.080] : SPEAKER_02
+    Here.
+
+00:16:36.378 → 00:16:37.981 [00:00:01.603] : SPEAKER_05
+    I'll get the music current up again.
+
+00:16:38.842 → 00:16:39.517 [00:00:00.675] : SPEAKER_05
+    Thank you.
+
+00:16:42.031 → 00:16:44.073 [00:00:02.042] : SPEAKER_04
+    Yeah, I'll go get him.
+
+00:16:44.562 → 00:16:45.693 [00:00:01.131] : SPEAKER_08
+    Why did you know we need a drink?
+
+00:16:49.051 → 00:16:49.439 [00:00:00.388] : SPEAKER_08
+    Okay.
+
+00:16:49.439 → 00:16:49.490 [00:00:00.051] : SPEAKER_11
+    you
+
+00:16:52.730 → 00:16:53.168 [00:00:00.439] : SPEAKER_11
+    Okay.
+
+00:16:58.822 → 00:17:01.387 [00:00:02.565] : SPEAKER_11
+    OK, I'm sorry I didn't mean it.
+
+00:17:04.306 → 00:17:04.677 [00:00:00.371] : SPEAKER_11
+    Kim.
+
+00:17:07.799 → 00:17:08.170 [00:00:00.371] : SPEAKER_11
+    King!
+
+00:17:09.385 → 00:17:10.128 [00:00:00.743] : SPEAKER_11
+    I'll call you now.
+
+00:17:10.972 → 00:17:11.883 [00:00:00.911] : SPEAKER_11
+    Elisa tried.
+
+00:17:16.237 → 00:17:16.726 [00:00:00.489] : SPEAKER_11
+    Oh!
+
+00:17:16.726 → 00:17:16.810 [00:00:00.084] : SPEAKER_10
+    you
+
+00:17:18.363 → 00:17:18.380 [00:00:00.017] : SPEAKER_11
+    you
+
+00:17:18.380 → 00:17:19.156 [00:00:00.776] : SPEAKER_10
+    Oh!
+
+00:17:19.966 → 00:17:20.033 [00:00:00.068] : SPEAKER_10
+    Thank you.
+
+00:17:21.535 → 00:17:23.105 [00:00:01.569] : SPEAKER_10
+    If Abby wants to come and stay then.
+
+00:17:22.987 → 00:17:23.577 [00:00:00.591] : SPEAKER_06
+    Let's go.
+
+00:17:23.577 → 00:17:27.863 [00:00:04.286] : SPEAKER_10
+    Right. I'm just saying, if Ebritha girls do, then they know they can.
+
+00:17:28.572 → 00:17:29.180 [00:00:00.608] : SPEAKER_10
+    Where is Laura?
+
+00:17:31.593 → 00:17:35.204 [00:00:03.611] : SPEAKER_10
+    Come on Max, you saw Abby, she's a mess. I'm talking about you, no mess.
+
+00:17:36.841 → 00:17:39.288 [00:00:02.447] : SPEAKER_06
+    Oh, we've seized a mess. We made it in one. We did.
+
+00:17:39.288 → 00:17:39.322 [00:00:00.034] : SPEAKER_10
+    you
+
+00:17:39.322 → 00:17:39.608 [00:00:00.287] : SPEAKER_06
+    Wait.
+
+00:17:40.132 → 00:17:40.857 [00:00:00.726] : SPEAKER_06
+    Yeah, you and me.
+
+00:17:41.583 → 00:17:41.971 [00:00:00.388] : SPEAKER_10
+    Bye.
+
+00:17:42.967 → 00:17:48.755 [00:00:05.788] : SPEAKER_10
+    So I'm the one who had an affair with Stacy, am I? Just about. No, it wasn't just about that. It was Lucy as well. Seriously.
+
+00:17:47.675 → 00:17:48.417 [00:00:00.743] : SPEAKER_06
+    Well see you
+
+00:17:48.417 → 00:17:48.822 [00:00:00.405] : SPEAKER_09
+    Stay
+
+00:17:48.822 → 00:17:49.092 [00:00:00.270] : SPEAKER_10
+    That's right.
+
+00:17:49.058 → 00:17:49.075 [00:00:00.017] : SPEAKER_09
+    you
+
+00:17:49.075 → 00:17:49.953 [00:00:00.878] : SPEAKER_06
+    Can't let's not
+
+00:17:49.092 → 00:17:51.910 [00:00:02.818] : SPEAKER_09
+    Your daughter's best friend. Do you think it's gonna be next time?
+
+00:17:51.185 → 00:17:51.202 [00:00:00.017] : SPEAKER_10
+    you
+
+00:17:51.202 → 00:17:52.585 [00:00:01.384] : SPEAKER_06
+    So that guy next time is there.
+
+00:17:52.568 → 00:17:58.778 [00:00:06.210] : SPEAKER_09
+    Abby was a sweet, innocent little daddy girl. She still would be now if it weren't for you and everything that you have done. So don't you dare lay any of that on my door.
+
+00:17:58.272 → 00:18:01.765 [00:00:03.493] : SPEAKER_06
+    Right, you think any of this is out? Do you ask knockin' seven bells out of each of all the time?
+
+00:18:06.794 → 00:18:08.110 [00:00:01.316] : SPEAKER_10
+    I didn't come here to argue.
+
+00:18:10.304 → 00:18:11.131 [00:00:00.827] : SPEAKER_06
+    So why did you come?
+
+00:18:14.793 → 00:18:15.755 [00:00:00.962] : SPEAKER_10
+    for my best nights with him.
+
+00:18:16.312 → 00:18:16.852 [00:00:00.540] : SPEAKER_06
+    Oh yeah.
+
+00:18:17.476 → 00:18:17.695 [00:00:00.219] : SPEAKER_10
+    you
+
+00:18:32.343 → 00:18:33.473 [00:00:01.131] : SPEAKER_03
+    That's right what they say then.
+
+00:18:35.549 → 00:18:36.427 [00:00:00.877] : SPEAKER_03
+    bad pennies.
+
+00:18:37.658 → 00:18:38.519 [00:00:00.861] : SPEAKER_03
+    Always turn up.
+
+00:18:41.658 → 00:18:42.839 [00:00:01.181] : SPEAKER_03
+    I don't know why, mind you.
+
+00:18:44.341 → 00:18:46.619 [00:00:02.278] : SPEAKER_03
+    I mean Matt, she's already got one of your businesses.
+
+00:18:47.767 → 00:18:49.623 [00:00:01.856] : SPEAKER_03
+    Sony a matter of time before he gets the rest.
+
+00:18:52.441 → 00:18:53.133 [00:00:00.692] : SPEAKER_03
+    Arena.
+
+00:18:54.263 → 00:18:54.922 [00:00:00.658] : SPEAKER_03
+    the Albert.
+
+00:18:56.474 → 00:18:58.027 [00:00:01.553] : SPEAKER_03
+    maybe even the landlord.
+
+00:18:59.225 → 00:18:59.528 [00:00:00.304] : SPEAKER_03
+    Oh
+
+00:19:00.490 → 00:19:01.368 [00:00:00.878] : SPEAKER_03
+    What's trucka nerve?
+
+00:19:03.713 → 00:19:04.844 [00:00:01.131] : SPEAKER_03
+    Not that it wants you, mind.
+
+00:19:05.941 → 00:19:06.903 [00:00:00.962] : SPEAKER_03
+    just because he could.
+
+00:19:07.983 → 00:19:08.708 [00:00:00.726] : SPEAKER_03
+    Bring any bells.
+
+00:19:10.582 → 00:19:12.843 [00:00:02.261] : SPEAKER_03
+    I saw Max.
+
+00:19:13.619 → 00:19:14.345 [00:00:00.726] : SPEAKER_03
+    What's your problem?
+
+00:19:15.678 → 00:19:16.775 [00:00:01.097] : SPEAKER_03
+    You lost the words of fight.
+
+00:19:17.956 → 00:19:20.740 [00:00:02.784] : SPEAKER_03
+    Yeah, well, some things ain't worth fighting for, are they? What'd you mean, mate?
+
+00:19:22.563 → 00:19:23.069 [00:00:00.506] : SPEAKER_03
+    or Sharon.
+
+00:19:25.364 → 00:19:26.562 [00:00:01.198] : SPEAKER_03
+    It's just weird that's a
+
+00:19:28.385 → 00:19:29.296 [00:00:00.911] : SPEAKER_03
+    seeing you out here.
+
+00:19:30.764 → 00:19:32.030 [00:00:01.266] : SPEAKER_03
+    should you be with your wife.
+
+00:19:52.077 → 00:19:52.162 [00:00:00.084] : SPEAKER_11
+    you
+
+00:19:52.137 → 00:19:52.559 [00:00:00.422] : SPEAKER_03
+    Here.
+
+00:19:52.162 → 00:19:52.432 [00:00:00.270] : SPEAKER_10
+    Hey.
+
+00:19:52.432 → 00:19:52.499 [00:00:00.067] : SPEAKER_11
+    Thank you.
+
+00:19:53.900 → 00:19:56.086 [00:00:02.186] : SPEAKER_02
+    Drink this. I'll try one, I'll tend to drink.
+
+00:19:57.747 → 00:19:58.439 [00:00:00.692] : SPEAKER_11
+    Good job.
+
+00:19:57.841 → 00:19:58.499 [00:00:00.658] : SPEAKER_03
+    Don't.
+
+00:19:59.873 → 00:20:01.814 [00:00:01.941] : SPEAKER_11
+    We've gotta do something about this.
+
+00:19:59.950 → 00:20:01.874 [00:00:01.924] : SPEAKER_03
+    We've gotta do something about this.
+
+00:20:03.704 → 00:20:04.726 [00:00:01.022] : SPEAKER_02
+    Tell us what happened.
+
+00:20:07.282 → 00:20:08.337 [00:00:01.056] : SPEAKER_02
+    I let him do it.
+
+00:20:10.623 → 00:20:10.758 [00:00:00.135] : SPEAKER_09
+    with
+
+00:20:10.683 → 00:20:10.818 [00:00:00.135] : SPEAKER_02
+    Thank you.
+
+00:20:10.910 → 00:20:11.517 [00:00:00.607] : SPEAKER_09
+    Do a...
+
+00:20:10.970 → 00:20:11.560 [00:00:00.591] : SPEAKER_03
+    Do a-
+
+00:20:12.800 → 00:20:14.260 [00:00:01.461] : SPEAKER_02
+    I'll let him take his drug.
+
+00:20:16.049 → 00:20:17.602 [00:00:01.552] : SPEAKER_02
+    And then I let him die.
+
+00:20:18.968 → 00:20:21.432 [00:00:02.464] : SPEAKER_02
+    I can see from your eyes you're thinking
+
+00:20:22.259 → 00:20:26.039 [00:00:03.780] : SPEAKER_02
+    What sort of mother does that mate mean? Don't you say that.
+
+00:20:26.039 → 00:20:32.047 [00:00:06.007] : SPEAKER_00
+    Don't you ever say that, dot you were the best mum Nick could have ever had. It's not me saying that.
+
+00:20:32.620 → 00:20:35.624 [00:00:03.004] : SPEAKER_00
+    That's what my only poll in use is say time after time and me grand.
+
+00:20:37.227 → 00:20:39.218 [00:00:01.991] : SPEAKER_03
+    Mum and parent have been here to either.
+
+00:20:40.366 → 00:20:42.070 [00:00:01.704] : SPEAKER_03
+    You know, you keep stepping in and...
+
+00:20:43.032 → 00:20:44.534 [00:00:01.502] : SPEAKER_03
+    taken his side but
+
+00:20:45.023 → 00:20:48.668 [00:00:03.645] : SPEAKER_02
+    But what? You can only take so much and then you snap.
+
+00:20:49.293 → 00:20:54.997 [00:00:05.704] : SPEAKER_02
+    Yes, that's the truth. I snapped. And I didn't do it out of love.
+
+00:20:55.520 → 00:20:59.080 [00:00:03.561] : SPEAKER_02
+    Not like with their thought. I did it out of anger.
+
+00:21:00.515 → 00:21:09.644 [00:00:09.129] : SPEAKER_02
+    All the suffering it caused. I wanted him to face judgment. I didn't want him to be released. I wanted to punish him and I did.
+
+00:21:11.197 → 00:21:11.416 [00:00:00.219] : SPEAKER_02
+    and
+
+00:21:12.563 → 00:21:13.762 [00:00:01.198] : SPEAKER_00
+    You've kept all this to yourself.
+
+00:21:14.858 → 00:21:18.959 [00:00:04.101] : SPEAKER_02
+    I'd like to just keep pretending it happened up and you know carrying on this normal.
+
+00:21:19.820 → 00:21:29.000 [00:00:09.180] : SPEAKER_02
+    You know, they say that you should be wary of strangers, but it's the ones you love who hurt you the most, and you hurt the ones that love you the most too.
+
+00:21:30.535 → 00:21:31.767 [00:00:01.232] : SPEAKER_02
+    Nick was my test.
+
+00:21:32.797 → 00:21:33.910 [00:00:01.114] : SPEAKER_02
+    And I failed it.
+
+00:21:34.619 → 00:21:38.197 [00:00:03.577] : SPEAKER_02
+    I failed him in his life when I failed him in his death.
+
+00:21:38.855 → 00:21:42.027 [00:00:03.172] : SPEAKER_02
+    And I needed to tell someone.
+
+00:21:42.685 → 00:21:43.478 [00:00:00.793] : SPEAKER_02
+    And now...
+
+00:21:44.997 → 00:21:45.925 [00:00:00.928] : SPEAKER_02
+    I can do it.
+
+00:21:47.731 → 00:21:48.642 [00:00:00.911] : SPEAKER_02
+    Nice and doable.
+
+00:21:50.026 → 00:21:51.376 [00:00:01.350] : SPEAKER_02
+    Make my peace.
+
+00:22:14.630 → 00:22:15.220 [00:00:00.591] : SPEAKER_05
+    Everything okay?
+
+00:22:15.929 → 00:22:17.228 [00:00:01.299] : SPEAKER_05
+    I was about to ask you that.
+
+00:22:18.038 → 00:22:18.663 [00:00:00.624] : SPEAKER_02
+    What's happening?
+
+00:22:19.405 → 00:22:21.515 [00:00:02.109] : SPEAKER_05
+    Just give me a few minutes, Bobby.
+
+00:22:24.991 → 00:22:26.881 [00:00:01.890] : SPEAKER_05
+    He wants to come home. What I suppose to say to him?
+
+00:22:27.168 → 00:22:27.944 [00:00:00.776] : SPEAKER_06
+    No, uh...
+
+00:22:29.007 → 00:22:30.104 [00:00:01.097] : SPEAKER_06
+    not yet just
+
+00:22:31.201 → 00:22:32.062 [00:00:00.861] : SPEAKER_06
+    Stand to hang on.
+
+00:22:33.648 → 00:22:35.335 [00:00:01.688] : SPEAKER_06
+    Everything will be fine, promise.
+
+00:22:36.078 → 00:22:38.525 [00:00:02.447] : SPEAKER_05
+    Okay, don't tell Poppy, but at least tell me.
+
+00:22:40.718 → 00:22:41.663 [00:00:00.945] : SPEAKER_05
+    Jane what's wrong?
+
+00:22:45.190 → 00:22:45.629 [00:00:00.439] : SPEAKER_05
+    Ian.
+
+00:22:47.924 → 00:22:49.510 [00:00:01.586] : SPEAKER_05
+    Ian has done something, isn't he?
+
+00:22:57.982 → 00:23:03.955 [00:00:05.974] : SPEAKER_06
+    Don't you feel dizzy? Oh my god. Don't get me!
+
+00:23:03.955 → 00:23:04.057 [00:00:00.101] : SPEAKER_05
+    you
+
+00:23:04.057 → 00:23:04.073 [00:00:00.017] : SPEAKER_06
+    you
+
+00:23:04.765 → 00:23:05.525 [00:00:00.759] : SPEAKER_06
+    I'm gonna take a peek.
+
+00:23:06.976 → 00:23:09.305 [00:00:02.329] : SPEAKER_05
+    Everything
+
+00:23:09.305 → 00:23:09.322 [00:00:00.017] : SPEAKER_02
+    you
+
+00:23:09.322 → 00:23:09.963 [00:00:00.641] : SPEAKER_05
+    Okay.
+
+00:23:09.963 → 00:23:10.030 [00:00:00.067] : SPEAKER_02
+    you
+
+00:23:10.132 → 00:23:12.663 [00:00:02.531] : SPEAKER_06
+    What am I supposed to make stuff around me?
+
+00:23:12.983 → 00:23:16.679 [00:00:03.696] : SPEAKER_02
+    Only she is being in the ages.
+
+00:23:35.039 → 00:23:35.967 [00:00:00.928] : SPEAKER_05
+    I'm gonna enjoy this.
+
+00:23:37.300 → 00:23:37.992 [00:00:00.692] : SPEAKER_05
+    Enjoy what?
+
+00:23:39.865 → 00:23:40.490 [00:00:00.624] : SPEAKER_05
+    white and sea.
+
+00:23:52.758 → 00:23:53.180 [00:00:00.422] : SPEAKER_06
+    King!
+
+00:23:55.964 → 00:23:56.791 [00:00:00.827] : SPEAKER_06
+    You still in there?
+
+00:23:58.715 → 00:23:59.440 [00:00:00.726] : SPEAKER_06
+    D.
+
+00:24:00.470 → 00:24:01.887 [00:00:01.418] : SPEAKER_06
+    What's that?
+
+00:24:03.440 → 00:24:04.570 [00:00:01.131] : SPEAKER_06
+    Okay.
+
+00:24:06.258 → 00:24:07.810 [00:00:01.552] : SPEAKER_06
+    Oh!
+
+00:24:09.937 → 00:24:10.628 [00:00:00.692] : SPEAKER_06
+    T-t-t-t.
+
+00:24:12.248 → 00:24:12.721 [00:00:00.472] : SPEAKER_06
+    Oh!
+
+00:24:13.852 → 00:24:15.893 [00:00:02.042] : SPEAKER_06
+    Oh, don't be daft!
+
+00:24:16.889 → 00:24:18.577 [00:00:01.688] : SPEAKER_06
+    He's still got three months to go!
+
+00:24:19.758 → 00:24:20.348 [00:00:00.591] : SPEAKER_06
+    I'm sorry.
+
+00:24:20.956 → 00:24:21.310 [00:00:00.354] : SPEAKER_06
+    Ugh.
+
+00:24:25.090 → 00:24:25.765 [00:00:00.675] : SPEAKER_06
+    What's happening?
+
+00:24:26.457 → 00:24:26.947 [00:00:00.489] : SPEAKER_04
+    How is she?
+
+00:24:27.453 → 00:24:28.229 [00:00:00.776] : SPEAKER_04
+    wish you sang.
+
+00:24:28.229 → 00:24:28.246 [00:00:00.017] : SPEAKER_03
+    you
+
+00:24:28.921 → 00:24:28.938 [00:00:00.017] : SPEAKER_04
+    you
+
+00:24:28.938 → 00:24:28.955 [00:00:00.017] : SPEAKER_03
+    you
+
+00:24:28.955 → 00:24:29.039 [00:00:00.084] : SPEAKER_04
+    you
+
+00:24:29.039 → 00:24:29.596 [00:00:00.557] : SPEAKER_03
+    I've got Nick.
+
+00:24:30.338 → 00:24:30.845 [00:00:00.506] : SPEAKER_03
+    all right.
+
+00:24:32.110 → 00:24:34.118 [00:00:02.008] : SPEAKER_03
+    Well, she didn't pull her gun on him, and nothing but...
+
+00:24:35.182 → 00:24:37.257 [00:00:02.076] : SPEAKER_03
+    Yeah, it seems he took some drugs and...
+
+00:24:38.185 → 00:24:39.788 [00:00:01.603] : SPEAKER_03
+    He had an attack or something.
+
+00:24:41.172 → 00:24:41.965 [00:00:00.793] : SPEAKER_03
+    wash your lips and dry
+
+00:24:41.965 → 00:24:42.083 [00:00:00.118] : SPEAKER_04
+    you
+
+00:24:43.349 → 00:24:46.555 [00:00:03.206] : SPEAKER_04
+    So what do we do? We'll be right back.
+
+00:24:47.230 → 00:24:47.939 [00:00:00.709] : SPEAKER_03
+    and I'm all.
+
+00:24:48.496 → 00:24:52.630 [00:00:04.134] : SPEAKER_03
+    I mean, the state.simline is she's going to say the same thing to them that it was all down to her.
+
+00:24:53.423 → 00:24:54.824 [00:00:01.401] : SPEAKER_04
+    Oh, that's what you're saying.
+
+00:24:56.090 → 00:24:57.946 [00:00:01.856] : SPEAKER_03
+    Well, I'm saying that we know.
+
+00:24:58.553 → 00:25:04.966 [00:00:06.412] : SPEAKER_03
+    She knows there's no reason for anyone else to find out there, was there? We can't see pretend that he happened. Come on in, it's not a fault, not really.
+
+00:25:04.966 → 00:25:06.805 [00:00:01.839] : SPEAKER_04
+    You still ain't got anything to do with us, is it? Exactly.
+
+00:25:07.514 → 00:25:08.611 [00:00:01.097] : SPEAKER_04
+    Well, so we can all just forget it.
+
+00:25:09.185 → 00:25:09.657 [00:00:00.473] : SPEAKER_04
+    Yup.
+
+00:25:10.518 → 00:25:12.239 [00:00:01.721] : SPEAKER_04
+    Yeah, I'm sorry for that. Cool, Sam.
+
+00:25:12.897 → 00:25:14.281 [00:00:01.384] : SPEAKER_04
+    If you're saying what I think you're saying.
+
+00:25:15.125 → 00:25:16.627 [00:00:01.502] : SPEAKER_04
+    We're going to be in this right up to our next.
+
+00:25:16.627 → 00:25:16.778 [00:00:00.152] : SPEAKER_00
+    you
+
+00:25:16.778 → 00:25:18.010 [00:00:01.232] : SPEAKER_03
+    Yeah, and what if it was your mum?
+
+00:25:19.175 → 00:25:19.225 [00:00:00.051] : SPEAKER_03
+    you
+
+00:25:19.225 → 00:25:21.436 [00:00:02.211] : SPEAKER_00
+    Or your dad or Lou? You'll still come out.
+
+00:25:22.972 → 00:25:23.039 [00:00:00.068] : SPEAKER_00
+    you
+
+00:25:23.039 → 00:25:24.119 [00:00:01.080] : SPEAKER_04
+    and how much we try and hide it.
+
+00:25:24.119 → 00:25:24.136 [00:00:00.017] : SPEAKER_00
+    you
+
+00:25:24.862 → 00:25:25.503 [00:00:00.641] : SPEAKER_03
+    Why should I?
+
+00:25:26.667 → 00:25:27.815 [00:00:01.147] : SPEAKER_03
+    we all agree as an happen.
+
+00:25:28.270 → 00:25:30.920 [00:00:02.649] : SPEAKER_04
+    We're not even gonna stop docks saying it as is is she can say what she wants.
+
+00:25:31.544 → 00:25:33.772 [00:00:02.227] : SPEAKER_04
+    I hope the police can find a body at the moment's difference as it is.
+
+00:25:36.877 → 00:25:37.838 [00:00:00.962] : SPEAKER_04
+    She's no lady, I suppose.
+
+00:25:39.610 → 00:25:42.378 [00:00:02.767] : SPEAKER_03
+    Yeah, they'll just say that she's wondering in the head or something.
+
+00:25:42.901 → 00:25:44.740 [00:00:01.839] : SPEAKER_04
+    Right, so you're saying. I'm saying.
+
+00:25:45.432 → 00:25:46.006 [00:00:00.574] : SPEAKER_04
+    Nobody.
+
+00:25:47.002 → 00:25:47.727 [00:00:00.726] : SPEAKER_04
+    is now evident.
+
+00:26:08.737 → 00:26:09.445 [00:00:00.709] : SPEAKER_07
+    You look too nice.
+
+00:26:10.981 → 00:26:14.305 [00:00:03.324] : SPEAKER_07
+    I'm it you're gonna say. What's the matter with you today? Nothing's a matter of it.
+
+00:26:14.896 → 00:26:16.297 [00:00:01.401] : SPEAKER_07
+    What's on the binstaniaries?
+
+00:26:17.309 → 00:26:18.288 [00:00:00.979] : SPEAKER_07
+    I want any trouble.
+
+00:26:18.963 → 00:26:19.891 [00:00:00.928] : SPEAKER_07
+    I like some people.
+
+00:26:21.038 → 00:26:21.646 [00:00:00.608] : SPEAKER_07
+    All right.
+
+00:26:22.152 → 00:26:24.532 [00:00:02.379] : SPEAKER_07
+    But if that's why you want it, I'd like to disappoint ya.
+
+00:26:25.375 → 00:26:27.097 [00:00:01.721] : SPEAKER_07
+    That X of yours in 8th tonight.
+
+00:26:27.856 → 00:26:38.065 [00:00:10.209] : SPEAKER_07
+    We got on like a house on fire, not a Lyra. Yeah, so believe you. Maybe I should ask that daughter of yours. She ain't here even. No. Does she abandon you and hope not?
+
+00:26:38.167 → 00:26:38.690 [00:00:00.523] : SPEAKER_04
+    kind of
+
+00:26:38.690 → 00:26:41.980 [00:00:03.291] : SPEAKER_07
+    The strung concail, that's what? Why do you comb me?
+
+00:26:41.980 → 00:26:43.111 [00:00:01.131] : SPEAKER_04
+    Just let it go, alright.
+
+00:26:43.583 → 00:26:45.102 [00:00:01.519] : SPEAKER_07
+    Oh, worry, I can't say anything.
+
+00:26:46.874 → 00:26:50.249 [00:00:03.375] : SPEAKER_07
+    In my book, actions speak louder than words.
+
+00:26:50.350 → 00:26:50.806 [00:00:00.456] : SPEAKER_06
+    What?
+
+00:26:51.160 → 00:26:52.173 [00:00:01.013] : SPEAKER_07
+    Do some cake!
+
+00:26:52.173 → 00:26:53.118 [00:00:00.945] : SPEAKER_06
+    No, no, no, cat!
+
+00:26:53.692 → 00:26:54.957 [00:00:01.266] : SPEAKER_07
+    We killed him!
+
+00:26:56.881 → 00:27:03.428 [00:00:06.548] : SPEAKER_07
+    Queen, there's the light! The last little five minutes. Yeah, yeah, get out of the path with pressure!
+
+00:27:06.719 → 00:27:09.082 [00:00:02.363] : SPEAKER_07
+    Anyway, I don't got anything to say. Yeah.
+
+00:27:09.436 → 00:27:09.453 [00:00:00.017] : SPEAKER_04
+    Thank you.
+
+00:27:09.453 → 00:27:09.588 [00:00:00.135] : SPEAKER_07
+    you
+
+00:27:09.588 → 00:27:10.010 [00:00:00.422] : SPEAKER_04
+    you
+
+00:27:11.495 → 00:27:12.035 [00:00:00.540] : SPEAKER_04
+    I need your help.
+
+00:27:12.406 → 00:27:13.452 [00:00:01.046] : SPEAKER_06
+    Not now Charlie.
+
+00:27:16.304 → 00:27:16.675 [00:00:00.371] : SPEAKER_04
+    Bless.
+
+00:27:17.367 → 00:27:18.548 [00:00:01.181] : SPEAKER_04
+    I need you help too. Now.
+
+00:27:20.506 → 00:27:21.400 [00:00:00.894] : SPEAKER_06
+    coming back to you.
+
+00:27:29.247 → 00:27:30.277 [00:00:01.029] : SPEAKER_00
+    Did you make
+
+00:27:30.597 → 00:27:30.732 [00:00:00.135] : SPEAKER_04
+    you
+
+00:27:32.099 → 00:27:33.668 [00:00:01.569] : SPEAKER_00
+    I did that for no reason.
+
+00:27:33.955 → 00:27:34.107 [00:00:00.152] : SPEAKER_06
+    you
+
+00:27:34.107 → 00:27:34.630 [00:00:00.523] : SPEAKER_00
+    Shall I?
+
+00:27:34.833 → 00:27:36.082 [00:00:01.249] : SPEAKER_06
+    That won't touch it.
+
+00:27:36.588 → 00:27:47.860 [00:00:11.273] : SPEAKER_06
+    Son, you needed. Not now, my eyes, Elise. I'm trying to get cleared out. It's kinshies in the nose. If she needs a doctor, it's a little cool one. I'm off to you, eh? Oh, yeah. Your ambulance.
+
+00:27:48.738 → 00:27:50.965 [00:00:02.227] : SPEAKER_06
+    It's a queen viking wolf. She's not ill.
+
+00:28:02.677 → 00:28:03.048 [00:00:00.371] : SPEAKER_03
+    content.
+
+00:28:03.790 → 00:28:04.499 [00:00:00.709] : SPEAKER_00
+    to be well.
+
+00:28:05.343 → 00:28:06.541 [00:00:01.198] : SPEAKER_00
+    of Trilis Blower, nothing.
+
+00:28:08.077 → 00:28:09.089 [00:00:01.013] : SPEAKER_03
+    Are you sure it was him?
+
+00:28:10.102 → 00:28:10.625 [00:00:00.523] : SPEAKER_00
+    Yes.
+
+00:28:12.633 → 00:28:14.236 [00:00:01.603] : SPEAKER_03
+    Alright, but maybe you just went off again.
+
+00:28:15.080 → 00:28:17.476 [00:00:02.396] : SPEAKER_00
+    Why would he turn up in the first place if he was just gonna go off again?
+
+00:28:20.969 → 00:28:21.442 [00:00:00.473] : SPEAKER_00
+    No, I'm not.
+
+00:28:23.365 → 00:28:24.074 [00:00:00.709] : SPEAKER_00
+    Maybe you're...
+
+00:28:54.550 → 00:29:01.250 [00:00:06.699] : SPEAKER_06
+    Okay, the ambulance say they're on their way
+
+00:28:59.107 → 00:29:00.170 [00:00:01.063] : SPEAKER_00
+    Okay, yeah, Melissa.
+
+00:29:01.385 → 00:29:05.435 [00:00:04.050] : SPEAKER_06
+    No more than the way it's done is a bit of a hell now! You better tell me of course, tell me about the following, eh?
+
+00:29:06.076 → 00:29:10.868 [00:00:04.793] : SPEAKER_06
+    I'm gonna come to the little chat, would you think I am?
+
+00:29:11.375 → 00:29:15.087 [00:00:03.713] : SPEAKER_06
+    traffic
+
+00:29:16.792 → 00:29:18.074 [00:00:01.283] : SPEAKER_06
+    They might...
+
+00:29:19.289 → 00:29:19.846 [00:00:00.557] : SPEAKER_06
+    Bye bye.
+
+00:29:20.437 → 00:29:41.767 [00:00:21.330] : SPEAKER_06
+    Oh, there's big baby, but he can't, he's got weeks! He's been here, right? Anyway, someone's a nurse. How do you know? People, not babies. What are they saying now? They say we got a lady on a side. What? Which side? The left, the left, left side. And they say we got to get something warm and try some towels or something.
+
+00:29:37.042 → 00:29:38.408 [00:00:01.367] : SPEAKER_07
+    Come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on, come on,
+
+00:29:42.239 → 00:29:46.458 [00:00:04.219] : SPEAKER_06
+    Just in case.
+
+00:29:44.146 → 00:29:44.804 [00:00:00.658] : SPEAKER_00
+    Justin Kai
+
+00:29:45.100 → 00:29:45.134 [00:00:00.034] : SPEAKER_05
+    you
+
+00:29:45.134 → 00:29:45.320 [00:00:00.186] : SPEAKER_12
+    you
+
+00:29:45.320 → 00:29:48.830 [00:00:03.510] : SPEAKER_05
+    Oh no!
+
+00:29:46.964 → 00:29:48.871 [00:00:01.907] : SPEAKER_06
+    I'm gonna go home.
+
+00:29:51.057 → 00:29:53.302 [00:00:02.244] : SPEAKER_00
+    I'm really not sure about this.
+
+00:29:51.132 → 00:29:53.360 [00:00:02.227] : SPEAKER_01
+    I'm really not sure about this.
+
+00:29:52.998 → 00:29:54.753 [00:00:01.755] : SPEAKER_09
+    Will it never bother you last time?
+
+00:29:53.056 → 00:29:54.811 [00:00:01.755] : SPEAKER_06
+    Well, it never bothered you last time.
+
+00:29:54.837 → 00:29:57.352 [00:00:02.514] : SPEAKER_00
+    Lost time we were pretending he was dead.
+
+00:29:54.895 → 00:29:57.460 [00:00:02.565] : SPEAKER_01
+    Lost time we were pretending he was dead.
+
+00:29:57.436 → 00:30:06.683 [00:00:09.247] : SPEAKER_00
+    You're... This isn't pretending, this is covering up. What's the difference? Oh, about five years. What would you say? If anyone had found out about the first word, they probably got a slap on the wrist. This...
+
+00:29:57.494 → 00:30:06.758 [00:00:09.264] : SPEAKER_01
+    You're... This isn't pretending, this is covering up. What's the difference? Oh, about five years. What would you say? If anyone had found out about the first word, they probably got a slap on the wrist. This...
+
+00:30:06.683 → 00:30:08.911 [00:00:02.227] : SPEAKER_09
+    Well no one's gonna find out about this though are they?
+
+00:30:06.758 → 00:30:08.868 [00:00:02.109] : SPEAKER_06
+    Well, no one's gonna find out about this though, are they?
+
+00:30:08.868 → 00:30:10.505 [00:00:01.637] : SPEAKER_01
+    like plenty of people already have.
+
+00:30:08.911 → 00:30:10.447 [00:00:01.536] : SPEAKER_00
+    plenty of people already have.
+
+00:30:11.459 → 00:30:12.033 [00:00:00.574] : SPEAKER_09
+    Yeah.
+
+00:30:11.517 → 00:30:12.074 [00:00:00.557] : SPEAKER_06
+    Yeah.
+
+00:30:12.185 → 00:30:13.670 [00:00:01.485] : SPEAKER_09
+    They're all going to keep their mouth shut.
+
+00:30:12.226 → 00:30:13.728 [00:00:01.502] : SPEAKER_06
+    They're all gonna keep their mouth shut.
+
+00:30:15.188 → 00:30:16.387 [00:00:01.198] : SPEAKER_09
+    So there's no problem, is there?
+
+00:30:20.116 → 00:30:23.609 [00:00:03.493] : SPEAKER_01
+    Right now that's sorted. Let's leave this to Les and the family.
+
+00:30:24.470 → 00:30:26.174 [00:00:01.704] : SPEAKER_01
+    Let the rest of us get back to the pie show.
+
+00:30:32.536 → 00:30:32.890 [00:00:00.354] : SPEAKER_01
+    Bye.
+
+00:30:33.937 → 00:30:34.628 [00:00:00.692] : SPEAKER_01
+    Come on you.
+
+00:30:35.202 → 00:30:36.451 [00:00:01.249] : SPEAKER_01
+    You've got a wedding to get back to.
+
+00:30:37.227 → 00:30:38.712 [00:00:01.485] : SPEAKER_01
+    I think she's been dumped as I'm hanging
+
+00:30:40.754 → 00:30:42.425 [00:00:01.671] : SPEAKER_04
+    I'm just gonna hang around here for a bit.
+
+00:30:42.897 → 00:30:43.606 [00:00:00.709] : SPEAKER_01
+    What's wrong?
+
+00:30:43.606 → 00:30:43.640 [00:00:00.034] : SPEAKER_02
+    you
+
+00:30:43.640 → 00:30:43.657 [00:00:00.017] : SPEAKER_01
+    you
+
+00:30:43.657 → 00:30:43.825 [00:00:00.169] : SPEAKER_02
+    Thank you.
+
+00:30:45.715 → 00:30:45.800 [00:00:00.084] : SPEAKER_05
+    Yeah.
+
+00:30:47.977 → 00:30:48.027 [00:00:00.051] : SPEAKER_05
+    you
+
+00:30:54.558 → 00:30:54.676 [00:00:00.118] : SPEAKER_05
+    you
+
+00:30:54.676 → 00:30:54.777 [00:00:00.101] : SPEAKER_04
+    you
+
+00:30:54.777 → 00:30:54.845 [00:00:00.068] : SPEAKER_12
+    you
+
+00:30:54.845 → 00:30:54.862 [00:00:00.017] : SPEAKER_04
+    you
+
+00:30:54.862 → 00:30:54.929 [00:00:00.067] : SPEAKER_12
+    you
+
+00:30:54.929 → 00:30:55.688 [00:00:00.759] : SPEAKER_04
+    I'm gonna go for it.
+
+00:30:55.688 → 00:30:55.722 [00:00:00.034] : SPEAKER_02
+    you
+
+00:30:55.722 → 00:30:55.739 [00:00:00.017] : SPEAKER_04
+    you
+
+00:30:56.212 → 00:30:56.768 [00:00:00.557] : SPEAKER_12
+    Whoa!
+
+00:30:57.022 → 00:30:57.038 [00:00:00.017] : SPEAKER_02
+    you
+
+00:30:57.038 → 00:30:58.962 [00:00:01.924] : SPEAKER_04
+    Which being what, a big smile you've got in your face?
+
+00:30:59.637 → 00:31:01.730 [00:00:02.092] : SPEAKER_12
+    I'll be the spring onion, Jap on the side.
+
+00:31:02.894 → 00:31:03.029 [00:00:00.135] : SPEAKER_12
+    you
+
+00:31:03.029 → 00:31:03.637 [00:00:00.608] : SPEAKER_08
+    in the night.
+
+00:31:04.548 → 00:31:04.919 [00:00:00.371] : SPEAKER_08
+    You
+
+00:31:04.919 → 00:31:04.936 [00:00:00.017] : SPEAKER_12
+    you
+
+00:31:05.071 → 00:31:06.269 [00:00:01.198] : SPEAKER_04
+    Where was Jane in anyway?
+
+00:31:06.809 → 00:31:07.771 [00:00:00.962] : SPEAKER_08
+    More than I still remember.
+
+00:31:07.771 → 00:31:07.788 [00:00:00.017] : SPEAKER_10
+    you
+
+00:31:08.092 → 00:31:14.538 [00:00:06.446] : SPEAKER_04
+    I'm not going to be hungry. I'm going to be hungry.
+
+00:31:15.162 → 00:31:26.215 [00:00:11.053] : SPEAKER_10
+    We need some towels. Someone has a laxative. I am water, hot water. Can you stick a sign on the car seat door? Stop anyone coming in. Say what? Closed. To the chalper.
+
+00:31:26.215 → 00:31:26.992 [00:00:00.776] : SPEAKER_05
+    Oh
+
+00:31:28.325 → 00:31:28.730 [00:00:00.405] : SPEAKER_10
+    Oh, my God.
+
+00:32:01.079 → 00:32:01.096 [00:00:00.017] : SPEAKER_10
+    you
+
+00:32:01.096 → 00:32:01.619 [00:00:00.523] : SPEAKER_07
+    I'm going to go.
+
+00:32:04.336 → 00:32:05.585 [00:00:01.249] : SPEAKER_07
+    I've said that mum was back.
+
+00:32:07.053 → 00:32:08.302 [00:00:01.249] : SPEAKER_02
+    Oh yes, you was here.
+
+00:32:15.490 → 00:32:16.874 [00:00:01.384] : SPEAKER_02
+    I've been thinking hard on that.
+
+00:32:18.089 → 00:32:19.186 [00:00:01.097] : SPEAKER_02
+    I'll just stay here for a while.
+
+00:32:20.924 → 00:32:22.122 [00:00:01.198] : SPEAKER_02
+    You know, just tell her what you said to me.
+
+00:32:23.590 → 00:32:26.138 [00:00:02.548] : SPEAKER_02
+    Well, stuff about Lucy A. didn't mean that he read was all over the place.
+
+00:32:28.383 → 00:32:29.227 [00:00:00.844] : SPEAKER_02
+    Alright, she can't stop.
+
+00:32:32.028 → 00:32:33.091 [00:00:01.063] : SPEAKER_12
+    See you in mum then.
+
+00:32:33.091 → 00:32:34.795 [00:00:01.704] : SPEAKER_02
+    No, I'll just leave the station to me.
+
+00:32:37.225 → 00:32:38.052 [00:00:00.827] : SPEAKER_02
+    Just leave everything to me.
+
+00:32:45.325 → 00:32:48.025 [00:00:02.700] : SPEAKER_00
+    I need a drink. I just shower.
+
+00:32:52.042 → 00:32:53.712 [00:00:01.671] : SPEAKER_03
+    David Duke, myself, after all that.
+
+00:32:56.429 → 00:32:57.070 [00:00:00.641] : SPEAKER_03
+    What are you doing?
+
+00:32:59.230 → 00:32:59.602 [00:00:00.371] : SPEAKER_11
+    Bye.
+
+00:33:01.188 → 00:33:13.490 [00:00:12.302] : SPEAKER_11
+    What is your lawyer? It's sitting on a bench. That's bench. So? So look at the state of it. And look at the state of yours freezing. Feel all right? What do you want? Do you feel anything? Have you drank all that?
+
+00:33:13.490 → 00:33:15.177 [00:00:01.688] : SPEAKER_03
+    I can't watch anyone spill on a bench anyway.
+
+00:33:15.413 → 00:33:19.868 [00:00:04.455] : SPEAKER_11
+    Come on, let's get you on. I tried. Stace, I really did. I thought...
+
+00:33:21.337 → 00:33:29.555 [00:00:08.218] : SPEAKER_11
+    Don't do it, don't kick off. Just have a couple of drinks. Toes of Happy Couple. Go home.
+
+00:33:34.060 → 00:33:37.756 [00:00:03.696] : SPEAKER_11
+    Still, I gave you Mrs. Watford so the night won't complete your waistages.
+
+00:33:38.633 → 00:33:41.975 [00:00:03.341] : SPEAKER_11
+    I'm sorry.
+
+00:33:43.544 → 00:33:45.181 [00:00:01.637] : SPEAKER_03
+    Yeah, yeah, cool.
+
+00:33:47.088 → 00:33:47.105 [00:00:00.017] : SPEAKER_11
+    you
+
+00:33:47.105 → 00:33:47.594 [00:00:00.489] : SPEAKER_05
+    Come on.
+
+00:33:48.472 → 00:33:50.598 [00:00:02.126] : SPEAKER_05
+    Come on, get up. Come on.
+
+00:33:51.948 → 00:33:52.015 [00:00:00.068] : SPEAKER_05
+    you
+
+00:33:54.715 → 00:33:56.453 [00:00:01.738] : SPEAKER_05
+    I'm going to get wet.
+
+00:33:56.453 → 00:33:56.572 [00:00:00.118] : SPEAKER_08
+    you
+
+00:33:56.572 → 00:33:56.656 [00:00:00.084] : SPEAKER_05
+    you
+
+00:33:56.656 → 00:33:56.909 [00:00:00.253] : SPEAKER_08
+    you
+
+00:33:56.909 → 00:33:56.926 [00:00:00.017] : SPEAKER_05
+    you
+
+00:33:56.926 → 00:33:56.943 [00:00:00.017] : SPEAKER_08
+    you
+
+00:33:56.943 → 00:33:56.960 [00:00:00.017] : SPEAKER_05
+    you
+
+00:33:58.563 → 00:34:03.389 [00:00:04.826] : SPEAKER_08
+    You're going to take him away. It's okay. We've worked out what we're going to do.
+
+00:34:03.997 → 00:34:05.178 [00:00:01.181] : SPEAKER_04
+    You're not gonna get in any trouble.
+
+00:34:05.178 → 00:34:06.832 [00:00:01.654] : SPEAKER_08
+    Just do what we say.
+
+00:34:07.878 → 00:34:12.097 [00:00:04.219] : SPEAKER_08
+    Everything's been taken care of, Doc. Yes, yes, I know it has.
+
+00:34:15.235 → 00:34:26.980 [00:00:11.745] : SPEAKER_12
+    I can see the edge.
+
+00:34:18.307 → 00:34:18.458 [00:00:00.152] : SPEAKER_05
+    So
+
+00:34:23.639 → 00:34:24.668 [00:00:01.029] : SPEAKER_05
+    I'm not going to stop.
+
+00:34:27.368 → 00:34:40.531 [00:00:13.162] : SPEAKER_12
+    Yes, and it's the same if anything does happen going to never mind it We can't make sure we don't like the babies on the floor because it has to be kept warm This baby's baby on kid
+
+00:34:30.355 → 00:34:31.925 [00:00:01.569] : SPEAKER_00
+    I'm going to never mind this.
+
+00:34:35.705 → 00:34:36.565 [00:00:00.861] : SPEAKER_00
+    My heart!
+
+00:34:37.156 → 00:34:37.966 [00:00:00.810] : SPEAKER_05
+    Oh, sorry.
+
+00:34:38.337 → 00:34:38.641 [00:00:00.304] : SPEAKER_00
+    you
+
+00:34:38.877 → 00:34:38.978 [00:00:00.101] : SPEAKER_05
+    Thank you.
+
+00:34:41.206 → 00:34:46.555 [00:00:05.349] : SPEAKER_12
+    Yeah, make sure it's dry. And then we've got to lay the baby on mum because that's the best way. You're the favourite, my aunt.
+
+00:34:47.281 → 00:34:56.360 [00:00:09.079] : SPEAKER_05
+    Okay, come on
+
+00:34:54.959 → 00:34:55.398 [00:00:00.439] : SPEAKER_08
+    I'm kidding.
+
+00:34:55.398 → 00:34:55.600 [00:00:00.202] : SPEAKER_00
+    you
+
+00:34:57.153 → 00:35:00.410 [00:00:03.257] : SPEAKER_05
+    Everything's gonna be fine!
+
+00:35:03.683 → 00:35:03.869 [00:00:00.186] : SPEAKER_10
+    Thank you.
+
+00:35:05.033 → 00:35:07.345 [00:00:02.312] : SPEAKER_10
+    Little lights, no any of our forms.
+
+00:35:08.020 → 00:35:12.593 [00:00:04.573] : SPEAKER_10
+    She got at least another couple of months to go.
+
+00:35:12.593 → 00:35:12.627 [00:00:00.034] : SPEAKER_04
+    you
+
+00:35:13.387 → 00:35:13.977 [00:00:00.591] : SPEAKER_10
+    it will
+
+00:35:13.977 → 00:35:14.939 [00:00:00.962] : SPEAKER_04
+    Where is the
+
+00:35:15.817 → 00:35:25.688 [00:00:09.872] : SPEAKER_04
+    I'm Billons. I just spoke to her mate, there's a cabbie. We don't need a cabbie, don't that. We need a midwife. Apparently there's been a big smash-up on commercial road outside the church. Traffic's trocker.
+
+00:35:18.263 → 00:35:18.348 [00:00:00.084] : SPEAKER_05
+    you
+
+00:35:18.348 → 00:35:18.415 [00:00:00.068] : SPEAKER_00
+    We
+
+00:35:51.322 → 00:35:51.372 [00:00:00.051] : SPEAKER_06
+    you
+
+00:35:51.372 → 00:35:51.676 [00:00:00.304] : SPEAKER_07
+    you
+
+00:35:51.676 → 00:35:51.710 [00:00:00.034] : SPEAKER_06
+    you
+
+00:35:51.710 → 00:35:51.727 [00:00:00.017] : SPEAKER_07
+    you
+
+00:35:51.727 → 00:35:51.811 [00:00:00.084] : SPEAKER_06
+    you
+
+00:35:51.811 → 00:35:51.878 [00:00:00.068] : SPEAKER_07
+    you
+
+00:35:51.878 → 00:35:52.250 [00:00:00.371] : SPEAKER_06
+    in here.
+
+00:35:52.250 → 00:35:52.418 [00:00:00.169] : SPEAKER_07
+    you
+
+00:35:52.418 → 00:35:54.933 [00:00:02.514] : SPEAKER_06
+    Something came up in there to go somewhere.
+
+00:35:55.540 → 00:35:58.038 [00:00:02.497] : SPEAKER_06
+    It's your wedding? Yeah, no, we'll be back in a bit.
+
+00:35:58.612 → 00:36:02.071 [00:00:03.459] : SPEAKER_07
+    Yeah, well I am, I won't. So that's why I wanted to see you.
+
+00:36:02.932 → 00:36:03.809 [00:00:00.878] : SPEAKER_07
+    Why was the problem?
+
+00:36:04.518 → 00:36:05.497 [00:00:00.979] : SPEAKER_07
+    Who says there is one?
+
+00:36:06.307 → 00:36:07.235 [00:00:00.928] : SPEAKER_06
+    That look on your face.
+
+00:36:08.939 → 00:36:09.985 [00:00:01.046] : SPEAKER_07
+    Been talking to Max.
+
+00:36:11.133 → 00:36:11.538 [00:00:00.405] : SPEAKER_07
+    And?
+
+00:36:12.044 → 00:36:15.183 [00:00:03.139] : SPEAKER_07
+    Well, I should know by now, I should know I trip down memory lane, never work out.
+
+00:36:16.229 → 00:36:17.444 [00:00:01.215] : SPEAKER_07
+    What use will even him?
+
+00:36:20.144 → 00:36:21.157 [00:00:01.012] : SPEAKER_07
+    Mufu mayai.
+
+00:36:22.220 → 00:36:24.852 [00:00:02.633] : SPEAKER_07
+    Sorry Jane, so I just I want to get back home.
+
+00:36:26.422 → 00:36:27.873 [00:00:01.451] : SPEAKER_07
+    You're so lucky, you know, you're an end.
+
+00:36:28.649 → 00:36:31.045 [00:00:02.396] : SPEAKER_07
+    I know that sounds stupid, everything you've been through but it's like...
+
+00:36:31.889 → 00:36:34.977 [00:00:03.088] : SPEAKER_07
+    Things go wrong and it just brings you closer together.
+
+00:36:58.484 → 00:36:59.513 [00:00:01.029] : SPEAKER_03
+    Then you'll be getting summed up.
+
+00:37:02.602 → 00:37:03.074 [00:00:00.472] : SPEAKER_03
+    waiting
+
+00:37:04.812 → 00:37:05.808 [00:00:00.996] : SPEAKER_03
+    Best man, cake.
+
+00:37:09.470 → 00:37:12.760 [00:00:03.291] : SPEAKER_03
+    I'll give you a few minutes. I'll be more than a wedding guy now.
+
+00:37:15.275 → 00:37:16.169 [00:00:00.894] : SPEAKER_04
+    I can't even go in.
+
+00:37:18.228 → 00:37:18.498 [00:00:00.270] : SPEAKER_04
+    Bye.
+
+00:37:21.282 → 00:37:22.042 [00:00:00.759] : SPEAKER_04
+    You have cute some.
+
+00:37:24.286 → 00:37:24.522 [00:00:00.236] : SPEAKER_04
+    Oh.
+
+00:37:25.923 → 00:37:26.277 [00:00:00.354] : SPEAKER_04
+    You heard?
+
+00:37:29.585 → 00:37:30.395 [00:00:00.810] : SPEAKER_03
+    kind of a question, sir.
+
+00:37:32.487 → 00:37:32.808 [00:00:00.321] : SPEAKER_05
+    Have you?
+
+00:37:37.516 → 00:37:38.630 [00:00:01.114] : SPEAKER_03
+    wanted to yeah
+
+00:37:40.435 → 00:37:40.503 [00:00:00.068] : SPEAKER_03
+    you
+
+00:37:40.503 → 00:37:40.520 [00:00:00.017] : SPEAKER_05
+    you
+
+00:37:40.520 → 00:37:40.705 [00:00:00.186] : SPEAKER_03
+    Thank you.
+
+00:37:46.679 → 00:37:47.489 [00:00:00.810] : SPEAKER_04
+    I can't live with it.
+
+00:37:51.117 → 00:37:52.400 [00:00:01.282] : SPEAKER_04
+    Now I'm gonna get going before you put it on.
+
+00:37:54.087 → 00:37:54.408 [00:00:00.321] : SPEAKER_04
+    Bye.
+
+00:37:57.395 → 00:37:57.800 [00:00:00.405] : SPEAKER_04
+    Atama.
+
+00:37:58.930 → 00:37:59.673 [00:00:00.742] : SPEAKER_04
+    crack a spokesman.
+
+00:38:03.942 → 00:38:05.022 [00:00:01.080] : SPEAKER_04
+    Some people don't like it, don't they?
+
+00:38:08.701 → 00:38:09.258 [00:00:00.557] : SPEAKER_03
+    Love
+
+00:38:11.148 → 00:38:12.802 [00:00:01.654] : SPEAKER_03
+    I mean, a few mistakes at me time.
+
+00:38:15.080 → 00:38:16.362 [00:00:01.282] : SPEAKER_03
+    a few enemies, but I'm...
+
+00:38:18.387 → 00:38:19.282 [00:00:00.894] : SPEAKER_03
+    We never killed Noah.
+
+00:38:19.282 → 00:38:19.315 [00:00:00.034] : SPEAKER_04
+    you
+
+00:38:22.319 → 00:38:24.412 [00:00:02.092] : SPEAKER_04
+    Sometimes it's not your enemies, I was it, sometimes it's...
+
+00:38:27.668 → 00:38:28.293 [00:00:00.624] : SPEAKER_04
+    Someone.
+
+00:38:29.677 → 00:38:31.111 [00:00:01.434] : SPEAKER_04
+    said it to me early tonight and I'm right.
+
+00:38:33.625 → 00:38:34.672 [00:00:01.046] : SPEAKER_04
+    Sometimes it's C.
+
+00:38:36.224 → 00:38:37.068 [00:00:00.844] : SPEAKER_04
+    people you love and
+
+00:38:37.810 → 00:38:38.907 [00:00:01.097] : SPEAKER_04
+    It's for all sorts of reasons.
+
+00:38:40.443 → 00:38:40.848 [00:00:00.405] : SPEAKER_04
+    when is that
+
+00:38:41.624 → 00:38:43.278 [00:00:01.654] : SPEAKER_04
+    Better do you think it was?
+
+00:38:44.881 → 00:38:46.973 [00:00:02.093] : SPEAKER_04
+    You know, killing that I love not higher.
+
+00:38:51.800 → 00:38:52.930 [00:00:01.131] : SPEAKER_04
+    I'm making any difference, how does it?
+
+00:38:56.862 → 00:38:56.913 [00:00:00.051] : SPEAKER_04
+    you
+
+00:38:56.913 → 00:38:56.947 [00:00:00.034] : SPEAKER_03
+    you
+
+00:38:56.947 → 00:38:56.963 [00:00:00.017] : SPEAKER_04
+    you
+
+00:38:56.963 → 00:38:57.031 [00:00:00.068] : SPEAKER_03
+    in
+
+00:38:57.031 → 00:38:57.605 [00:00:00.574] : SPEAKER_04
+    you know, didn't you?
+
+00:38:57.605 → 00:38:57.655 [00:00:00.051] : SPEAKER_03
+    you
+
+00:39:00.710 → 00:39:01.756 [00:00:01.046] : SPEAKER_03
+    You know how cute it is.
+
+00:39:06.818 → 00:39:07.240 [00:00:00.422] : SPEAKER_04
+    I didn't know.
+
+00:39:09.721 → 00:39:10.632 [00:00:00.911] : SPEAKER_04
+    not until tonight but
+
+00:39:12.421 → 00:39:13.467 [00:00:01.046] : SPEAKER_04
+    I'm putting the pieces together.
+
+00:39:16.184 → 00:39:16.201 [00:00:00.017] : SPEAKER_04
+    you
+
+00:39:16.201 → 00:39:17.315 [00:00:01.114] : SPEAKER_03
+    Was this someone else's?
+
+00:39:22.934 → 00:39:23.727 [00:00:00.793] : SPEAKER_04
+    So we're going to
+
+00:39:29.262 → 00:39:30.190 [00:00:00.928] : SPEAKER_03
+    Who are you doing at ya?
+
+00:39:32.654 → 00:39:33.633 [00:00:00.979] : SPEAKER_03
+    when you got a fund of
+
+00:39:35.860 → 00:39:36.333 [00:00:00.472] : SPEAKER_04
+    Good luck.
+
+00:39:38.662 → 00:39:39.404 [00:00:00.743] : SPEAKER_04
+    You're gonna come to me.
+
+00:39:44.281 → 00:39:46.087 [00:00:01.806] : SPEAKER_05
+    Ah!
+
+00:39:47.825 → 00:39:49.580 [00:00:01.755] : SPEAKER_05
+    Oh!
+
+00:39:47.868 → 00:39:48.965 [00:00:01.097] : SPEAKER_03
+    I'm so sorry.
+
+00:39:48.965 → 00:39:49.336 [00:00:00.371] : SPEAKER_04
+    I'm sorry.
+
+00:39:49.336 → 00:39:49.505 [00:00:00.169] : SPEAKER_03
+    You
+
+00:39:50.963 → 00:39:51.031 [00:00:00.068] : SPEAKER_05
+    you
+
+00:39:50.990 → 00:39:58.195 [00:00:07.206] : SPEAKER_04
+    Come on, Kim! Anybody now? Hersh! Oh, God! You've got to.
+
+00:39:51.031 → 00:39:58.152 [00:00:07.121] : SPEAKER_12
+    Come on, Kim! Anybody now? Hersh! Oh, God! You've got to.
+
+00:39:59.705 → 00:40:09.577 [00:00:09.872] : SPEAKER_12
+    I don't want to pay with you before I leave. You have a good match choice. I want to dunk down.
+
+00:39:59.782 → 00:40:09.704 [00:00:09.923] : SPEAKER_04
+    I don't want babies to be born in here. You have a good much choice. I want a duck's death.
+
+00:40:09.712 → 00:40:12.732 [00:00:03.021] : SPEAKER_12
+    Just get it, Roya!
+
+00:40:09.738 → 00:40:11.813 [00:00:02.076] : SPEAKER_04
+    I was with so much
+
+00:40:11.669 → 00:40:11.686 [00:00:00.017] : SPEAKER_05
+    you
+
+00:40:11.813 → 00:40:15.323 [00:00:03.510] : SPEAKER_06
+    Get it, Roya! I don't care if I have to leave the payment, I'm gonna have to go!
+
+00:40:14.665 → 00:40:15.391 [00:00:00.726] : SPEAKER_04
+    I'm gonna jump on!
+
+00:40:15.391 → 00:40:15.425 [00:00:00.034] : SPEAKER_06
+    you
+
+00:40:15.425 → 00:40:16.201 [00:00:00.776] : SPEAKER_04
+    Get out!
+
+00:40:16.893 → 00:40:17.146 [00:00:00.253] : SPEAKER_03
+    you
+
+00:40:24.757 → 00:40:25.297 [00:00:00.540] : SPEAKER_00
+    Are we shooting?
+
+00:40:26.866 → 00:40:28.520 [00:00:01.654] : SPEAKER_00
+    Yeah. I look on the bright side.
+
+00:40:29.212 → 00:40:30.663 [00:00:01.451] : SPEAKER_00
+    I hope you remember most of it anyway.
+
+00:40:31.068 → 00:40:32.553 [00:00:01.485] : SPEAKER_08
+    She always remembers.
+
+00:40:33.177 → 00:40:33.903 [00:00:00.726] : SPEAKER_08
+    the trouble.
+
+00:40:37.295 → 00:40:38.898 [00:00:01.603] : SPEAKER_08
+    Now you know why you moved away, right?
+
+00:40:40.012 → 00:40:40.636 [00:00:00.624] : SPEAKER_00
+    things happen.
+
+00:40:41.598 → 00:40:43.167 [00:00:01.569] : SPEAKER_00
+    If I had a minute, maybe I'd still be here.
+
+00:40:44.281 → 00:40:44.855 [00:00:00.574] : SPEAKER_00
+    and so
+
+00:40:45.783 → 00:40:47.133 [00:00:01.350] : SPEAKER_02
+    Now I know you're joking.
+
+00:40:46.812 → 00:40:51.689 [00:00:04.877] : SPEAKER_00
+    I'm serious. Every now and then, not thought about it coming back.
+
+00:40:52.583 → 00:40:53.393 [00:00:00.810] : SPEAKER_00
+    Starting again.
+
+00:40:54.676 → 00:40:56.380 [00:00:01.704] : SPEAKER_08
+    There's nothing stopping you now.
+
+00:40:58.388 → 00:41:00.717 [00:00:02.329] : SPEAKER_00
+    I think it's not that bad for me.
+
+00:41:01.898 → 00:41:02.337 [00:00:00.439] : SPEAKER_00
+    Oh yeah.
+
+00:41:03.434 → 00:41:04.328 [00:00:00.894] : SPEAKER_08
+    Yeah, I suppose.
+
+00:41:11.450 → 00:41:11.956 [00:00:00.506] : SPEAKER_00
+    Sorry.
+
+00:41:13.103 → 00:41:13.762 [00:00:00.658] : SPEAKER_00
+    just for
+
+00:41:13.762 → 00:41:16.715 [00:00:02.953] : SPEAKER_08
+    Yeah, the doors behind you just see yourself out.
+
+00:41:30.535 → 00:41:31.970 [00:00:01.434] : SPEAKER_03
+    Ah!
+
+00:41:31.970 → 00:41:33.202 [00:00:01.232] : SPEAKER_04
+    Ha ha!
+
+00:41:33.202 → 00:41:33.235 [00:00:00.034] : SPEAKER_03
+    you
+
+00:41:35.547 → 00:41:45.385 [00:00:09.838] : SPEAKER_04
+    Come on
+
+00:41:47.056 → 00:41:47.242 [00:00:00.186] : SPEAKER_04
+    you
+
+00:41:49.942 → 00:41:52.355 [00:00:02.413] : SPEAKER_03
+    Oh my god!
+
+00:41:54.565 → 00:41:57.113 [00:00:02.548] : SPEAKER_03
+    I'm so sorry.
+
+00:42:00.117 → 00:42:00.387 [00:00:00.270] : SPEAKER_03
+    you
+
+00:42:02.446 → 00:42:02.497 [00:00:00.051] : SPEAKER_03
+    you
+
+00:42:02.497 → 00:42:02.699 [00:00:00.202] : SPEAKER_05
+    you
+
+00:42:02.699 → 00:42:02.969 [00:00:00.270] : SPEAKER_03
+    you
+
+00:42:02.969 → 00:42:03.290 [00:00:00.321] : SPEAKER_05
+    Okay.
+
+00:42:05.281 → 00:42:09.112 [00:00:03.831] : SPEAKER_05
+    I was out there and I just stay calm and I'm fine.
+
+00:42:09.112 → 00:42:09.145 [00:00:00.034] : SPEAKER_01
+    you
+
+00:42:09.145 → 00:42:09.247 [00:00:00.101] : SPEAKER_05
+    Thank you.
+
+00:42:09.247 → 00:42:09.365 [00:00:00.118] : SPEAKER_01
+    you
+
+00:42:09.365 → 00:42:09.466 [00:00:00.101] : SPEAKER_05
+    you
+
+00:42:10.917 → 00:42:12.942 [00:00:02.025] : SPEAKER_05
+    No, I want to see my baby.
+
+00:42:14.309 → 00:42:14.849 [00:00:00.540] : SPEAKER_06
+    Sonia!
+
+00:42:14.849 → 00:42:14.866 [00:00:00.017] : SPEAKER_03
+    you
+
+00:42:21.397 → 00:42:22.055 [00:00:00.658] : SPEAKER_03
+    I'm sorry.
+
+00:42:22.628 → 00:42:28.214 [00:00:05.586] : SPEAKER_03
+    Oh my God!
+
+00:42:29.817 → 00:42:30.256 [00:00:00.439] : SPEAKER_03
+    Oh
+
+00:42:39.436 → 00:42:39.554 [00:00:00.118] : SPEAKER_03
+    you
+
+00:42:43.739 → 00:42:43.975 [00:00:00.236] : SPEAKER_03
+    you
+
+00:43:01.913 → 00:43:03.365 [00:00:01.451] : SPEAKER_02
+    Oh, it's a little bit okay.
+
+00:43:03.905 → 00:43:04.698 [00:00:00.793] : SPEAKER_02
+    Thanks, I
+
+00:43:06.672 → 00:43:07.786 [00:00:01.114] : SPEAKER_02
+    He's so tiny.
+
+00:43:08.427 → 00:43:13.118 [00:00:04.691] : SPEAKER_02
+    I think everything's good. I mean she's breathing, she's moving. She ain't.
+
+00:43:13.945 → 00:43:16.932 [00:00:02.987] : SPEAKER_02
+    Just I can't, she's gorgeous, Kim.
+
+00:43:15.667 → 00:43:16.038 [00:00:00.371] : SPEAKER_08
+    Oh
+
+00:43:16.038 → 00:43:16.055 [00:00:00.017] : SPEAKER_06
+    you
+
+00:43:18.215 → 00:43:19.970 [00:00:01.755] : SPEAKER_02
+    Look at that little hand.
+
+00:43:19.970 → 00:43:21.387 [00:00:01.418] : SPEAKER_06
+    She's so small.
+
+00:43:22.012 → 00:43:22.467 [00:00:00.456] : SPEAKER_06
+    So
+
+00:43:23.767 → 00:43:31.394 [00:00:07.628] : SPEAKER_06
+    No, I mean, she's precious. You know, she's precious. Pressure's a lovely night. Yes, really nice.
+
+00:43:32.508 → 00:43:33.419 [00:00:00.911] : SPEAKER_06
+    What do you think?
+
+00:43:34.330 → 00:43:36.254 [00:00:01.924] : SPEAKER_06
+    I'm not gonna name a that on your say so.
+
+00:43:41.823 → 00:43:42.329 [00:00:00.506] : SPEAKER_06
+    pal
+
+00:43:44.270 → 00:43:45.586 [00:00:01.316] : SPEAKER_06
+    I'm going to open it.
+
+00:43:46.345 → 00:43:46.430 [00:00:00.084] : SPEAKER_05
+    you
+
+00:43:46.430 → 00:43:46.447 [00:00:00.017] : SPEAKER_06
+    you
+
+00:43:46.447 → 00:43:49.045 [00:00:02.599] : SPEAKER_05
+    Oh, time to go! Well done, well done!
+
+00:43:48.590 → 00:43:48.623 [00:00:00.034] : SPEAKER_06
+    Thank you.
+
+00:43:48.623 → 00:43:48.674 [00:00:00.051] : SPEAKER_03
+    you
+
+00:43:48.674 → 00:43:48.809 [00:00:00.135] : SPEAKER_06
+    you
+
+00:43:49.822 → 00:43:49.838 [00:00:00.017] : SPEAKER_05
+    you
+
+00:43:49.838 → 00:43:49.906 [00:00:00.067] : SPEAKER_06
+    you
+
+00:43:49.906 → 00:43:49.957 [00:00:00.051] : SPEAKER_05
+    you
+
+00:43:49.957 → 00:43:51.155 [00:00:01.198] : SPEAKER_06
+    That's the story.
+
+00:43:49.990 → 00:43:51.037 [00:00:01.046] : SPEAKER_05
+    That's the story.
+
+00:43:51.037 → 00:43:51.172 [00:00:00.135] : SPEAKER_03
+    you
+
+00:43:51.155 → 00:43:51.222 [00:00:00.068] : SPEAKER_05
+    you
+
+00:43:51.172 → 00:43:51.307 [00:00:00.135] : SPEAKER_06
+    Thank you.
+
+00:43:51.307 → 00:43:51.863 [00:00:00.557] : SPEAKER_05
+    Yeah.
+
+00:43:51.863 → 00:43:51.914 [00:00:00.051] : SPEAKER_03
+    you
+
+00:43:51.914 → 00:43:51.931 [00:00:00.017] : SPEAKER_05
+    you
+
+00:43:51.931 → 00:43:52.572 [00:00:00.641] : SPEAKER_03
+    You
+
+00:43:52.572 → 00:43:52.859 [00:00:00.287] : SPEAKER_05
+    lol
+
+00:43:52.859 → 00:43:52.910 [00:00:00.051] : SPEAKER_03
+    you
+
+00:43:54.243 → 00:43:54.800 [00:00:00.557] : SPEAKER_06
+    you
+
+00:43:55.306 → 00:43:55.340 [00:00:00.034] : SPEAKER_05
+    you
+
+00:43:55.340 → 00:43:56.723 [00:00:01.384] : SPEAKER_06
+    Cheers. When's Les coming back?
+
+00:43:56.977 → 00:43:59.727 [00:00:02.751] : SPEAKER_00
+    So I'm going to give it a few hours when I'm at that party finished first.
+
+00:44:05.633 → 00:44:07.000 [00:00:01.367] : SPEAKER_05
+    an ambulance outside the Vic.
+
+00:44:07.928 → 00:44:08.738 [00:00:00.810] : SPEAKER_05
+    The evidence.
+
+00:44:09.886 → 00:44:10.747 [00:00:00.861] : SPEAKER_05
+    please go to
+
+00:44:11.658 → 00:44:11.675 [00:00:00.017] : SPEAKER_03
+    you
+
+00:44:11.675 → 00:44:11.692 [00:00:00.017] : SPEAKER_05
+    you
+
+00:44:11.692 → 00:44:12.046 [00:00:00.354] : SPEAKER_03
+    Thanks for watching.
+
+00:44:12.046 → 00:44:12.080 [00:00:00.034] : SPEAKER_05
+    you
+
+00:44:14.273 → 00:44:16.012 [00:00:01.738] : SPEAKER_09
+    Uh, it's probably on patrol.
+
+00:44:24.010 → 00:44:24.550 [00:00:00.540] : SPEAKER_08
+    Charlie?
+
+00:44:26.913 → 00:44:27.470 [00:00:00.557] : SPEAKER_08
+    Johnny.
+
+00:44:28.094 → 00:44:29.478 [00:00:01.384] : SPEAKER_08
+    They know. What?
+
+00:44:30.406 → 00:44:32.566 [00:00:02.160] : SPEAKER_08
+    I've owned him when I was in the kitchen.
+
+00:44:44.328 → 00:44:45.256 [00:00:00.928] : SPEAKER_07
+    Mrs. Franning.
+
+00:44:45.796 → 00:44:46.268 [00:00:00.472] : SPEAKER_07
+    Yes.
+
+00:44:46.268 → 00:44:46.336 [00:00:00.068] : SPEAKER_08
+    you
+
+00:44:47.197 → 00:44:47.973 [00:00:00.776] : SPEAKER_07
+    you called for
+
+00:44:47.973 → 00:45:00.781 [00:00:12.808] : SPEAKER_08
+    for police station. I told the young lady who answered the phone. I killed my son. He's next door at number 23. She's got this all wrong. She doesn't know what she's saying. I do, Charlie.
+
+00:45:04.544 → 00:45:05.557 [00:00:01.013] : SPEAKER_07
+    You better show me then.
+
+00:45:58.105 → 00:45:58.713 [00:00:00.608] : SPEAKER_01
+    I love you.
+
+00:46:08.483 → 00:46:09.327 [00:00:00.844] : SPEAKER_03
+    Oh
+
+00:46:10.508 → 00:46:10.542 [00:00:00.034] : SPEAKER_03
+    you
+
+00:46:11.116 → 00:46:11.538 [00:00:00.422] : SPEAKER_03
+    What?
+
+00:46:38.605 → 00:46:42.301 [00:00:03.696] : SPEAKER_05
+    Anything we can do, you just let us know, right? It's just routine.
+
+00:46:42.824 → 00:46:46.418 [00:00:03.594] : SPEAKER_05
+    You promise? Yeah, they just need to get the baby checked out, that's all.
+
+00:46:48.258 → 00:46:50.553 [00:00:02.295] : SPEAKER_06
+    And that said, she's going to be fine.
+
+00:46:50.553 → 00:46:52.257 [00:00:01.704] : SPEAKER_04
+    She is.
+
+00:46:52.257 → 00:46:53.945 [00:00:01.688] : SPEAKER_06
+    I'm gonna come with you.
+
+00:46:53.945 → 00:46:55.261 [00:00:01.316] : SPEAKER_04
+    Good idea
+
+00:46:55.463 → 00:47:13.975 [00:00:18.512] : SPEAKER_06
+    No, I don't want you anywhere near us. What? You've already told me what you think of her. Far with your concern, she's just a stupid mistake. Oh, Kim! But you're loving this, isn't it? Silly cow, I can't even give birth where she's supposed to. Kim, I didn't mean any of the things I've said in there. Maybe I wanted to have you hand up set me.
+
+00:47:14.971 → 00:47:18.143 [00:00:03.173] : SPEAKER_06
+    I'll tell you anywhere near me or my baby.
+
+00:47:18.785 → 00:47:19.713 [00:00:00.928] : SPEAKER_06
+    You want to start?
+
+00:47:20.540 → 00:47:21.164 [00:00:00.624] : SPEAKER_02
+    Units go.
+
+00:47:23.729 → 00:47:24.742 [00:00:01.012] : SPEAKER_06
+    You stay away.
+
+00:47:54.458 → 00:47:56.838 [00:00:02.379] : SPEAKER_07
+    I'll need to take you down to the station, Mrs. Brenning.
+
+00:47:57.158 → 00:47:57.749 [00:00:00.591] : SPEAKER_08
+    Yes.
+
+00:47:58.694 → 00:47:59.875 [00:00:01.181] : SPEAKER_08
+    I understand.
+
+00:48:31.567 → 00:48:32.849 [00:00:01.283] : SPEAKER_01
+    I want to come home.
+
+00:48:33.625 → 00:48:33.845 [00:00:00.219] : SPEAKER_09
+    Thank you.
+
+00:48:33.845 → 00:48:33.862 [00:00:00.017] : SPEAKER_01
+    you
+
+00:48:34.908 → 00:48:35.414 [00:00:00.506] : SPEAKER_09
+    Now you come.
+
+00:48:36.477 → 00:48:37.034 [00:00:00.557] : SPEAKER_09
+    I'm having it.
+
+00:48:37.827 → 00:48:39.262 [00:00:01.434] : SPEAKER_09
+    Ben, A&I, don't need it.
+
+00:48:39.886 → 00:48:40.763 [00:00:00.878] : SPEAKER_09
+    The mom and Billy there.
+
+00:48:42.130 → 00:48:42.603 [00:00:00.472] : SPEAKER_09
+    right.
+
+00:48:43.582 → 00:48:44.442 [00:00:00.861] : SPEAKER_01
+    Please, Phil.
+
+00:48:48.914 → 00:48:49.690 [00:00:00.776] : SPEAKER_01
+    I've got to go.
+
+00:48:51.496 → 00:48:52.205 [00:00:00.709] : SPEAKER_01
+    Please feel.
+
+00:48:52.947 → 00:48:53.521 [00:00:00.574] : SPEAKER_01
+    Please.
+
+00:49:06.768 → 00:49:08.202 [00:00:01.434] : SPEAKER_01
+    I'm gonna run away, is it?
+
+00:49:27.372 → 00:49:28.098 [00:00:00.726] : SPEAKER_04
+    We're doing it.
+
+00:49:30.005 → 00:49:30.022 [00:00:00.017] : SPEAKER_03
+    you
+
+00:49:30.022 → 00:49:30.292 [00:00:00.270] : SPEAKER_04
+    Huh?
+
+00:49:31.102 → 00:49:31.507 [00:00:00.405] : SPEAKER_04
+    So
+
+00:49:33.177 → 00:49:33.700 [00:00:00.523] : SPEAKER_06
+    Peter.
+
+00:49:33.700 → 00:49:36.265 [00:00:02.565] : SPEAKER_04
+    Just say it you bitch. Just tell me what you did. PASA!
+
+00:49:43.555 → 00:49:44.163 [00:00:00.608] : SPEAKER_01
+    go to your own.
+
+00:49:44.163 → 00:49:44.197 [00:00:00.034] : SPEAKER_05
+    you
+
+00:49:46.467 → 00:49:46.737 [00:00:00.270] : SPEAKER_03
+    Oh,
+
+00:49:46.525 → 00:49:46.795 [00:00:00.270] : SPEAKER_05
+    you
+
+00:49:48.965 → 00:49:49.724 [00:00:00.759] : SPEAKER_03
+    It's not the nice.
+
+00:49:49.023 → 00:49:49.782 [00:00:00.759] : SPEAKER_05
+    It's not the nice.
+
+00:49:55.462 → 00:49:56.525 [00:00:01.063] : SPEAKER_03
+    What's happening?
+
+00:49:55.537 → 00:49:56.583 [00:00:01.046] : SPEAKER_06
+    What's happening?
+
+00:50:12.151 → 00:50:12.337 [00:00:00.186] : SPEAKER_01
+    Ha ha!
+
+00:50:12.209 → 00:50:12.884 [00:00:00.675] : SPEAKER_03
+    HAH!
+
+00:50:12.337 → 00:50:12.691 [00:00:00.354] : SPEAKER_00
+    Oh
+
+00:50:12.691 → 00:50:12.809 [00:00:00.118] : SPEAKER_01
+    you
+
+00:50:12.809 → 00:50:12.893 [00:00:00.084] : SPEAKER_00
+    you
+
+00:50:13.653 → 00:50:13.940 [00:00:00.287] : SPEAKER_00
+    Huh?
+
+00:50:13.694 → 00:50:14.015 [00:00:00.321] : SPEAKER_03
+    Huh?
+
+00:50:21.348 → 00:50:26.123 [00:00:04.776] : SPEAKER_01
+    You've been singing in the right area. Last. You think he was coming back?
+
+00:50:26.545 → 00:50:30.123 [00:00:03.577] : SPEAKER_00
+    What's going? He just missed one 11 floors.
+
+00:50:30.629 → 00:50:30.646 [00:00:00.017] : SPEAKER_00
+    you
+
+00:50:30.646 → 00:50:30.933 [00:00:00.287] : SPEAKER_02
+    and
+
+00:50:33.481 → 00:50:35.506 [00:00:02.025] : SPEAKER_02
+    There's been a firm with them.
+
+00:50:36.502 → 00:50:40.197 [00:00:03.696] : SPEAKER_02
+    It's alright, it's nothing serious, but considering our age.
+
+00:50:41.294 → 00:50:45.293 [00:00:03.999] : SPEAKER_02
+    in the please keep the champagne flowing, everyone enjoy the rest of your evening and
+
+00:50:46.829 → 00:50:47.403 [00:00:00.574] : SPEAKER_02
+    Cool you like it.
+
+00:50:47.774 → 00:50:48.500 [00:00:00.726] : SPEAKER_03
+    Okay
+
+00:50:48.314 → 00:50:49.445 [00:00:01.131] : SPEAKER_02
+    I'm just kidding.
+
+00:50:48.500 → 00:50:48.533 [00:00:00.034] : SPEAKER_00
+    you
+
+00:50:50.643 → 00:50:51.048 [00:00:00.405] : SPEAKER_02
+    on.
+
+00:50:50.963 → 00:50:52.077 [00:00:01.114] : SPEAKER_03
+    Lessor
+
+00:50:51.048 → 00:50:51.082 [00:00:00.034] : SPEAKER_00
+    you
+
+00:50:52.077 → 00:50:52.094 [00:00:00.017] : SPEAKER_00
+    you
+
+00:50:52.735 → 00:50:52.769 [00:00:00.034] : SPEAKER_01
+    you
+
+00:50:52.769 → 00:50:54.035 [00:00:01.266] : SPEAKER_00
+    I'm so sorry.
+
+00:50:54.035 → 00:50:55.452 [00:00:01.418] : SPEAKER_01
+    Just relax.
+
+00:50:55.452 → 00:50:55.537 [00:00:00.084] : SPEAKER_03
+    you
+
+00:50:55.537 → 00:50:56.212 [00:00:00.675] : SPEAKER_01
+    Thank you.
+
+00:50:57.730 → 00:51:00.616 [00:00:02.886] : SPEAKER_03
+    No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,
+
+00:51:03.164 → 00:51:04.649 [00:00:01.485] : SPEAKER_01
+    Don't let the sh-
+
+00:51:14.926 → 00:51:15.415 [00:00:00.489] : SPEAKER_01
+    Good evening.
+
+00:51:16.732 → 00:51:22.469 [00:00:05.738] : SPEAKER_01
+    Stay back. Dane, you know there's a pub full of people through there. Yeah, you've got an alarm, haven't you? Look at plenty of warning.
+
+00:51:23.009 → 00:51:29.270 [00:00:06.261] : SPEAKER_01
+    It should pub a one like your punters. All right, I'm not mad but I'm all your slaper of a wife called me either. That'd be stupid.
+
+00:51:28.156 → 00:51:28.527 [00:00:00.371] : SPEAKER_00
+    that would be
+
+00:51:31.666 → 00:51:32.054 [00:00:00.388] : SPEAKER_01
+    the
+
+00:51:33.657 → 00:51:34.838 [00:00:01.181] : SPEAKER_01
+    You can go if you want men's.
+
+00:51:37.555 → 00:51:37.825 [00:00:00.270] : SPEAKER_01
+    Thank you.
+
+00:51:38.332 → 00:51:39.462 [00:00:01.131] : SPEAKER_01
+    Let me get that suit this out.
+
+00:51:40.002 → 00:51:40.897 [00:00:00.894] : SPEAKER_01
+    I'm going to argue with you.
+
+00:51:41.268 → 00:51:41.977 [00:00:00.709] : SPEAKER_00
+    And she's why.
+
+00:51:43.647 → 00:51:44.693 [00:00:01.046] : SPEAKER_00
+    and go clear with it then.
+
+00:51:45.301 → 00:51:49.250 [00:00:03.949] : SPEAKER_01
+    And Nancy was right from the off. You see Nancy knew there was something going on between me and Linda.
+
+00:51:52.000 → 00:51:53.030 [00:00:01.029] : SPEAKER_01
+    You know, I had a life.
+
+00:51:53.671 → 00:51:54.262 [00:00:00.591] : SPEAKER_01
+    Before her.
+
+00:51:57.012 → 00:51:57.923 [00:00:00.911] : SPEAKER_01
+    God of family.
+
+00:51:59.476 → 00:51:59.948 [00:00:00.472] : SPEAKER_01
+    how
+
+00:52:01.585 → 00:52:03.982 [00:00:02.396] : SPEAKER_01
+    And she took it all away from me. She took it all.
+
+00:52:05.382 → 00:52:06.530 [00:00:01.148] : SPEAKER_01
+    I'm not a rapist.
+
+00:52:07.357 → 00:52:08.234 [00:00:00.878] : SPEAKER_01
+    Just a naosonist.
+
+00:52:09.162 → 00:52:11.474 [00:00:02.312] : SPEAKER_01
+    or anything I'm doing, you've made me do.
+
+00:52:12.554 → 00:52:14.343 [00:00:01.789] : SPEAKER_00
+    She's like Linda, she lets you on.
+
+00:52:15.440 → 00:52:16.655 [00:00:01.215] : SPEAKER_00
+    Was it your fault, Naive?
+
+00:52:16.807 → 00:52:16.992 [00:00:00.186] : SPEAKER_01
+    you
+
+00:52:18.089 → 00:52:18.562 [00:00:00.473] : SPEAKER_01
+    It was.
+
+00:52:18.865 → 00:52:19.793 [00:00:00.928] : SPEAKER_00
+    Nothing ever is.
+
+00:52:24.603 → 00:52:25.396 [00:00:00.793] : SPEAKER_01
+    He'll scare me.
+
+00:52:25.598 → 00:52:25.615 [00:00:00.017] : SPEAKER_00
+    you
+
+00:52:25.615 → 00:52:25.919 [00:00:00.304] : SPEAKER_01
+    Nah.
+
+00:52:27.742 → 00:52:30.037 [00:00:02.295] : SPEAKER_01
+    You're the one who's scared. No one's not scared of anyone.
+
+00:52:31.505 → 00:52:36.348 [00:00:04.843] : SPEAKER_01
+    Hey, you just remember I did your favour by sleeping with her. I opened your eyes.
+
+00:52:37.360 → 00:52:38.980 [00:00:01.620] : SPEAKER_01
+    You know your mum's for you there, don't you?
+
+00:52:44.515 → 00:52:45.764 [00:00:01.249] : SPEAKER_00
+    You shut your mouth.
+
+00:52:48.127 → 00:52:48.886 [00:00:00.759] : SPEAKER_00
+    That's what you're doing.
+
+00:52:49.831 → 00:52:51.097 [00:00:01.266] : SPEAKER_00
+    He's not breathing!
+
+00:52:56.800 → 00:52:57.593 [00:00:00.793] : SPEAKER_00
+    That's
+
+00:53:50.142 → 00:53:50.665 [00:00:00.523] : SPEAKER_03
+    It's me.
+
+00:53:53.450 → 00:53:53.888 [00:00:00.439] : SPEAKER_03
+    I know.
+
+00:53:56.302 → 00:53:56.943 [00:00:00.641] : SPEAKER_03
+    I know.
+
+00:54:00.250 → 00:54:01.094 [00:00:00.844] : SPEAKER_03
+    You killed Lucy.
+
+00:54:03.136 → 00:54:04.300 [00:00:01.164] : SPEAKER_03
+    Get everyone out of the house.
+
+00:54:06.832 → 00:54:07.557 [00:00:00.726] : SPEAKER_03
+    I'm coming home.
+
+00:54:20.467 → 00:54:20.500 [00:00:00.034] : SPEAKER_01
+    you
+
+00:54:20.500 → 00:54:20.669 [00:00:00.169] : SPEAKER_02
+    What?
+
+00:54:20.669 → 00:54:20.686 [00:00:00.017] : SPEAKER_01
+    you
+
+00:54:23.116 → 00:54:23.521 [00:00:00.405] : SPEAKER_01
+    Charlie!
+
+00:54:25.073 → 00:54:25.630 [00:00:00.557] : SPEAKER_01
+    What's happening?
+
+00:54:31.351 → 00:54:32.228 [00:00:00.878] : SPEAKER_03
+    Goodbye.
+
+00:54:33.916 → 00:54:34.372 [00:00:00.456] : SPEAKER_03
+    Nope.
+
+00:54:38.135 → 00:54:38.287 [00:00:00.152] : SPEAKER_03
+    you
+
+00:55:33.603 → 00:55:34.801 [00:00:01.198] : SPEAKER_02
+    Tell me exactly.
+
+00:55:35.712 → 00:55:36.809 [00:00:01.097] : SPEAKER_02
+    What happened that night?
+
+00:56:31.265 → 00:56:31.282 [00:00:00.017] : SPEAKER_03
+    you
+
+00:56:31.282 → 00:56:31.518 [00:00:00.236] : SPEAKER_00
+    you
+
+00:56:31.518 → 00:56:33.205 [00:00:01.688] : SPEAKER_03
+    The super dark is alive.
+
+00:56:34.572 → 00:56:36.462 [00:00:01.890] : SPEAKER_03
+    It doesn't break a man, make some man.
+
+00:56:37.559 → 00:56:37.627 [00:00:00.068] : SPEAKER_03
+    you
+
+00:56:37.627 → 00:56:49.186 [00:00:11.559] : SPEAKER_01
+    Elizabeth
+
+00:56:52.493 → 00:56:57.708 [00:00:05.214] : SPEAKER_01
+    What's your name? Demelda Karr. Rostpoldark.
+
+00:56:58.805 → 00:57:00.003 [00:00:01.198] : SPEAKER_01
+    People say it was.
+
+00:57:00.796 → 00:57:03.344 [00:00:02.548] : SPEAKER_01
+    Your place is here. You land your mind.
+
+00:57:03.428 → 00:57:03.445 [00:00:00.017] : SPEAKER_03
+    you
+
+00:57:03.445 → 00:57:03.968 [00:00:00.523] : SPEAKER_01
+    Where did you see that?
+
+00:57:03.968 → 00:57:08.272 [00:00:04.303] : SPEAKER_03
+    I think I was going to...
+
